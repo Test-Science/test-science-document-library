@@ -1,0 +1,25 @@
+---
+title: Statistics Boot Camp
+author: Kelly Avery, Stephanie Lane
+date: 2019-01-01
+year: 2019
+slug: []
+areas: ['Uncertainty Quantification']
+keywords: ['statistics','descriptive statistics','inferential statistics','graphics','non-parametrics statistics']
+researchers: ['Kelly Avery','Stephanie Lane']
+audience: Everyone
+journal: ['DATAWorks']
+draft: no
+---
+
+{{< youtube id= qVPtm43prdU >}}
+
+### Abstract
+
+In the test community, we frequently use statistics to extract meaning from data. These inferences may be drawn with respect to topics ranging from system performance to human factors. In this mini-tutorial, we will begin by discussing the use of descriptive and inferential statistics. We will continue by discussing commonly used parametric and nonparametric statistics within the defense community, ranging from comparisons of distributions to comparisons of means. We will conclude with a brief discussion of how to present your statistical findings graphically for maximum impact.
+
+### Slides {{< pdfReader "slides.pdf" >}}
+
+
+
+

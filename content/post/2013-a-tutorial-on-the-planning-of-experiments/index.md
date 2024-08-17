@@ -1,0 +1,26 @@
+---
+title: A Tutorial on the Planning of Experiments
+author: Rachel Johnson, Douglas Montgomery, Bradley Jones, Chris Gotwalt
+date: 2013-01-01
+year: 2013
+slug: []
+areas: ['Design of Experiments']
+keywords: ['design of experiment','experimental protocol','experimental strategy','scientific method','sequential experimentation']
+researchers: ['Rachel Johnson','Douglas Montgomery','Bradley Jones','Chris Gotwalt']
+audience: Everyone
+journal: ['Quality Engineering']
+draft: no
+---
+
+
+
+### Abstract
+
+This tutorial outlines the basic procedures for planning experiments within the context of the scientific method. Too often quality practitioners fail to appreciate how subject-matter expertise must interact with statistical expertise to generate efficient and effective experimental programs. This tutorial guides the quality practitioner through the basic steps, demonstrated by extensive past experience, that consistently lead to successful results. This tutorial makes extensive use of flowcharts to illustrate the basic process. Two case studies summarize the applications of the methodology.
+
+
+
+### Paper 
+ {{< pdfReader "paper.pdf" >}}
+
+

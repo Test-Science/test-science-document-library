@@ -8,19 +8,21 @@ areas: ['Design of Experiments']
 keywords: ['defense testing','developmental testing','DOD','military defense','U.S. military']
 researchers: ['Laura Freeman','Catherine Warner']
 audience: Everyone
-journal: ['CHANCE']
+venues: CHANCE
 draft: no
 ---
 
 
 
 ### Abstract
-
 Needs one
 
+#### Suggested Citation
+> Freeman, Laura J., and Catherine Warner. “Informing the Warfighter—Why Statistical Methods Matter in Defense Testing.” CHANCE 31, no. 2 (April 3, 2018): 4–11. https://doi.org/10.1080/09332480.2018.1467627.
 
 
-### Paper 
+
+#### Paper 
  {{< pdfReader "paper.pdf" >}}
 
 

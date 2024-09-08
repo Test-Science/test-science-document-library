@@ -8,19 +8,21 @@ areas: ['Design of Experiments']
 keywords: ['Power analysis','Design of Experiments','JMP','Design Expert']
 researchers: ['James Simpson','Thomas Johnson','Laura Freeman']
 audience: Practitioner
-journal: ['Institute for Defense Analyses']
+venues: Institute for Defense Analyses
 draft: no
 ---
 
 
 
 ### Abstract
-
 This guide provides both a general explanation of power analysis and specific guidance to successfully interface with two software packages, JMP and Design Expert (DX).
 
+#### Suggested Citation
+> Freeman, Laura J., Thomas H. Johnson, and James R. Simpson. “Power Analysis Tutorial for Experimental Design Software:” Fort Belvoir, VA: Defense Technical Information Center, November 1, 2014. https://doi.org/10.21236/ADA619843.
 
 
-### Paper 
+
+#### Paper 
  {{< pdfReader "paper.pdf" >}}
 
 

@@ -8,17 +8,19 @@ areas: ['Design of Experiments','Modeling and Simulation','Uncertainty Quantific
 keywords: ['Hybrid Design','M&S','computer simulation','Design of Experiments']
 researchers: ['Rachel Johnson Silvestrini']
 audience: Practitioner
-journal: ['Naval Postgraduate School']
+venues: Naval Postgraduate School
 draft: no
 ---
 
 
 
 ### Abstract
-
 This tutorial provides an overview of experimental design for modeling and simulation. Pros and cons of each design methodology are discussed.
 
-### Slides {{< pdfReader "slides.pdf" >}}
+#### Suggested Citation
+> Silvestrini, Rachel Johnson. “Hybrid Designs: Space Filling and Optimal Experimental Designs for Use in Studying Computer Simulation Models.” Monterey, California, May 2011.
+
+#### Slides {{< pdfReader "slides.pdf" >}}
 
 
 

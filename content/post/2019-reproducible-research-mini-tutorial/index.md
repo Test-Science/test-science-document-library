@@ -8,17 +8,19 @@ areas: ['Data Management']
 keywords: ['Reproducible analyses']
 researchers: ['Andrew Flack','John Haman','Kevin Kirshenbaum']
 audience: Everyone
-journal: ['DATAWorks']
+venues: DATAWorks
 draft: no
 ---
 
 {{< youtube id= WOyEulNqCKA >}}
 
 ### Abstract
-
 Analyses are reproducible if the same methods applied to the same data produce identical results when run again by another researcher (or you in the future). Reproducible analyses are transparent and easy for reviewers to verify, as results and figures can be traced directly to the data and methods that produced them. There are also direct benefits to the researcher. Real-world analysis workflows inevitably require changes to incorporate new or additional data, or to address feedback from collaborators, reviewers, or sponsors.
 
-### Slides {{< pdfReader "slides.pdf" >}}
+#### Suggested Citation
+> Wojton, Heather, Andrew Flack, John Haman, and Kevin Kirshenbaum. “Reproducible Research Mini-Tutorial.” Institute for Defense Analyses IDA Document NS D-10581 (April 2019).
+
+#### Slides {{< pdfReader "slides.pdf" >}}
 
 
 

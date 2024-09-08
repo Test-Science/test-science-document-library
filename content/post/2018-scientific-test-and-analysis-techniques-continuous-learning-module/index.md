@@ -8,15 +8,17 @@ areas: ['Design of Experiments','Uncertainty Quantification']
 keywords: ['Design of experiments','observational studies','survey design and analysis','statistical analysis','Defense Acquisition University (DAU)']
 researchers: ['Laura Freeman','Denise Edwards','Stephanie Lane','James Simpson','Heather Wojton']
 audience: Practitioner
-journal: ['Defense Acquisition University']
+venues: Defense Acquisition University
 draft: no
 ---
 
 
 
 ### Abstract
-
 This document contains the technical content for the Scientific Test and Analysis Techniques (STAT) in Test and Evaluation (T&E) continuous learning module. The module provides a basic understanding of STAT in T&E. Topics coverec include design of experiments, observational studies, survey design and analysis, and statistical analysis. It is designed as a four hour online course, suitable for inclusion in the DAU T&E certification curriculum.
+
+#### Suggested Citation
+> Pinelis, Yevgeniya, Laura J Freeman, Heather M Wojton, Denise J Edwards, Stephanie T Lane, and James R Simpson. “Scientific Test and Analysis Techniques: Continuous Learning Module.” Institute for Defense Analyses IDA Non-Standard Document NS D-892 (August 2018).
 
 
 

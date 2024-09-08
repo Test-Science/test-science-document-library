@@ -8,17 +8,19 @@ areas: ['Design of Experiments']
 keywords: ['Statistics','Design of Experiments','Experimental Design','Test and Evaluation']
 researchers: ['Laura Freeman']
 audience: Everyone
-journal: ['Range Commanders Conference']
+venues: Range Commanders Conference
 draft: no
 ---
 
 
 
 ### Abstract
-
 This document outlines the charter for the Committee to Institutionalize Scientific Test Design and Rigor in Test and Evaluation. The charter defines the problem, identifies potential steps in a roadmap for accomplishing the goals of the committee and lists committeemembership. Once the committee is assembled, the members will revise this document as needed. The charter will be endorsed by DOT&E and DDT&E, once finalize.
 
-### Slides {{< pdfReader "slides.pdf" >}}
+#### Suggested Citation
+> Freeman, Laura. “Statistically Based T&E Using Design of Experiments.” Institute for Defense Analyses IDA Document D-4548 (February 2012).
+
+#### Slides {{< pdfReader "slides.pdf" >}}
 
 
 

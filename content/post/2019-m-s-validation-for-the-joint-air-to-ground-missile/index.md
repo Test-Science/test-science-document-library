@@ -8,19 +8,21 @@ areas: ['Modeling and Simulation']
 keywords: ['Model Validation','JAGM']
 researchers: ['Brent Crabtree','Andrew Cseko','Tom Johnson','Joel Williamson','Kelly Avery']
 audience: Practitioner
-journal: ['DATAWorks']
+venues: DATAWorks
 draft: no
 ---
 
 
 
 ### Abstract
-
 An operational test is resource-limited and must therefore rely on both live test data and modeling and simulation (M&S) data to inform a full evaluation.  For the Joint Air-to-Ground Missile (JAGM) system, we needed to create a test design that accomplished dual goals, haracterizing missile performance across the operational space and supporting rigorous validation of the M&S.  Our key question is which statistical techniques should be used to compare the M&S to the live data?
 
+#### Suggested Citation
+> Crabtree, Brent, Andrew Cseko, Joel Williamson, and Kelly Avery. “M&S Validation for the Joint Air-to-Ground Missile.” Institute for Defense Analyses, March 2019.
 
 
 
 
-### Poster 
+
+#### Poster 
  {{< pdfReader "poster.pdf" >}}

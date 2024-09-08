@@ -8,19 +8,21 @@ areas: ['Design of Experiments']
 keywords: ['JMP software','Statistics','Operational Testing','Design of Experiments']
 researchers: ['Jason Sheldon']
 audience: Everyone
-journal: ['Institute for Defense Analyses']
+venues: Institute for Defense Analyses
 draft: no
 ---
 
 
 
 ### Abstract
-
 Are you sick of having to manually iterate your way through sizing your design of experiments? Come learn about JEDIS, the new IDA-developed JMP Add-In for automating design of experiments power calculations. JEDIS builds multiple test designs in JMP over user-specified ranges of sample sizes, Signal-to-Noise Ratios (SNR), and alpha (1 -confidence) levels. It then automatically calculates the statistical power to detect an effect due to each factor and any specified interactions for each design. When finished, JEDIS presents the statistical power vs. design metrics in interactive plots and stores the data in an easy to use format. JEDIS creates factorial and optimal designs, but Design of Experimentss not currently support split plot designs. If you already have a pre-made design table, the JEDIS Light feature can compute power for the design over ranges of SNR and alpha levels.
 
+#### Suggested Citation
+> Pechkis, Daniel, and Jason P Sheldon. “JEDIS Briefing and Tutorial for DATAWorks 2018.” Institute for Defense Analyses IDA Non-Standard Document NS D-8964 (March 2018).
 
 
-### Paper 
+
+#### Paper 
  {{< pdfReader "paper.pdf" >}}
 
 

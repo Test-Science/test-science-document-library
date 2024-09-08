@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['observational studies']
 researchers: ['Yevgeniya Pinelis']
 audience: Practitioner
-journal: ['Institute for Defense Analyses']
+venues: Institute for Defense Analyses
 draft: no
 ---
 
@@ -17,8 +17,10 @@ draft: no
 ### Abstract
 
 
+#### Suggested Citation
+> Thomas, Dean, and Yevgeniya K Pinelis. “Introduction to Observational Studies.” Institute for Defense Analyses IDA Non-Standard Document NS D-9020 (March 2018).
 
-### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides {{< pdfReader "slides.pdf" >}}
 
 
 

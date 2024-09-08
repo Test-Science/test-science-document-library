@@ -8,19 +8,21 @@ areas: ['Design of Experiments','Modeling and Simulation']
 keywords: ['Design of Experiments','Gaussian Process Modeling','Modeling & Simulation','Space Filling Designs','Statistics']
 researchers: ['Han Yi','Curtis Miller','Kelly Avery']
 audience: Practitioner
-journal: ['Multi-Domain Operations Workshop']
+venues: Multi-Domain Operations Workshop
 draft: no
 ---
 
 
 
 ### Abstract
-
 This document presents arguments and methods for using space-filling designs (SFDs) to plan modeling and simulation (M&S) data collection.
 
-### Slides {{< pdfReader "slides.pdf" >}}
+#### Suggested Citation
+> Avery, Kelly, John T Haman, Thomas Johnson, Curtis Miller, Dhruv Patel, and Han Yi. “Test Design Challenges in Defense Testing.” Institute for Defense Analyses IDA Product ID 3002855 (July 2024).
 
-### Paper 
+#### Slides {{< pdfReader "slides.pdf" >}}
+
+#### Paper 
  {{< pdfReader "paper.pdf" >}}
 
 

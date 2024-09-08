@@ -8,17 +8,19 @@ areas: ['Uncertainty Quantification']
 keywords: ['Censored Data Analysis','Naval Surface Gunnery','Continuous Response','Probability of Kill']
 researchers: ['Benjamin Ashwell','V. Bram Lillard']
 audience: Practitioner
-journal: ['DATAWorks']
+venues: DATAWorks
 draft: no
 ---
 
 
 
 ### Abstract
-
 Recasting gunfire data from binomial (hit/miss) to continuous (time-to-kill) allows us to draw statistical conclusions with tactical implications from free-play,live-fire surface gunnery events. Our analysis provided the Navy with suggestions forimprovements to its tactics and the employment of its weapons. A censored analysisenabled us to do so, where other methods fell short.
 
-### Slides {{< pdfReader "slides.pdf" >}}
+#### Suggested Citation
+> Ashwell, Benjamin A, V Bram Lillard, and George M Khoury. “Improved Surface Gunnery Analysis with Continuous Data.” Institute for Defense Analyses IDA Non-Standard Document NS D-8990 (March 2018).
+
+#### Slides {{< pdfReader "slides.pdf" >}}
 
 
 

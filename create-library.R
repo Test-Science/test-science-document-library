@@ -51,15 +51,17 @@ areas: %s
 keywords: %s
 researchers: %s
 audience: %s
-journal: %s
+venues: %s
 draft: no
 ---
 
 %s
 
 ### Abstract
-
 %s
+
+#### Suggested Citation
+> %s
 
 %s
 
@@ -86,7 +88,7 @@ paste0("[", paste(paste0( "'", strsplit(dat[i, ]$Authors, split = ", ")[[1]], "'
 dat[i, ]$Audience,
 
 # Journals
-paste0("[", paste(paste0( "'", strsplit(dat[i, ]$Journal, split = ", ")[[1]], "'"), collapse = ","), "]"),
+dat[i, ]$Journal,
 
 
 ### Content
@@ -104,22 +106,26 @@ ifelse(!is.na(dat[i, ]$Description),
        paste(dat[i, ]$Description),
        ""),
 
+# Suggest Citation
+dat[i, ]$`Suggested-Citation`,
+
+
 # Slides
 ifelse(!identical(slide, character(0)),
-       paste("### Slides",
+       paste("#### Slides",
              "{{< pdfReader \"slides.pdf\" >}}"),
        ""),
 
 
 # Paper
 ifelse(!identical(paper, character(0)),
-       paste("### Paper", "\n",
+       paste("#### Paper", "\n",
              "{{< pdfReader \"paper.pdf\" >}}"),
        ""),
 
 # Poster
 ifelse(!identical(poster, character(0)),
-       paste("### Poster", "\n",
+       paste("#### Poster", "\n",
              "{{< pdfReader \"poster.pdf\" >}}"),
        "")
 )

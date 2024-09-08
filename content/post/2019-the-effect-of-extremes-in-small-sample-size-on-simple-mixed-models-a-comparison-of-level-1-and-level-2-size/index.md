@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['MIXED EFFECT MODELS','MULTI LEVEL MODELS','SAMPLE SIZE','EFFECT SIZE','POWER']
 researchers: ['Kristina Carter','Heather Wojton','Stephanie Lane']
 audience: Practitioner
-journal: ['ITEA Journal']
+journal: ['The The ITEA Journal of Test and Evaluation of Test and Evaluation']
 draft: no
 ---
 

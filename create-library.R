@@ -5,7 +5,7 @@ library(data.table)
 library(tools)
 
 dat <- read_xlsx("./test-science-documents-library.xlsx")
-num_posts <- nrow(dat)
+num_posts <- nrow(dat); print(c("Number of posts:", num_posts))
 
 ## Run this to create all the folders and slugs. Not Destructive.
 
@@ -21,9 +21,9 @@ num_posts <- nrow(dat)
 ## Use blogdown to make new post folders and slugs
 ## stopped on 27
 posts <- list.files(here("content/post"), ".md$", recursive = TRUE, full.names = TRUE)
-posters <- list.files(here("content/post"), "poster.pdf$", recursive = TRUE, full.names = TRUE)
-slides <- list.files(here("content/post"), "slides.pdf$", recursive = TRUE, full.names = TRUE)
-papers <- list.files(here("content/post"), "paper.pdf$", recursive = TRUE, full.names = TRUE)
+posters <- list.files(here("content/post"), "poster", recursive = TRUE, full.names = TRUE)
+slides <- list.files(here("content/post"), "slide", recursive = TRUE, full.names = TRUE)
+papers <- list.files(here("content/post"), "paper", recursive = TRUE, full.names = TRUE)
 
 
 for (i in 1:num_posts) {

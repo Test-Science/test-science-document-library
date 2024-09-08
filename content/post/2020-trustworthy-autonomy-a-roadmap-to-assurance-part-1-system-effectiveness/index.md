@@ -8,7 +8,7 @@ areas: ['Artificial Intelligence and Autonomy']
 keywords: ['Artificial Intelligence','autonomous systems','autonomy','Machine Learning','Military AI','T&E','Test & Evaluation','Test Methods','Test Strategy','test,evaluation','verification','and validation (TEV&V)','TEVV']
 researchers: ['Daniel Porter','Michael McAnally','Chad Bieber','Heather Wojton','Rebecca Medlin']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

@@ -8,7 +8,7 @@ areas: ['Uncertainty Quantification']
 keywords: ['Bayesian','reliability','Paladin','sequence of models','experimental design']
 researchers: ['Caleb Browning','Laura Freeman','Alyson Wilson','Kassandra Fronczyk','Rebecca Medlin']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

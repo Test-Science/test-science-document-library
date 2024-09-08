@@ -8,7 +8,7 @@ areas: ['Artificial Intelligence and Autonomy']
 keywords: ['TARTA','test','evaluation','verification','and validation','autonomous systems','artificial intelligence (AI)','autonomy framework']
 researchers: ['Daniel Porter','Heather Wojton']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

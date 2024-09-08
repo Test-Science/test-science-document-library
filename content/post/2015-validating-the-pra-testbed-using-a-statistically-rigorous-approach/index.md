@@ -8,7 +8,7 @@ areas: ['Modeling and Simulation']
 keywords: ['Data Analysis','Combatants','Modeling and Simulation','Model Validation','Probability of Raid Annihilation']
 researchers: ['Rebecca Medlin','Dean Thomas']
 audience: Everyone
-journal: ['ITEA Journal']
+journal: ['The ITEA Journal of Test and Evaluation']
 draft: no
 ---
 

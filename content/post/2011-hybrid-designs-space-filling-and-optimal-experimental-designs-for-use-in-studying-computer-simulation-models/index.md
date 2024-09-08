@@ -8,7 +8,7 @@ areas: ['Design of Experiments','Modeling and Simulation','Uncertainty Quantific
 keywords: ['Hybrid Design','M&S','computer simulation','Design of Experiments']
 researchers: ['Rachel Johnson Silvestrini']
 audience: Practitioner
-journal: ['NPS Publication']
+journal: ['Naval Postgraduate School']
 draft: no
 ---
 

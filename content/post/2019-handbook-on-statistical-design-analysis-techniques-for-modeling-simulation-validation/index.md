@@ -9,7 +9,7 @@ areas: ['Design of Experiments','Modeling and Simulation','Uncertainty Quantific
 keywords: ['Computer Experiments','Design of Experiments','Model Assessment and Validation','Uncertainty Quantification']
 researchers: ['Heather Wojton','Kelly Avery','Laura Freeman','Samuel Parry','Gregory Whittier','Thomas Johnson','Andrew Flack']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

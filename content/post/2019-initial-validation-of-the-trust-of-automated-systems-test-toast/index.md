@@ -8,7 +8,7 @@ areas: ['Human Systems Interactions']
 keywords: ['Trust in Automated Systems Test (TOAST)','autonomy','Trust in automation']
 researchers: ['Heather Wojton','Daniel Porter','Stephanie Lane','Chad Bieber','Poornima Madhavan']
 audience: Expert
-journal: ['IDA Publication']
+journal: ['The Journal of Social Psychology']
 draft: no
 ---
 

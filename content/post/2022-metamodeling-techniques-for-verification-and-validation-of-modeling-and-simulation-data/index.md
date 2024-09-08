@@ -8,7 +8,7 @@ areas: ['Modeling and Simulation','Design of Experiments']
 keywords: ['Gaussian Process Modeling','Generalized Additive Models','Modeling and Simulation Validation','Paper Plane Simulation','Statistical Methods']
 researchers: ['John Haman','Curtis Miller']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

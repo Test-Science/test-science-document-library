@@ -8,7 +8,7 @@ areas: ['Human Systems Interactions']
 keywords: ['measurement error','triangulation']
 researchers: ['Dean Thomas','Heather Wojton','Chad Bieber','Daniel Porter']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

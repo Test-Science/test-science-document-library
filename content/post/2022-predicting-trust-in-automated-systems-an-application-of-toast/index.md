@@ -8,7 +8,7 @@ areas: ['Human Systems Interactions']
 keywords: ['Automated system','Autonomous','reliance','trust','Trust in Automated Systems Test (TOAST)']
 researchers: ['Caitlan Fealing']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

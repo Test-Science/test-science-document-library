@@ -8,7 +8,7 @@ areas: ['Design of Experiments','Modeling and Simulation']
 keywords: ['Design of Experiments','Modeling and Simulation','Statistics','Space-Filling Designs']
 researchers: ['Curtis Miller','Kelly Duffy']
 audience: Expert
-journal: ['JSM']
+journal: ['Joint Statistical Meetings']
 draft: no
 ---
 

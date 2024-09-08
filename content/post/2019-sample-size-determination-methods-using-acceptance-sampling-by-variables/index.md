@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['Operational testing','Design of Experiments','Statistics']
 researchers: ['Thomas Johnson','Lindsey Butler','Kerry Walzl','Heather Wojton']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

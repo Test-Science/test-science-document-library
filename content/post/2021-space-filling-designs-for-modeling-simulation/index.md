@@ -8,7 +8,7 @@ areas: ['Design of Experiments','Modeling and Simulation']
 keywords: ['Design of Experiments','Gaussian Process Modeling','Modeling & Simulation','Space Filling Designs','Statistics']
 researchers: ['Han Yi','Curtis Miller','Kelly Avery']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['Multi-Domain Operations Workshop']
 draft: no
 ---
 

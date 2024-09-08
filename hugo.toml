@@ -17,10 +17,9 @@ ShowBreadCrumbs = true
 
 [params.homeInfoParams]
         Title = "Welcome to the Test Science Document Library!📈"
-        Content = "This site is a collection of all publically availble Test Science papers, slide decks, and presentations. Peruse our research products!"
+        Content = "This library comprises all publically available Test Science research papers, slide decks, and presentations.  Publications contain methodological developments, lessons learned, and training materials conducted to advance the theory and practice of rigorous operational and live fire test and evaluation. The library features research conducted with the core Test Science research areas:  Human Systems Interactions, Design of Experiments, Uncertainty Quantification, Reliability Test Planning, Modeling and Simulation Validation, Artificial Intelligence and Autonomy, and Data Management. We hope this resource is a valuable compendium for the test and evaluation community. Contact John Haman for more information."
 
 # TODOs
-# Determine how to add this info to a single post
 # Add featured images to each post
 
 [taxonomies]
@@ -29,6 +28,7 @@ ShowBreadCrumbs = true
         keyword = 'keywords'
         researchers = 'researchers'
         audience = 'audience'
+        venue = 'venues'
 
 # This is needed for Search page
 [outputs]
@@ -54,6 +54,10 @@ ShowBreadCrumbs = true
 [[menu.main]]
          name = "Audience"
          url = "/audience/"
+
+[[menu.main]]
+        name = "Venue"
+        url = "/venues/"
 
 [[menu.main]]
           name = "Search"

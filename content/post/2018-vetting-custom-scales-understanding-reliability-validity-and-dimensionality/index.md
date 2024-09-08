@@ -8,7 +8,7 @@ areas: ['Human Systems Interactions']
 keywords: ['Survey','dimension reduction','reliability','Scale Validity']
 researchers: ['Stephanie Lane']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['Design of Experiments','Operational Testing','Statistical Analysis']
 researchers: ['Breeana Anderson','Rebecca Medlin','John Haman','Kelly Avery','Keyla Pagan-Rivera']
 audience: Everyone
-journal: ['ITSEC']
+journal: ['Interservice/Industry Training','Simulation and Education Conference (I/ITSEC)']
 draft: no
 ---
 

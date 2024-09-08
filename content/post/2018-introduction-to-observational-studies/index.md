@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['observational studies']
 researchers: ['Yevgeniya Pinelis']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

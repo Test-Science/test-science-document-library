@@ -8,7 +8,7 @@ areas: ['Uncertainty Quantification']
 keywords: ['data','statistics','data analysis','patterns','models','human cognition']
 researchers: ['Matthew Avery']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

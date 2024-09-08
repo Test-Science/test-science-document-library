@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['Modeling and Simulation (M&S) Validation','Statistical Analysis','Wald test','Weapons Analysis Facility']
 researchers: ['Carrington Metts','Curtis Miller']
 audience: Practitioner
-journal: ['ITEA Journal','DATAWorks']
+journal: ['The The ITEA Journal of Test and Evaluation of Test and Evaluation','DATAWorks']
 draft: no
 ---
 

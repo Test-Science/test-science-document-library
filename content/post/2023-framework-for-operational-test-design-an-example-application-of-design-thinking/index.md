@@ -8,7 +8,7 @@ areas: ['Human Systems Interactions']
 keywords: ['Design thinking','Operational Testing','Operational test design']
 researchers: ['Miriam Armstrong']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['DATAWorks']
 draft: no
 ---
 

@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['JMP software','Statistics','Operational Testing','Design of Experiments']
 researchers: ['Jason Sheldon']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

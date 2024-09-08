@@ -8,7 +8,7 @@ areas: ['Reliability']
 keywords: ['reliability','Bayesian']
 researchers: ['Kassandra Fronczyk','Laura Freeman']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['The ITEA Journal of Test and Evaluation']
 draft: no
 ---
 

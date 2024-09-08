@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['Design of Experiments','ITEA','Test and Evaluation']
 researchers: ['Rebecca Medlin','Matthew Avery','James Simpson','Heather Wojton']
 audience: Everyone
-journal: ['MORS']
+journal: ['Military Operations Research Society']
 draft: no
 ---
 

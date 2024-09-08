@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['Design of Experiments','Operational Testing','Statistics']
 researchers: ['Rebecca Medlin','John Dennis','Keyla Pagan-Rivera','Leonard Wilkins','Heather Wojton']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

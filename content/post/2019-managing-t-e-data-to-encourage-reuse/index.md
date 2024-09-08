@@ -1,14 +1,14 @@
 ---
 title: Managing T&E Data to Encourage Reuse
-author: Andrew Flack
+author: Andrew Flack, Rebecca Medlin
 date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Data Management']
 keywords: ['Data Management','Data Reuse','Metadata','Data Lifecycle']
-researchers: ['Andrew Flack']
+researchers: ['Andrew Flack','Rebecca Medlin']
 audience: Everyone
-journal: ['ITEA Journal']
+journal: ['The ITEA Journal of Test and Evaluation']
 draft: no
 ---
 

@@ -8,7 +8,7 @@ areas: ['Modeling and Simulation']
 keywords: ['Statistics','Operational Testing','Design of Experiments','Modeling and Simulation','Validation']
 researchers: ['Kelly Avery']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

@@ -8,7 +8,7 @@ areas: ['Uncertainty Quantification']
 keywords: ['uncertainty quantification','data analysis']
 researchers: ['Matthew Avery']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

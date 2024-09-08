@@ -8,7 +8,7 @@ areas: ['Artificial Intelligence and Autonomy']
 keywords: ['NA']
 researchers: ['Brian Vickers','Daniel Porter','Rachel Haga','Heather Wojton']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

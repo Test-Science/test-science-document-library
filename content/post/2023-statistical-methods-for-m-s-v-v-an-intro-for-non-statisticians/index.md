@@ -8,7 +8,7 @@ areas: ['Modeling and Simulation']
 keywords: ['Statistics','Modeling and Simulation','Verification','Validation','and Accreditation']
 researchers: ['John Haman','Kelly Avery','Curtis Miller']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

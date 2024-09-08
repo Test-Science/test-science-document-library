@@ -8,7 +8,7 @@ areas: ['Data Management']
 keywords: ['Data','Data Management','Metadata']
 researchers: ['John Haman','Matthew Avery']
 audience: Everyone
-journal: ['JSM']
+journal: ['Joint Statistical Meetings']
 draft: no
 ---
 

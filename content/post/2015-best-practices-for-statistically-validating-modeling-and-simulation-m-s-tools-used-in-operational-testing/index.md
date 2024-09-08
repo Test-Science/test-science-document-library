@@ -8,7 +8,7 @@ areas: ['Modeling and Simulation']
 keywords: ['M&S','Verification and Validation','accreditation']
 researchers: ['Kelly Avery','Laura Freeman','Rebecca Medlin']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

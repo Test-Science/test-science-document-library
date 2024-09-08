@@ -8,7 +8,7 @@ areas: ['Uncertainty Quantification']
 keywords: ['Bayesian Statistics','Energy Statistics','Live Fire Test and Evaluation,Modeling and Simulation']
 researchers: ['John Haman','Mark Couch','Thomas Johnson','Kerry Walzl','Heather Wojton']
 audience: Practitioner
-journal: ['JSM']
+journal: ['Joint Statistical Meetings']
 draft: no
 ---
 

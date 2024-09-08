@@ -8,7 +8,7 @@ areas: ['Artificial Intelligence and Autonomy']
 keywords: ['test','evaluation','verification','and validation (TEV&V)','Artificial Intelligence (AI)','Joint Artificial Intelligence Center (JAIC)','Artificial Intelligence Enhanced Autonomous Capabilities','autonomy framework']
 researchers: ['Heather Wojton','Daniel Porter','John Dennis']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

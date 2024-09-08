@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['Power analysis','Design of Experiments','JMP','Design Expert']
 researchers: ['James Simpson','Thomas Johnson','Laura Freeman']
 audience: Practitioner
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

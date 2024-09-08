@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['Assurance Testing','Design of Experiments','Integrated Testing and Evaluation']
 researchers: ['Rebecca Medlin','Keyla Pagan-Rivera','Monica Ahrens']
 audience: Everyone
-journal: ['QPRC']
+journal: ['Quality and Productivity Research Conference']
 draft: no
 ---
 

@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['Survey','System Usability Scale (SUS)','Reliability','Test Science','Logistic Regression','Binary Response','Likert Response','Interactive Web Application','Reproducibility','Shiny']
 researchers: ['William Whitledge']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

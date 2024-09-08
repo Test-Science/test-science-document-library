@@ -8,7 +8,7 @@ areas: ['Artificial Intelligence and Autonomy']
 keywords: ['artificial intellgience',' test and evaluation',' human-system integration']
 researchers: ['Heather Wojton','Daniel Porter']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

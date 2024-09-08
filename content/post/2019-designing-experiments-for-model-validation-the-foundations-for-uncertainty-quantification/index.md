@@ -8,7 +8,7 @@ areas: ['Design of Experiments','Modeling and Simulation','Uncertainty Quantific
 keywords: ['Computer Experiments','Design of Experiments','Model Assessment and Validation','Uncertainty Quantification']
 researchers: ['Heather Wojton','Kelly Avery','Laura Freeman','Thomas Johnson']
 audience: Everyone
-journal: ['ITEA Journal']
+journal: ['The ITEA Journal of Test and Evaluation']
 draft: no
 ---
 

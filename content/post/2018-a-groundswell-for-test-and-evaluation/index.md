@@ -8,7 +8,7 @@ areas: ['Data Management']
 keywords: ['Data Science','Statistics','Uncertainty quantification','Reform test and evaluation']
 researchers: ['Laura Freeman']
 audience: Everyone
-journal: ['ITEA Journal']
+journal: ['The ITEA Journal of Test and Evaluation']
 draft: no
 ---
 

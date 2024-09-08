@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['functional data analysis','mixed effects cumulative logistic regression']
 researchers: ['Matthew Avery','Mark Orndorff','Timothy Robinson','Laura Freeman']
 audience: Expert
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

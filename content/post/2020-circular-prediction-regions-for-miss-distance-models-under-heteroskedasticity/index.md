@@ -8,7 +8,7 @@ areas: ['Uncertainty Quantification']
 keywords: ['circular error probable','department of defense','design of experiments','statistical modeling']
 researchers: ['Thomas Johnson','John Haman','Heather Wojton','Laura Freeman']
 audience: Practitioner
-journal: ['QREI']
+journal: ['Quality and Reliability Engineering International']
 draft: no
 ---
 

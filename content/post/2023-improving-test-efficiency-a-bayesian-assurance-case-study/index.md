@@ -8,7 +8,7 @@ areas: ['Reliability']
 keywords: ['Bayesian analysis','Reliability Analysis','Test Planning']
 researchers: ['Rebecca Medlin']
 audience: Practitioner
-journal: ['JSM']
+journal: ['Joint Statistical Meetings']
 draft: no
 ---
 

@@ -8,7 +8,7 @@ areas: ['Artificial Intelligence and Autonomy']
 keywords: ['agent','artificial intelligence','human-machine team','human-system interaction','metrics']
 researchers: ['Wilkins','David Sparrow','Caitlan Fealing','Brian Vickers','Kristina Ferguson','Heather Wojton']
 audience: Practitioner
-journal: ['System Engineering Journal']
+journal: ['System Engineering']
 draft: no
 ---
 

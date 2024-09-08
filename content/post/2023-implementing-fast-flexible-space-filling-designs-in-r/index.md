@@ -8,7 +8,7 @@ areas: ['Design of Experiments','Modeling and Simulation']
 keywords: ['JMP','Space filling design','R','Design of Experiments','modeling and simulation']
 researchers: ['Christopher Dimapasok']
 audience: Practitioner
-journal: ['DATAWorks']
+journal: ['Joint Statistical Meetings']
 draft: no
 ---
 

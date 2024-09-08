@@ -1,14 +1,14 @@
 ---
 title: Visualizing Data- I Don't Remember that Memo, but I Do Remember that Graph
-author: Matthew Avery, Andrew Flack, Brian Vickers
+author: Matthew Avery, Andrew Flack, Brian Vickers, Heather Wojton
 date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Data Management']
 keywords: ['Data visualization','statistics']
-researchers: ['Matthew Avery','Andrew Flack','Brian Vickers']
+researchers: ['Matthew Avery','Andrew Flack','Brian Vickers','Heather Wojton']
 audience: Everyone
-journal: ['IDA Publication']
+journal: ['Institute for Defense Analyses']
 draft: no
 ---
 

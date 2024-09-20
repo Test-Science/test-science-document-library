@@ -19,7 +19,7 @@ draft: no
 This handbook focuses on methods for data-driven validation to supplement the vast existing literature for Verification, Validation, and Accreditation (VV&A) and the emerging references on uncertainty quantification (UQ). The goal of this handbook is to aid the test and evaluation (T&E) community in developing test strategies that support model validation (both external validation and parametric analysis) and statistical UQ.
 
 #### Suggested Citation
-> Wojton, Heather, Kelly M Avery, Laura J Freeman, Samuel H Parry, Gregory S Whittier, Thomas H Johnson, and Andrew C Flack. “Handbook on Statistical Design & Analysis Techniques for Modeling & Simulation Validation.” Institute for Defense Analyses IDA Document NS D-10455 (February 2019).
+> Wojton, Heather, Kelly M Avery, Laura J Freeman, Samuel H Parry, Gregory S Whittier, Thomas H Johnson, and Andrew C Flack. Handbook on Statistical Design & Analysis Techniques for Modeling & Simulation Validation. IDA Document NS D-10455. Alexandria, VA: Institute for Defense Analyses, 2019.
 
 #### Slides {{< pdfReader "slides.pdf" >}}
 

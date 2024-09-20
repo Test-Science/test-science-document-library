@@ -18,7 +18,7 @@ draft: no
 This paper describes holistic progress in answering the question of “How much testing is enough?” It covers areas in which the T&E community has made progress, areas in which progress remains elusive, and issues that have emerged since 1994 that provide additional challenges. The selected case studies used to highlight progress are especially interesting examples, rather than a comprehensive look at all programs since 1994.
 
 #### Suggested Citation
-> Medlin, Rebecca, Matthew R Avery, James R Simpson, and Heather M Wojton. “Determining How Much Testing Is Enough: An Exploration of Progress in the Department of Defense Test and Evaluation Community.” Institute for Defense Analyses IDA Document NS D-21561 (February 2021).
+> Medlin, Rebecca, Matthew R Avery, James R Simpson, and Heather M Wojton. Determining How Much Testing Is Enough: An Exploration of Progress in the Department of Defense Test and Evaluation Community. IDA Document NS D-21561. Alexandria, VA: Institute for Defense Analyses, 2021.
 
 
 

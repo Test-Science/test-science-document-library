@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['experimental design','wind tunnel testing','Monte Carlo']
 researchers: ['Raymond Hill','Derek Leggio','Shay Capehart','August Roesener']
 audience: Practitioner
-venues: Quality Reliability Engineering International
+venues: Quality and Reliability Engineering International
 draft: no
 ---
 

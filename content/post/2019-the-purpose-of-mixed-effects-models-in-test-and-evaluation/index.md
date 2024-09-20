@@ -8,7 +8,7 @@ areas: ['Uncertainty Quantification']
 keywords: ['mixed eFFECT MODELS','MULTI LEVEL MODELS','uncertainty quantification','R,']
 researchers: ['John Haman','Matthew Avery','Heather Wojton']
 audience: Practitioner
-venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation
+venues: The The ITEA Journal of Test and Evaluation
 draft: no
 ---
 

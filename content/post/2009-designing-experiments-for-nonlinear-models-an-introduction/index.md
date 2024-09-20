@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['optimal design','factorial design','Bayesian D-optimal design']
 researchers: ['Rachel Johnson','Douglas Montgomery']
 audience: Expert
-venues: Quality Reliability Engineering International
+venues: Quality and Reliability Engineering International
 draft: no
 ---
 

@@ -18,7 +18,7 @@ draft: no
 The purpose of this briefing is to provide a high-level overview of how to frame the question of testing autonomous systems in a way that will enable development of successful test strategies. The brief outlines the challenges and broad-stroke reforms needed to get ready for the test challenges of the next century.
 
 #### Suggested Citation
-> Wojton, Heather M, and Daniel J Porter. “Demystifying the Black Box: A Test Strategy for Autonomy.” Institute for Defense Analyses IDA Document NS D-10465-NS (April 2019).
+> Wojton, Heather M, and Daniel J Porter. Demystifying the Black Box: A Test Strategy for Autonomy. IDA Document NS D-10465-NS. Alexandria, VA: Institute for Defense Analyses, 2019.
 
 
 

@@ -30,6 +30,8 @@ Running the `create-library.R` file creates the structure of the content directo
 
 Move the paper and slide to the newly generated folder
 
-`hugo server` in the folder will build and preview the website
+#### Testing the Website
+
+run `hugo server` in the folder will build and preview the website, then go to http://localhost:1313/ to see a local preview of the Test Science Documents Library.
 
 #### Publishing an update

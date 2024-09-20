@@ -8,7 +8,7 @@ areas: ['Design of Experiments']
 keywords: ['Defense','Operational Testing','Design of Experiments','Modeling & Simulation']
 researchers: ['Dean Thomas','Kelly Avery','Laura Freeman','Matthew Avery']
 audience: Everyone
-venues: Institute for Defense Analyses
+venues: Wiley StatsRef
 draft: no
 ---
 

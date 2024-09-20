@@ -18,7 +18,7 @@ draft: no
 This poster provides an example of how a design thinking framework can facilitate operational test design. Design thinking is a problem-solving approach of interest to many groups including those in the test and evaluation community. Design thinking promotes the principles of human-centeredness, iteration, and diversity and it can be accomplished via a five-phased approach. Following this approach, designers create innovated product solutions by (l) conducting research to empathize with their users, (2) defining specific user problems, (3) ideating on solutions that address the defined problems, (4) prototyping the product, and (5) testing the prototype.
 
 #### Suggested Citation
-> Avery, Kelly M, and Miriam E Armstrong. “An Example Application of Design Thinking.” Institute for Defense Analyses IDA Document NS D-33368 (April 2023).
+> Avery, Kelly M, and Miriam E Armstrong. An Example Application of Design Thinking. IDA Document NS D-33368. Alexandria, VA: Institute for Defense Analyses, 2023.
 
 #### Slides {{< pdfReader "slides.pdf" >}}
 

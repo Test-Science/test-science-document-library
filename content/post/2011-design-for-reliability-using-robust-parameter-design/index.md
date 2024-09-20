@@ -18,7 +18,7 @@ draft: no
 Recently, the principles of Design of Experiments (DOE) have been implemented as amethod of increasing the statistical rigor of operational tests. The focus has been on ensuringcoverage of the operational envelope in terms of system effectiveness. DOE is applicable inreliability analysis as well. A reliability standard, ANSI-0009, advocates the use Design forReliability (DfR) early in the product development cycle in order to design-in reliability. Robustparameter design (RPD) first used by Taguchi and then by the response surface communityprovides insights on how DOE can be used to make a products and processes invariant tochanges in factors. Using the principles ofRPD, I propose a new application of RPD to DfR.
 
 #### Suggested Citation
-> Freeman, Laura. “Design for Reliability Using Robust Parameter Design.” Institute for Defense Analyses IDA Document D-4387 (August 2011).
+> Freeman, Laura. Design for Reliability Using Robust Parameter Design. IDA Document D-4387. Alexandria, VA: Institute for Defense Analyses, 2011.
 
 #### Slides {{< pdfReader "slides.pdf" >}}
 

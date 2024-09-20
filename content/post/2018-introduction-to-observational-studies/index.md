@@ -18,7 +18,7 @@ draft: no
 
 
 #### Suggested Citation
-> Thomas, Dean, and Yevgeniya K Pinelis. “Introduction to Observational Studies.” Institute for Defense Analyses IDA Non-Standard Document NS D-9020 (March 2018).
+> Thomas, Dean, and Yevgeniya K Pinelis. Introduction to Observational Studies. IDA Document NS D-9020. Alexandria, VA: Institute for Defense Analyses, 2018.
 
 #### Slides {{< pdfReader "slides.pdf" >}}
 

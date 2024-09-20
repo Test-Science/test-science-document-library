@@ -8,7 +8,7 @@ areas: ['Design of Experiments','Modeling and Simulation']
 keywords: ['Modeling and Simulation Validation','statistical methods','Design of Experiments','Operational Testing','Director of Operational Testand Evaluation']
 researchers: ['Curtis Miller']
 audience: Everyone
-venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation, PEO IWS M&S Workshop
+venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation
 draft: no
 ---
 

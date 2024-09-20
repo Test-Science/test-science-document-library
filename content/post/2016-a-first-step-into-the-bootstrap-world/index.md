@@ -18,7 +18,7 @@ draft: no
 Bootstrapping is a powerful nonparametric tool for conducting statistical inference with many applications to data from operational testing. Bootstrapping is most useful when the population sampled from is unknown or complex or the sampling distribution of the desired statistic is difficult to derive. Careful use of bootstrapping can help address many challenges in analyzing operational test data.
 
 #### Suggested Citation
-> Avery, Matthew R. “A First Step into the Bootstrap World.” IDA Document NS D-5816, Alexandria, VA, May 2016.
+> Avery, Matthew R. A First Step into the Bootstrap World. IDA Document NS D-5816. Alexandria, VA: Institute for Defense Analyses, 2016.
 
 #### Slides {{< pdfReader "slides.pdf" >}}
 

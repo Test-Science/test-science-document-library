@@ -8,7 +8,7 @@ areas: ['Artificial Intelligence and Autonomy']
 keywords: ['Human-System Interaction','Human-Machine Teaming','Trust','Trustworthiness','AI','Behavioral Measures']
 researchers: ['Yosef Razin','Kristen Alexander','John Haman']
 audience: Practitioner
-venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation, DATAWorks
+venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation
 draft: no
 ---
 

@@ -18,7 +18,7 @@ draft: no
 Following Wojton's research on the Trust of Automated Systems Test (TOAST), which is designed to measure how much a human trusts an automated system, we aimed to determine how well this scale performs when not used in a military context. We found that participants who used a poorly performing automated system trusted the system less than expected when using that system on a case by case basis, however, those who used a high performing system trusted the system the same as they expected. Additionally, both participants who used the poorly performing system and those who used the high performing system lost a significant amount of trust after using the system on a group case basis. These results indicate that having a high performance system is important for trust, but only when the user has the ability to decide to trust or distrust the system on a case-by-case basis.
 
 #### Suggested Citation
-> Porter, Daniel J, and Caitlan A Fealing. “Predicting Trust in Automated Systems – An Application of TOAST.” Institute for Defense Analyses IDA Document NS D-33188 (July 2022).
+> Porter, Daniel J, and Caitlan A Fealing. Predicting Trust in Automated Systems – An Application of TOAST. IDA Document NS D-33188. Alexandria, VA: Institute for Defense Analyses, 2022.
 
 #### Slides {{< pdfReader "slides.pdf" >}}
 

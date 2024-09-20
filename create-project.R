@@ -1,4 +1,3 @@
-## Generate website
 library(readxl)
 library(tools)
 

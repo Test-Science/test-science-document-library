@@ -18,7 +18,7 @@ draft: no
 In operational testing, survey administration is typically a manual, paper-driven process. We have developed a web-based tool called Survey Testing Automation Tool (STAT), which integrates and automates survey construction, administration, and analysis procedures. STAT introduces a standardized approach to the construction of surveys and includes capabilities for survey management, survey planning, and form generation.
 
 #### Suggested Citation
-> Finnegan, Gary M, Kelly Tran, Tara A McGovern, and William R Whitledge. “Survey Testing Automation Tool (STAT).” Institute for Defense Analyses IDA Document NS D-10566 (March 2019).
+> Finnegan, Gary M, Kelly Tran, Tara A McGovern, and William R Whitledge. Survey Testing Automation Tool (STAT). IDA Document NS D-10566. Alexandria, VA: Institute for Defense Analyses, 2019.
 
 
 

@@ -18,7 +18,7 @@ draft: no
 The purpose of this paper was to identify the shortcomings of a single-method approach to evaluating human-system interactions during operational testing and offer an alternative, multi-method approach that is more defensible, yields richer insights into how operators interact with weapon systems, and provides a practical implications for identifying when the quality of human-system interactions warrants correction through either operator training or redesign.
 
 #### Suggested Citation
-> Thomas, Dean, Heather Wojton, Chad Bieber, and Daniel Porter. “A Multi-Method Approach to Evaluating Human-System Interactions during Operational Testing.” Institute for Defense Analyses IDA Document NS D-8857 (November 2017).
+> Thomas, Dean, Heather Wojton, Chad Bieber, and Daniel Porter. A Multi-Method Approach to Evaluating Human-System Interactions during Operational Testing. IDA Document NS D-8857. Alexandria, VA: Institute for Defense Analyses, 2017.
 
 
 

@@ -18,7 +18,7 @@ draft: no
 This document presents arguments and methods for using space-filling designs (SFDs) to plan modeling and simulation (M&S) data collection.
 
 #### Suggested Citation
-> Avery, Kelly, John T Haman, Thomas Johnson, Curtis Miller, Dhruv Patel, and Han Yi. “Test Design Challenges in Defense Testing.” Institute for Defense Analyses IDA Product ID 3002855 (July 2024).
+> Avery, Kelly, John T Haman, Thomas Johnson, Curtis Miller, Dhruv Patel, and Han Yi. Test Design Challenges in Defense Testing. IDA Product ID 3002855. Alexandria, VA: Institute for Defense Analyses, 2024.
 
 #### Slides {{< pdfReader "slides.pdf" >}}
 

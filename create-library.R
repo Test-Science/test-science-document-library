@@ -8,7 +8,7 @@ dat <- read_xlsx("./test-science-documents-library.xlsx")
 num_posts <- nrow(dat); print(c("Number of posts:", num_posts))
 
 ## Run this to create all the folders and slugs. Not Destructive.
-source("./create-project.R")
+## source("./create-project.R")
 
 ## Use blogdown to make new post folders and slugs
 ## stopped on 27

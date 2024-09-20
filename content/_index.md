@@ -3,3 +3,5 @@ The Test Science Document Library comprises methodological developments, lessons
 The library features research conducted with the core Test Science research areas:  Human Systems Interactions, Design of Experiments, Uncertainty Quantification, Reliability Test Planning, Modeling and Simulation Validation, Artificial Intelligence and Autonomy, and Data Management.
 
 ![](testsci-logo.png "AuthorCredit")
+
+### Latest publication:

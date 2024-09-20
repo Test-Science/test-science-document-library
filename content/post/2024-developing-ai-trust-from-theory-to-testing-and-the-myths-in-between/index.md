@@ -20,9 +20,9 @@ This introductory work aims to provide members of the Test and Evaluation commun
 #### Suggested Citation
 > Razin, Yosef S., and Kristen Alexander. “Developing AI Trust: From Theory to Testing and the Myths in Between.” The ITEA Journal of Test and Evaluation 45, no. 1 (March 31, 2024). https://itea.org/journals/volume-45-1/developing-ai-trust-from-theory-to-testing-and-the-myths-in-between/.
 
-#### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides{{< pdfReader "slides.pdf" >}}
 
-#### Paper 
- {{< pdfReader "paper.pdf" >}}
+#### Paper
+{{< pdfReader "paper.pdf" >}}
 
 

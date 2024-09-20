@@ -20,7 +20,7 @@ AI will play an important role in future military systems. However, large questi
 #### Suggested Citation
 > Anderson, Breeana G, Adam M Miller, Logan K Ausman, John T Haman, Keyla Pagan-Rivera, Sarah A Shaffer, and Brian D Vickers. Data Integration, Fusion, and Analysis Systems. IDA Product ID 3001848. Alexandria, VA: Institute for Defense Analyses, 2024.
 
-#### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides{{< pdfReader "slides.pdf" >}}
 
 
 

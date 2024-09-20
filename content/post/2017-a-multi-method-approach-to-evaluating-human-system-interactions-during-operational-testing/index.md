@@ -22,7 +22,7 @@ The purpose of this paper was to identify the shortcomings of a single-method ap
 
 
 
-#### Paper 
- {{< pdfReader "paper.pdf" >}}
+#### Paper
+{{< pdfReader "paper.pdf" >}}
 
 

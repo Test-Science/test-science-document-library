@@ -20,7 +20,7 @@ Recent advances in computation and statistics led to an increasing use of federa
 #### Suggested Citation
 > Capp, Jo Anna, John T Haman, and Dhruv Patel. A Practitioner’s Framework for Federated Model Validation Resource Allocation. IDA Product ID 3001838. Alexandria, VA: Institute for Defense Analyses, 2024.
 
-#### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides{{< pdfReader "slides.pdf" >}}
 
 
 

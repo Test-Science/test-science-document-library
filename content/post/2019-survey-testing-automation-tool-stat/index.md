@@ -24,5 +24,5 @@ In operational testing, survey administration is typically a manual, paper-drive
 
 
 
-#### Poster 
- {{< pdfReader "poster.pdf" >}}
+#### Poster
+{{< pdfReader "poster.pdf" >}}

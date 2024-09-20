@@ -24,5 +24,5 @@ Surveys play an important role in quantifying user opinion during test and evalu
 
 
 
-#### Poster 
- {{< pdfReader "poster.pdf" >}}
+#### Poster
+{{< pdfReader "poster.pdf" >}}

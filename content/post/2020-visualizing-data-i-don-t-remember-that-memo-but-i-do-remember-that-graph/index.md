@@ -20,9 +20,9 @@ IDA analysts strive to communicate clearly and effectively. Good data visualizat
 #### Suggested Citation
 > Avery, Matthew, Heather Wojton, Andrew Flack, and Brian Vickers. Visualizing Data: I Don’t Remember That Memo, but I Do Remember That Graph. Alexandria, VA: Institute for Defense Analyses, 2020.
 
-#### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides{{< pdfReader "slides.pdf" >}}
 
 
 
-#### Poster 
- {{< pdfReader "poster.pdf" >}}
+#### Poster
+{{< pdfReader "poster.pdf" >}}

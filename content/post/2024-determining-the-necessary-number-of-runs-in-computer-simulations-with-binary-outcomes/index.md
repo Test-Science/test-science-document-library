@@ -20,7 +20,7 @@ How many success-or-failure observations should we collect from a computer simul
 #### Suggested Citation
 > Duffy, Kelly, Curtis G Miller, and Rebecca Medlin. Sample Size Determination for Computer Simulations with Binary Outcomes. IDA Product 3002814. Alexandria, VA: Institute for Defense Analyses, 2024.
 
-#### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides{{< pdfReader "slides.pdf" >}}
 
 
 

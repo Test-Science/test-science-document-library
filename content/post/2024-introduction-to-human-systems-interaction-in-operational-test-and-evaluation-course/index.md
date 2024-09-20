@@ -20,7 +20,7 @@ Human-System Interaction (HSI) is the study of interfaces between humans and tec
 #### Suggested Citation
 > Miller, Dr Adam M, and Keyla Pagan-Rivera. Introduction to Human-Systems Interaction in Operational Test and Evaluation Course. IDA Product ID 3002009. Alexandria, VA: Institute for Defense Analyses, 2024.
 
-#### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides{{< pdfReader "slides_3002009 Miller et al_.pdf" >}}
 
 
 

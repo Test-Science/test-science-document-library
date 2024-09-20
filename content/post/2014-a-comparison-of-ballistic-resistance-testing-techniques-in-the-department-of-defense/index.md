@@ -22,7 +22,7 @@ This paper summarizes sensitivity test methods commonly employed in the Departme
 
 
 
-#### Paper 
- {{< pdfReader "paper.pdf" >}}
+#### Paper
+{{< pdfReader "paper.pdf" >}}
 
 

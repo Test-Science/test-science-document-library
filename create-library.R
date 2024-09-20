@@ -25,11 +25,11 @@ for (i in 1:num_posts) {
   ## Find the markdown file for each line
   slug <- gsub("/index", "", blogdown:::trim_ws(blogdown:::post_filename(dat[i, ]$Project, "", "", dat[i, ]$Year)))
 
-  ## Find the paper, poster, and slide for each slug
-  post <- posts[grepl(slug, posts)]
-  poster <- posters[grepl(slug, posters)]
-  paper <- papers[grepl(slug, papers)]
-  slide <- slides[grepl(slug, slides)]
+  ## Find the paper, poster, and slide for this slug
+  post <- list.files(here(paste0("content/post/", slug)), ".md", full.names = TRUE)
+  poster <- list.files(here(paste0("content/post/", slug)), "poster")
+  slide <- list.files(here(paste0("content/post/", slug)), "slide")
+  paper <- list.files(here(paste0("content/post/", slug)), "paper")
 
   ## Create project data
   project_data <- sprintf(
@@ -103,22 +103,22 @@ dat[i, ]$`Suggested-Citation`,
 
 
 # Slides
-ifelse(!identical(slide, character(0)),
-       paste("#### Slides",
-             "{{< pdfReader \"slides.pdf\" >}}"),
-       ""),
+  ifelse(!identical(slide, character(0)),
+         paste0("#### Slides",
+                "{{< pdfReader \"", slide, "\" >}}"),
+         ""),
 
 
 # Paper
 ifelse(!identical(paper, character(0)),
-       paste("#### Paper", "\n",
-             "{{< pdfReader \"paper.pdf\" >}}"),
+       paste0("#### Paper", "\n",
+              "{{< pdfReader \"", paper, "\" >}}"),
        ""),
 
 # Poster
 ifelse(!identical(poster, character(0)),
-       paste("#### Poster", "\n",
-             "{{< pdfReader \"poster.pdf\" >}}"),
+       paste0("#### Poster", "\n",
+              "{{< pdfReader \"", poster, "\" >}}"),
        "")
 )
 

@@ -20,7 +20,7 @@ Many Department of Defense (DoD) systems aim to increase or maintain Situational
 #### Suggested Citation
 > Shaffer, Sarah, Miriam Armstrong, and Rebecca Medlin. Meta-Analysis of the Effectiveness of the SALIANT Procedure for Assessing Team Situation Awareness. IDA Product ID 3001867. Alexandria, VA: Institute for Defense Analyses, 2024.
 
-#### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides{{< pdfReader "slides.pdf" >}}
 
 
 

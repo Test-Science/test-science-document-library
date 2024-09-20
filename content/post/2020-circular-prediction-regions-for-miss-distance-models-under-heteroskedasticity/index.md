@@ -20,10 +20,10 @@ Circular prediction regions are used in ballistic testing to express the uncerta
 #### Suggested Citation
 > Johnson, Thomas H., John T. Haman, Heather Wojton, and Laura Freeman. “Circular Prediction Regions for Miss Distance Models under Heteroskedasticity.” Quality and Reliability Engineering International 37, no. 7 (November 2021): 2991–3003. https://doi.org/10.1002/qre.2771.
 
-#### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides{{< pdfReader "slides.pdf" >}}
 
-#### Paper 
- {{< pdfReader "paper.pdf" >}}
+#### Paper
+{{< pdfReader "paper.pdf" >}}
 
-#### Poster 
- {{< pdfReader "poster.pdf" >}}
+#### Poster
+{{< pdfReader "poster.pdf" >}}

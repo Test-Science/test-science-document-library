@@ -20,9 +20,9 @@ The Department of Defense (DoD) has invested significant effort over the past de
 #### Suggested Citation
 > Porter, Daniel, Michael McAnally, Chad Bieber, Heather Wojton, and Rebecca Medlin. Trustworthy Autonomy: A Roadmap to Assurance Part I: System Effectiveness. IDA Document P-10768-NS. Alexandria, VA: Institute for Defense Analyses, 2020.
 
-#### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides{{< pdfReader "slides.pdf" >}}
 
-#### Paper 
- {{< pdfReader "paper.pdf" >}}
+#### Paper
+{{< pdfReader "paper.pdf" >}}
 
 

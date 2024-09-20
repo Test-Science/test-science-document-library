@@ -20,9 +20,9 @@ Sequential analysis concerns statistical evaluation in which the number, pattern
 #### Suggested Citation
 > Ahrens, Monica, Rebecca Medlin, Keyla Pagán-Rivera, and John W. Dennis. “Case Study on Applying Sequential Analyses in Operational Testing.” Quality Engineering 35, no. 3 (July 3, 2023): 534–45. https://doi.org/10.1080/08982112.2022.2146510.
 
-#### Slides {{< pdfReader "slides.pdf" >}}
+#### Slides{{< pdfReader "slides.pdf" >}}
 
-#### Paper 
- {{< pdfReader "paper.pdf" >}}
+#### Paper
+{{< pdfReader "paper.pdf" >}}
 
 

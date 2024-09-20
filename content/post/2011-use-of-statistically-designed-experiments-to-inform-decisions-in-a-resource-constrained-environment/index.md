@@ -22,7 +22,7 @@ There has been recent emphasis on the increased use of statistics, including the
 
 
 
-#### Paper 
- {{< pdfReader "paper.pdf" >}}
+#### Paper
+{{< pdfReader "paper_D-4355 NS final.pdf" >}}
 
 

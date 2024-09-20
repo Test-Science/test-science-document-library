@@ -22,7 +22,7 @@ The complex, multifunctional nature of defense systems, along with the wide vari
 
 
 
-#### Paper 
- {{< pdfReader "paper.pdf" >}}
+#### Paper
+{{< pdfReader "paper.pdf" >}}
 
 

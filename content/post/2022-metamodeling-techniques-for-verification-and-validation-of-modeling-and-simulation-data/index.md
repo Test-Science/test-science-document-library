@@ -20,9 +20,8 @@ Modeling and simulation (M&S) outputs help the Director, Operational Test and Ev
 #### Suggested Citation
 > Haman, John T, and Curtis G Miller. Metamodeling Techniques for Verification and Validation of Modeling and Simulation Data. IDA Paper P-33230. Alexandria, VA: Institute for Defense Analyses, 2022.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

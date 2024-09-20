@@ -22,7 +22,6 @@ We present a simulation study that examines the impact of small sample sizes in 
 
 
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

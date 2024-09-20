@@ -20,7 +20,7 @@ The current fiscal climate demands now, more than ever, that test and evaluation
 #### Suggested Citation
 > Freeman, Laura, and V. Bram Lillard. “Taking the Next Step: Improving the Science of Test in DoD T and E.” The ITEA Journal of Test and Evaluation 35, no. 1 (March 2014). https://apps.dtic.mil/sti/citations/trecms/AD1123777.
 
-#### Slides{{< pdfReader "slides_D-5101 final version.pdf" >}}
+#### Slides: [[Download](slides_D-5101 final version.pdf)]{{< pdfReader "slides_D-5101 final version.pdf" >}}
 
 
 

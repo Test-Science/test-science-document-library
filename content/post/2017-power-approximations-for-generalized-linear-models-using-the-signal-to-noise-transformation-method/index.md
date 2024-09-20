@@ -20,7 +20,7 @@ Statistical power is a useful measure for assessing the adequacy of anexperiment
 #### Suggested Citation
 > Johnson, Thomas H., Laura Freeman, Jim Simpson, and Colin Anderson. “Power Approximations for Generalized Linear Models Using the Signal-to-Noise Transformation Method.” Quality Engineering 30, no. 3 (July 3, 2018): 511–24. https://doi.org/10.1080/08982112.2017.1361537.
 
-#### Slides{{< pdfReader "slides_D-8351.pdf" >}}
+#### Slides: [[Download](slides_D-8351.pdf)]{{< pdfReader "slides_D-8351.pdf" >}}
 
 
 

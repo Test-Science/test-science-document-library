@@ -20,7 +20,7 @@ Effective training of the broad set of users/operators of systems has downstream
 #### Suggested Citation
 > Vickers, Brian D, Daniel J Porter, Rachel A Haga, Heather M Wojton, and V. Bram Lillard. Measuring Training Efficacy: Structural Validation of the Operational Assessment of Training Scale (OATS). IDA Document NS D-32972. Alexandria, VA: Institute for Defense Analyses, 2022.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
 
 

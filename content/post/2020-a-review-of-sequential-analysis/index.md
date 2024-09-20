@@ -22,7 +22,6 @@ Sequential analysis concerns statistical evaluation in situations in which the n
 
 
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

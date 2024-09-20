@@ -20,7 +20,7 @@ This is a briefing intended to motivate and explain the basic concepts of applyi
 #### Suggested Citation
 > Pagan-Rivera, Keyla, John T Haman, Kelly M Avery, and Curtis G Miller. Statistical Methods for M&S V&V: An Intro for Non- Statisticians. IDA Product ID-3000770. Alexandria, VA: Institute for Defense Analyses, 2024.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
 
 

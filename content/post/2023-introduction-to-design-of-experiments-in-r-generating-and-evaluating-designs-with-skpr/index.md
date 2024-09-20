@@ -20,7 +20,7 @@ This workshop instructs attendees on how to run an end-to-end optimal Design of 
 #### Suggested Citation
 > Morgan-Wall, Tyler T. Introduction to Design of Experiments in R: Generating and Evaluating Designs with Skpr. IDA Document NS D-33397. Alexandria, VA: Institute for Defense Analyses, 2023.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
 
 

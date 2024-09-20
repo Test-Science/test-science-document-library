@@ -22,7 +22,6 @@ This paper describes holistic progress in answering the question of “How much 
 
 
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

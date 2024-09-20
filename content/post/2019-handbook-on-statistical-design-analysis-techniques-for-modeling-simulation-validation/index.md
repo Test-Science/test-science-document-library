@@ -21,9 +21,8 @@ This handbook focuses on methods for data-driven validation to supplement the va
 #### Suggested Citation
 > Wojton, Heather, Kelly M Avery, Laura J Freeman, Samuel H Parry, Gregory S Whittier, Thomas H Johnson, and Andrew C Flack. Handbook on Statistical Design & Analysis Techniques for Modeling & Simulation Validation. IDA Document NS D-10455. Alexandria, VA: Institute for Defense Analyses, 2019.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

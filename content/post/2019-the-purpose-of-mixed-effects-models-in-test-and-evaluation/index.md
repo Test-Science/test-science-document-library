@@ -20,9 +20,8 @@ Mixed-effects models are the standard technique for analyzing data that exhibit 
 #### Suggested Citation
 > Haman, John, Matthew Avery, and Heather Wojton. “The Purpose of Mixed-Effects Models in Test and Evaluation.” The ITEA Journal of Test and Evaluation 40, no. 4 (2019): 249–55.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

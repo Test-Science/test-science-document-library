@@ -22,7 +22,6 @@ The areas of application for design of experiments principles have evolved, mimi
 
 
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

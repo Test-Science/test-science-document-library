@@ -20,7 +20,7 @@ Modeling and simulation (M&S) can be a useful tool when testers and evaluators n
 #### Suggested Citation
 > Medlin, Rebecca M, and Christopher T Dimapasok. Space-Filling Designs in R. IDA Document NS 3000045. Alexandria, VA: Institute for Defense Analyses, 2023.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
 
 

@@ -24,5 +24,4 @@ The use of Bayesian statistics and experimental design as tools to scope testing
 
 
 
-#### Poster
-{{< pdfReader "poster.pdf" >}}
+#### Poster: [[Download](poster.pdf)]{{< pdfReader "poster.pdf" >}}

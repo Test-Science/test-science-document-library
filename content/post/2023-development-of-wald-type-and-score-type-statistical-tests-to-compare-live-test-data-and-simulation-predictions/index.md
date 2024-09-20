@@ -20,9 +20,8 @@ This work describes the development of a statistical test created in support of 
 #### Suggested Citation
 > Metts, Carrington, and Curtis Miller. “Development of Wald-Type and Score-Type Statistical Tests to Compare Live Test Data and Simulation Predictions.” The ITEA Journal of Test and Evaluation 44, no. 3 (August 25, 2023). https://itea.org/journals/volume-44-3/development-of-wald-type-and-score-type-statistical-tests-to-compare-live-test-data-and-simulation-predictions/.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

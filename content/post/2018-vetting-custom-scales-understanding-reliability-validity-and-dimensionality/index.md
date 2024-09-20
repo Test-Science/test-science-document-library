@@ -20,7 +20,7 @@ For these situations in which an empirically vetted scale Design of Experimentss
 #### Suggested Citation
 > Wojton, Heather, and Stephanie Lane. Vetting Custom Scales - Understanding Reliability, Validity, and Dimensionality. IDA Non-Standard Document NS D-9168. Alexandria, VA: Institute for Defense Analyses, 2018.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
 
 

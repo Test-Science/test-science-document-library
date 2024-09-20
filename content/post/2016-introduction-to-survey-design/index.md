@@ -20,7 +20,7 @@ An important goal of test and evaluation is to understand not only how a system 
 #### Suggested Citation
 > Wojton, Heather, Jonathan Snavely, and Justin Mary. Introduction to Survey Design. IDA Document NS D-5835. Alexandria, VA: Institute for Defense Analyses, 2016.
 
-#### Slides{{< pdfReader "slides_NS D-5835.pdf" >}}
+#### Slides: [[Download](slides_NS D-5835.pdf)]{{< pdfReader "slides_NS D-5835.pdf" >}}
 
 
 

@@ -22,7 +22,6 @@ In April 2016, NASA, DOT&E, and IDA collaborated on a workshopdesigned to streng
 
 
 
-#### Paper
-{{< pdfReader "paper_D-8229 non-std Final.pdf" >}}
+#### Paper: [[Download](paper_D-8229 non-std Final.pdf)]{{< pdfReader "paper_D-8229 non-std Final.pdf" >}}
 
 

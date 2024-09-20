@@ -22,7 +22,6 @@ This paper summarizes a subset of the literature regarding the challenges to and
 
 
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

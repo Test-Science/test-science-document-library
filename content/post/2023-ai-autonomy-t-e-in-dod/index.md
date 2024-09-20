@@ -22,7 +22,6 @@ Test and evaluation (T&E) of AI-enabled systems (AIES) often emphasizes algorith
 
 
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

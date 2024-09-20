@@ -20,7 +20,7 @@ Qualitative data, captured through free-form comment boxes, interviews, focus gr
 #### Suggested Citation
 > Medlin, Rebecca, Kristina Carter, Emily Fedele, and Daniel Hellmann. Introduction to Qualitative Methods. IDA Document NS D-21591. Alexandria, VA: Institute for Defense Analyses, 2021.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
 
 

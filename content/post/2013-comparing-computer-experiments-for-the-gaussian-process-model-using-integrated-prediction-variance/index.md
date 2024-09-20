@@ -1,12 +1,12 @@
 ---
 title: Comparing Computer Experiments for the Gaussian Process Model Using Integrated Prediction Variance
-author: Laura Freeman, Anne Ryan, Jennifer Kensler, Rebecca Medlin, Geoffrey Vining
+author: Rachel Silvestrini, Douglas Montgomery, Bradley Jones
 date: 2013-01-01
 year: 2013
 slug: []
 areas: ['Design of Experiments']
 keywords: ['computer simulation','gaussian process models','integrated variance','space-filling designs']
-researchers: ['Laura Freeman','Anne Ryan','Jennifer Kensler','Rebecca Medlin','Geoffrey Vining']
+researchers: ['Rachel Silvestrini','Douglas Montgomery','Bradley Jones']
 audience: Expert
 venues: Quality Engineering
 draft: no
@@ -22,7 +22,6 @@ Space filling designs are a common choice of experimental design strategy for co
 
 
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

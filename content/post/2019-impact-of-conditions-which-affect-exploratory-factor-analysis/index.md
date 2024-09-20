@@ -24,5 +24,4 @@ Some things cannot be observed directly and must be inferred from multiple indir
 
 
 
-#### Poster
-{{< pdfReader "poster.pdf" >}}
+#### Poster: [[Download](poster.pdf)]{{< pdfReader "poster.pdf" >}}

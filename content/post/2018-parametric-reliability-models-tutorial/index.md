@@ -22,7 +22,6 @@ This tutorial demonstrates how to plot reliability functions parametrically in R
 
 
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

@@ -103,25 +103,25 @@ dat[i, ]$`Suggested-Citation`,
 
 
 # Slides
-  ifelse(!identical(slide, character(0)),
-         paste0("#### Slides",
-                "{{< pdfReader \"", slide, "\" >}}"),
-         ""),
+ifelse(!identical(slide, character(0)),
+       paste0("#### Slides: ", "[[Download](", slide, ")]",
+              "{{< pdfReader \"", slide, "\" >}}"),
+       ""),
 
 
 # Paper
 ifelse(!identical(paper, character(0)),
-       paste0("#### Paper", "\n",
+       paste0("#### Paper: ", "[[Download](", paper, ")]",
               "{{< pdfReader \"", paper, "\" >}}"),
        ""),
 
 # Poster
 ifelse(!identical(poster, character(0)),
-       paste0("#### Poster", "\n",
+       paste0("#### Poster: ", "[[Download](", poster, ")]",
               "{{< pdfReader \"", poster, "\" >}}"),
        "")
 )
 
   ## Write to each file
   writeLines(project_data, post)
-  }
+}

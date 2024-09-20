@@ -20,9 +20,8 @@ M&S validation is critical for ensuring credible weapon system evaluations. Syst
 #### Suggested Citation
 > Grimm, David K, Thomas H Johnson, Lindsey D Butler, Craig Andres, Julia Ivancik, and Russ Dibelka. Component Data Vector Methodology in Support of FUSL-AJEM Validation. IDA Product ID - 3002075. Alexandria, VA: Institute for Defense Analyses, 2024.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
-#### Paper
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
 
 

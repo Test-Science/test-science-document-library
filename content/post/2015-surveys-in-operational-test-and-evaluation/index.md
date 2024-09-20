@@ -20,7 +20,7 @@ Recently Dr. Gilmore, DOT&E, signed out a memo providing Guidance on the Use and
 #### Suggested Citation
 > Grier, Rebecca A, and Laura Freeman. Surveys in Operational Test & Evaluation. IDA Document D-5410. Alexandria, VA: Institute for Defense Analyses, 2015.
 
-#### Slides{{< pdfReader "slides_D-5410-1.pdf" >}}
+#### Slides: [[Download](slides_D-5410-1.pdf)]{{< pdfReader "slides_D-5410-1.pdf" >}}
 
 
 

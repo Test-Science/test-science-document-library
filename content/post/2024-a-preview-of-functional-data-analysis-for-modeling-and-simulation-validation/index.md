@@ -20,7 +20,7 @@ Modeling and simulation (M&S) validation for operational testing often involves 
 #### Suggested Citation
 > Medlin, Rebecca M, and Curtis G Miller. A Preview of Functional Data Analysis for Modeling and Simulation Validation. IDA Product ID 3001829. Alexandria, VA: Institute for Defense Analyses, 2024.
 
-#### Slides{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
 
 
 

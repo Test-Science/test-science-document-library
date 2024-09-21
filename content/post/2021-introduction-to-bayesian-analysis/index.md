@@ -20,8 +20,8 @@ As operational testing becomes increasingly integrated and research questions be
 #### Suggested Citation
 > Wojton, Heather M, Keyla Pagan-Rivera, John T Haman, and Rebecca M Medlin. Introduction to Bayesian Analysis. IDA Document NS D-20484. Alexandria, VA: Institute for Defense Analyses, 2021.
 
-#### Slides: [[Download](slides_NS D-20484.pdf)]
-{{< pdfReader "slides_NS D-20484.pdf" >}}
+#### Slides: [[Download](slides_NS-D-20484.pdf)]
+{{< pdfReader "slides_NS-D-20484.pdf" >}}
 
 
 

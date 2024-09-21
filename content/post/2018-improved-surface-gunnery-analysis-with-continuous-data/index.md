@@ -20,8 +20,8 @@ Recasting gunfire data from binomial (hit/miss) to continuous (time-to-kill) all
 #### Suggested Citation
 > Ashwell, Benjamin A, V Bram Lillard, and George M Khoury. Improved Surface Gunnery Analysis with Continuous Data. IDA Document NS D-8990. Alexandria, VA: Institute for Defense Analyses, 2018.
 
-#### Slides: [[Download](slides_D-8990 NS.pdf)]
-{{< pdfReader "slides_D-8990 NS.pdf" >}}
+#### Slides: [[Download](slides_D-8990-NS.pdf)]
+{{< pdfReader "slides_D-8990-NS.pdf" >}}
 
 
 

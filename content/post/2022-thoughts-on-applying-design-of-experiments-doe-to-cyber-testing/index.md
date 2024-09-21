@@ -20,8 +20,8 @@ This briefing presented at Dataworks 2022 provides examples of potential ways in
 #### Suggested Citation
 > Gilmore, James M, Kelly M Avery, Matthew R Girardi, and Rebecca M Medlin. Thoughts on Applying Design of Experiments (DOE) to Cyber Testing. IDA Document NS D-33023. Alexandria, VA: Institute for Defense Analyses, 2022.
 
-#### Slides: [[Download](slides_NS D-33023.pdf)]
-{{< pdfReader "slides_NS D-33023.pdf" >}}
+#### Slides: [[Download](slides_NS-D-33023.pdf)]
+{{< pdfReader "slides_NS-D-33023.pdf" >}}
 
 
 

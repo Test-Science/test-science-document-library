@@ -20,8 +20,8 @@ A challenging aspect ofa system reliability assessment is integratingmultiple so
 #### Suggested Citation
 > Medlin, Rebecca M, and V. Bram Lillard. Bayesian Component Reliability Estimation: An F-35 Case Study. IDA Document NS D-10561. Alexandria, VA: Institute for Defense Analyses, 2019.
 
-#### Slides: [[Download](slides_D-10561-NS Bayesian Component Reliability Estimation - an F-35 Case Study.pdf)]
-{{< pdfReader "slides_D-10561-NS Bayesian Component Reliability Estimation - an F-35 Case Study.pdf" >}}
+#### Slides: [[Download](slides_D-10561-NS-Bayesian-Component-Reliability-Estimation---an-F-35-Case-Study.pdf)]
+{{< pdfReader "slides_D-10561-NS-Bayesian-Component-Reliability-Estimation---an-F-35-Case-Study.pdf" >}}
 
 
 

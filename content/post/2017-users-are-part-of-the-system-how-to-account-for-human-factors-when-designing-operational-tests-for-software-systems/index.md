@@ -20,7 +20,8 @@ The goal of operation testing (OT) is to evaluate the effectiveness and suitabil
 #### Suggested Citation
 > Freeman, Laura J, Kelly M Avery, and Heather M Wojton. Users Are Part of the System: How to Account for Human Factors When Designing Operational Tests for Software Systems. IDA Document NS D-8630. Alexandria, VA: Institute for Defense Analyses, 2017.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

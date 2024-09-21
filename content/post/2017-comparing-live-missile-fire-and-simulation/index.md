@@ -20,7 +20,8 @@ Modeling and Simulation is frequently used in Test and Evaluation (T&E) of air-t
 #### Suggested Citation
 > Medlin, Rebecca, Pamela Rambow, and Douglas Peek. Comparing Live Missile Fire and Simulation. IDA Document NS D-8443. Alexandria, VA: Institute for Defense Analyses, 2017.
 
-#### Slides: [[Download](slides_D-8443.pdf)]{{< pdfReader "slides_D-8443.pdf" >}}
+#### Slides: [[Download](slides_D-8443.pdf)]
+{{< pdfReader "slides_D-8443.pdf" >}}
 
 
 

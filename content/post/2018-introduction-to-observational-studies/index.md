@@ -20,7 +20,8 @@ draft: no
 #### Suggested Citation
 > Thomas, Dean, and Yevgeniya K Pinelis. Introduction to Observational Studies. IDA Document NS D-9020. Alexandria, VA: Institute for Defense Analyses, 2018.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

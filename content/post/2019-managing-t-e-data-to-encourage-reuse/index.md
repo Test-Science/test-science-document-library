@@ -22,6 +22,7 @@ Reusing Test and Evaluation (T&E) datasets multiple times at different points th
 
 
 
-#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]
+{{< pdfReader "paper.pdf" >}}
 
 

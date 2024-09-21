@@ -20,7 +20,8 @@ Version control software manages, archives, and (optionally) distributes differe
 #### Suggested Citation
 > Miller, Curtis G, and John T Haman. Introduction to Git. IDA Document NS D-33021. Alexandria, VA: Institute for Defense Analyses, 2022.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

@@ -20,7 +20,8 @@ Design of Experiments (DOE) provides a rigorous methodology for developing and e
 #### Suggested Citation
 > Freeman, Laura. Scientific Test and Analysis Techniques: Statistical Measures of Merit. IDA Document D-5070. Alexandria, VA: Institute for Defense Analyses, 2014.
 
-#### Slides: [[Download](slides_D-5070-2.pdf)]{{< pdfReader "slides_D-5070-2.pdf" >}}
+#### Slides: [[Download](slides_D-5070-2.pdf)]
+{{< pdfReader "slides_D-5070-2.pdf" >}}
 
 
 

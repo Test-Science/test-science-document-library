@@ -105,6 +105,7 @@ dat[i, ]$`Suggested-Citation`,
 # Slides
 ifelse(!identical(slide, character(0)),
        paste0("#### Slides: ", "[[Download](", slide, ")]",
+              "\n",
               "{{< pdfReader \"", slide, "\" >}}"),
        ""),
 
@@ -112,12 +113,14 @@ ifelse(!identical(slide, character(0)),
 # Paper
 ifelse(!identical(paper, character(0)),
        paste0("#### Paper: ", "[[Download](", paper, ")]",
+              "\n",
               "{{< pdfReader \"", paper, "\" >}}"),
        ""),
 
 # Poster
 ifelse(!identical(poster, character(0)),
        paste0("#### Poster: ", "[[Download](", poster, ")]",
+              "\n",
               "{{< pdfReader \"", poster, "\" >}}"),
        "")
 )

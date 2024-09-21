@@ -20,7 +20,8 @@ Acceptance testing of combat helmets presents multiple challenges that require s
 #### Suggested Citation
 > Hester, Janice, and Laura Freeman. Applying Risk Analysis to Acceptance Testing of Combat Helmets. IDA Document NS D-5334. Alexandria, VA: Institute for Defense Analyses, 2014.
 
-#### Slides: [[Download](slides_NS D-5334.pdf)]{{< pdfReader "slides_NS D-5334.pdf" >}}
+#### Slides: [[Download](slides_NS D-5334.pdf)]
+{{< pdfReader "slides_NS D-5334.pdf" >}}
 
 
 

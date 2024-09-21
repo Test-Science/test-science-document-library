@@ -20,7 +20,8 @@ Pilot Training Next is an exploratory investigation of new technologies and proc
 #### Suggested Citation
 > Porter, Daniel, Emily Fedele, and Heather Wojton. Pilot Training Next: Modeling Skill Transfer in a Military Learning Environment. IDA Document NS D-10927. Alexandria, VA: Institute for Defense Analyses, 2019.
 
-#### Slides: [[Download](slides_NS D-10927-1.pdf)]{{< pdfReader "slides_NS D-10927-1.pdf" >}}
+#### Slides: [[Download](slides_NS D-10927-1.pdf)]
+{{< pdfReader "slides_NS D-10927-1.pdf" >}}
 
 
 

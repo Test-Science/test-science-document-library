@@ -20,7 +20,8 @@ This presentation shows the merits of applying experimental design to operationa
 #### Suggested Citation
 > Freeman, Laura. “Design of Experiments in Highly Constrained Design Spaces.” Presented at the Army Conference on Applied Statistics, October 2011.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

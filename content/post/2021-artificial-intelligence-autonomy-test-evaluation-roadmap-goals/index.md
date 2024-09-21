@@ -20,7 +20,8 @@ As the Department of Defense acquires new systems with artificial intelligence (
 #### Suggested Citation
 > Wojton, Heather, Brian Vickers, Daniel Porter, and Rachel Haga. Artificial Intelligence & Autonomy Test & Evaluation Roadmap Goals. IDA Document NS D-22750. Alexandria, VA: Institute for Defense Analyses, 2021.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

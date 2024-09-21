@@ -20,7 +20,8 @@ In the operational testing of DoD weapons systems, modeling and simulation (M&S)
 #### Suggested Citation
 > Thomas, Dean, and Kelly M Avery. Comparing M&S Output to Live Test Data: A Missile System Case Study. IDA Non-Standard Document NS D-9002. Alexandria, VA: Institute for Defense Analyses, 2018.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

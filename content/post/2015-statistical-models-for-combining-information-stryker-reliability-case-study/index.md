@@ -20,8 +20,10 @@ Problem  Reliability is an essential element in assessing the operational suitab
 #### Suggested Citation
 > Steiner, Stefan, Rebecca M. Dickinson, Laura J. Freeman, Bruce A. Simpson, and Alyson G. Wilson. “Statistical Methods for Combining Information: Stryker Family of Vehicles Reliability Case Study.” Journal of Quality Technology 47, no. 4 (October 2015): 400–415. https://doi.org/10.1080/00224065.2015.11918142.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
-#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]
+{{< pdfReader "paper.pdf" >}}
 
 

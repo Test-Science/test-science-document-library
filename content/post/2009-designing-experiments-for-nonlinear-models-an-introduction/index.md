@@ -22,6 +22,7 @@ We illustrate the construction of Bayesian D-optimal designs for nonlinear model
 
 
 
-#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]
+{{< pdfReader "paper.pdf" >}}
 
 

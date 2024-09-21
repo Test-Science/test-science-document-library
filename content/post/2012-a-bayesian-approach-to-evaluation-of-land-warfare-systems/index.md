@@ -20,7 +20,8 @@ This presentation is a presentation for the Army Conference on Applied Statistic
 #### Suggested Citation
 > Wilson, Alyson, Lee Dewald, Robert Holcomb, and Samuel Parry. A Bayesian Approach to Evaluation  of Land Warfare Systems. IDA Document NS D-4711. Alexandria, VA: Institute for Defense Analyses, 2012.
 
-#### Slides: [[Download](slides_NS D-4711-1.pdf)]{{< pdfReader "slides_NS D-4711-1.pdf" >}}
+#### Slides: [[Download](slides_NS D-4711-1.pdf)]
+{{< pdfReader "slides_NS D-4711-1.pdf" >}}
 
 
 

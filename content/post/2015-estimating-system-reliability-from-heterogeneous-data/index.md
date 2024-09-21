@@ -20,7 +20,8 @@ This briefing provides an example of some of the nuanced issues in reliability e
 #### Suggested Citation
 > Browning, Caleb, Laura Freeman, Alyson Wilson, Kassandra Fronczyk, and Rebecca Dickinson. “Estimating System Reliability from Heterogeneous Data.” Presented at the Conference on Applied Statistics in Defense, George Mason University, October 2015.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

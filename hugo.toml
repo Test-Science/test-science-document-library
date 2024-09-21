@@ -4,16 +4,19 @@ title = 'Test Science Documents Library'
 theme = ["PaperMod"]
 enableInlineShortcodes = true
 ShowBreadCrumbs = true
+copyright = "[© Institute for Defense Analyses](https://www.ida.org)"
 
 
 [params]
-        ShowShareButtons = false
+        ShowShareButtons = true
         ShowFullTextinRSS = true
         hideMeta = false
         dateFormat = '2006' # You just put a placeholder in to make it only show the year of publication.
 
 [pagination]
         pagerSize = 1000
+
+
 
 # TODOs
 # Add featured images to each post

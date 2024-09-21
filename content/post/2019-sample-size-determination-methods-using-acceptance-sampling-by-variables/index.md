@@ -22,6 +22,7 @@ Acceptance Sampling by Variables (ASbV) is a statistical testing technique used 
 
 
 
-#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]
+{{< pdfReader "paper.pdf" >}}
 
 

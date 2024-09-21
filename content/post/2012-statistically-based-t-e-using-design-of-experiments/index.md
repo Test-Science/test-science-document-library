@@ -20,7 +20,8 @@ This document outlines the charter for the Committee to Institutionalize Scienti
 #### Suggested Citation
 > Freeman, Laura. Statistically Based T&E Using Design of Experiments. IDA Document D-4548. Alexandria, VA: Institute for Defense Analyses, 2012.
 
-#### Slides: [[Download](slides_NS_D-4548.pdf)]{{< pdfReader "slides_NS_D-4548.pdf" >}}
+#### Slides: [[Download](slides_NS_D-4548.pdf)]
+{{< pdfReader "slides_NS_D-4548.pdf" >}}
 
 
 

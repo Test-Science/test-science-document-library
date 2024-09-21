@@ -20,7 +20,8 @@ Despite the importance of acquiring reliable systems to support thewarfighter, m
 #### Suggested Citation
 > Pinelis, Yevgeniya K, Jonathan L Bell, Charles D Carlson, Brent A Crabtree, Rebecca M Dickinson, Laura J Freeman, Duane A Goehring, et al. Reliability Best Practices and Lessons Learned in the Department Of Defense. IDA Document NS D-8889. Alexandria, VA: Institute for Defense Analyses, 2018.
 
-#### Slides: [[Download](slides_D-8889-NS.pdf)]{{< pdfReader "slides_D-8889-NS.pdf" >}}
+#### Slides: [[Download](slides_D-8889-NS.pdf)]
+{{< pdfReader "slides_D-8889-NS.pdf" >}}
 
 
 

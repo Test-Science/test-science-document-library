@@ -20,7 +20,8 @@ In today’s fiscal environment, efficient and effective testing is essential. O
 #### Suggested Citation
 > Freeman, Laura J, and V Bram Lillard. Continuous Metrics for Efficient and Effective Testing. IDA Document NS D-4571. Alexandria, VA: Institute for Defense Analyses, 2012.
 
-#### Slides: [[Download](slides_NS D-4571-1.pdf)]{{< pdfReader "slides_NS D-4571-1.pdf" >}}
+#### Slides: [[Download](slides_NS D-4571-1.pdf)]
+{{< pdfReader "slides_NS D-4571-1.pdf" >}}
 
 
 

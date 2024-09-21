@@ -20,8 +20,10 @@ Situation Awareness (SA) plays a key role in decision making and human performan
 #### Suggested Citation
 > Green, Elizabeth, Miriam Armstrong, and Janna Mantua. “Scientific Measurement of Situation Awareness in Operational Testing.” The ITEA Journal of Test and Evaluation 44, no. 3 (October 2, 2023). https://doi.org/10.61278/itea.44.3.1002.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
-#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]
+{{< pdfReader "paper.pdf" >}}
 
 

@@ -20,7 +20,8 @@ Binomial metrics like probability-to-detect or probability-to-hit typically prov
 #### Suggested Citation
 > Lillard, V. Bram. Censored Data Analysis: A Statistical Tool for Efficient and Information-Rich Testing. IDA Document D-4912. Alexandria, VA: Institute for Defense Analyses, 2013.
 
-#### Slides: [[Download](slides_D-4912 non-std.pdf)]{{< pdfReader "slides_D-4912 non-std.pdf" >}}
+#### Slides: [[Download](slides_D-4912 non-std.pdf)]
+{{< pdfReader "slides_D-4912 non-std.pdf" >}}
 
 
 

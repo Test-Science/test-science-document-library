@@ -20,7 +20,8 @@ Many DOD systems undergo operational testing, which is a field test involving re
 #### Suggested Citation
 > Medlin, Rebecca, John Haman, and Matthew Avery. Data Principles for Operational and Live-Fire Testing. IDA Document NS - 1038201. Alexandria, VA: Institute for Defense Analyses, 2023.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

@@ -20,7 +20,8 @@ The Department of Defense (DoD) develops and acquires some of the world’s most
 #### Suggested Citation
 > Medlin, Rebecca, Kayla Pagan-Rivera, and Monica Ahrens. Why Are Statistical Engineers Needed for Test & Evaluation? IDA Document NS-D-22722. Alexandria, VA: Institute for Defense Analyses, 2021.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

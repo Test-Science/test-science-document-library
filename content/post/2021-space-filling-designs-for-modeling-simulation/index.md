@@ -20,8 +20,10 @@ This document presents arguments and methods for using space-filling designs (SF
 #### Suggested Citation
 > Avery, Kelly, John T Haman, Thomas Johnson, Curtis Miller, Dhruv Patel, and Han Yi. Test Design Challenges in Defense Testing. IDA Product ID 3002855. Alexandria, VA: Institute for Defense Analyses, 2024.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
-#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]
+{{< pdfReader "paper.pdf" >}}
 
 

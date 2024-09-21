@@ -22,6 +22,7 @@ Both NASA and DOT&E increasingly rely on computer models to supplement data coll
 
 
 
-#### Paper: [[Download](paper.pdf)]{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper.pdf)]
+{{< pdfReader "paper.pdf" >}}
 
 

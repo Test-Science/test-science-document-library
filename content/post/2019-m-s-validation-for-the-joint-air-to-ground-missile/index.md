@@ -24,4 +24,5 @@ An operational test is resource-limited and must therefore rely on both live tes
 
 
 
-#### Poster: [[Download](poster.pdf)]{{< pdfReader "poster.pdf" >}}
+#### Poster: [[Download](poster.pdf)]
+{{< pdfReader "poster.pdf" >}}

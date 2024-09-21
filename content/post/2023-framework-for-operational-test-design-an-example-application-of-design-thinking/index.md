@@ -20,7 +20,8 @@ This poster provides an example of how a design thinking framework can facilitat
 #### Suggested Citation
 > Avery, Kelly M, and Miriam E Armstrong. An Example Application of Design Thinking. IDA Document NS D-33368. Alexandria, VA: Institute for Defense Analyses, 2023.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

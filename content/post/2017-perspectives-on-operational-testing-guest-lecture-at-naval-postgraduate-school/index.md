@@ -20,7 +20,8 @@ This document was prepared to support Dr. Lillard's visit to the NavalPostgradua
 #### Suggested Citation
 > Lillard, Vincent A. Perspectives on Operational Testing: Guest Lecture at Naval Postgraduate School. IDA Document D-8333-NS. Alexandria, VA: Institute for Defense Analyses, 2017.
 
-#### Slides: [[Download](slides_D-8333.pdf)]{{< pdfReader "slides_D-8333.pdf" >}}
+#### Slides: [[Download](slides_D-8333.pdf)]
+{{< pdfReader "slides_D-8333.pdf" >}}
 
 
 

@@ -20,7 +20,8 @@ In an era of reduced budgets and limited testing, verifying that requirements ha
 #### Suggested Citation
 > Fronczyk, Kassandra. Bayesian Analysis in R/STAN. IDA Document NS D-5831. Alexandria, VA: Institute for Defense Analyses, 2016.
 
-#### Slides: [[Download](slides_NS D-5831-1.pdf)]{{< pdfReader "slides_NS D-5831-1.pdf" >}}
+#### Slides: [[Download](slides_NS D-5831-1.pdf)]
+{{< pdfReader "slides_NS D-5831-1.pdf" >}}
 
 
 

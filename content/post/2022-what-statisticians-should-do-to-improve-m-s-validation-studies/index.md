@@ -20,7 +20,8 @@ It is often said that many research findings -- from social sciences, medicine, 
 #### Suggested Citation
 > Haman, John T. What Statisticians Should Do to Improve M&S Validation Studies. Alexandria, VA: Institute for Defense Analyses, 2022.
 
-#### Slides: [[Download](slides.pdf)]{{< pdfReader "slides.pdf" >}}
+#### Slides: [[Download](slides.pdf)]
+{{< pdfReader "slides.pdf" >}}
 
 
 

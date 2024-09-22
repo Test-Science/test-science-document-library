@@ -10,6 +10,8 @@ researchers: ['Dean Thomas','Kelly Avery','Laura Freeman','Matthew Avery']
 audience: Everyone
 venues: Wiley StatsRef
 draft: no
+cover:
+  image: 
 ---
 
 

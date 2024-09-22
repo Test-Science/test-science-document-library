@@ -10,6 +10,8 @@ researchers: ['Benjamin Ashwell','V. Bram Lillard']
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

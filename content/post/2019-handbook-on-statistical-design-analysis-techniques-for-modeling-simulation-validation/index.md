@@ -11,6 +11,8 @@ researchers: ['Heather Wojton','Kelly Avery','Laura Freeman','Samuel Parry','Gre
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

@@ -10,6 +10,8 @@ researchers: ['Curtis Miller']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= Pq6dHTNMlOA >}}

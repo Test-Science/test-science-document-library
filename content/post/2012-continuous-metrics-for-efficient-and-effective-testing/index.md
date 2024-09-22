@@ -10,6 +10,8 @@ researchers: ['Laura Freeman','V. Bram Lillard']
 audience: Everyone
 venues: NDIA National Test and Evaluation Conference
 draft: no
+cover:
+  image: 
 ---
 
 

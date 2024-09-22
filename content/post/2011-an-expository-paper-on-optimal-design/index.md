@@ -10,6 +10,8 @@ researchers: ['Douglas Montgomery','Bradley Jones','Rachel Johnson']
 audience: Practitioner
 venues: Quality Engineering
 draft: no
+cover:
+  image: 
 ---
 
 

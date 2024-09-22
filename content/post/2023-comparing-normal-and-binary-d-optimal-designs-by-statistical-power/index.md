@@ -10,6 +10,8 @@ researchers: ['Addison Adams']
 audience: Expert
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= f1ChpOMzEWU >}}

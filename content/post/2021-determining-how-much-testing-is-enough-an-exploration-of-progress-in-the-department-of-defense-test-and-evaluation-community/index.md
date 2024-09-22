@@ -10,6 +10,8 @@ researchers: ['Rebecca Medlin','Matthew Avery','James Simpson','Heather Wojton']
 audience: Everyone
 venues: Military Operations Research Society
 draft: no
+cover:
+  image: 
 ---
 
 

@@ -10,6 +10,8 @@ researchers: ['Curtis Miller']
 audience: Everyone
 venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation
 draft: no
+cover:
+  image: 
 ---
 
 

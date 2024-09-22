@@ -10,6 +10,8 @@ researchers: ['Laura Freeman','Pamela Rambow','Jonathan Snavely']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

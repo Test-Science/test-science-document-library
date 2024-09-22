@@ -10,6 +10,8 @@ researchers: ['Thomas Johnson','Lindsey Butler','Kerry Walzl','Heather Wojton']
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

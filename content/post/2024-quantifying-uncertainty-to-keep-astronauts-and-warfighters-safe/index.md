@@ -10,6 +10,8 @@ researchers: ['John Haman','John Dennis','James Warner']
 audience: Everyone
 venues: Significance Magazine
 draft: no
+cover:
+  image: 
 ---
 
 

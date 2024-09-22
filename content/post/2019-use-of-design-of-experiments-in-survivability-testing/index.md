@@ -10,6 +10,8 @@ researchers: ['Thomas Johnson','Mark Couch','John Haman','Heather Wojton']
 audience: Everyone
 venues: Aircraft Survivability Journal
 draft: no
+cover:
+  image: 
 ---
 
 

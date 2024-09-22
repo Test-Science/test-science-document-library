@@ -10,6 +10,8 @@ researchers: ['Michael Gilmore','Rebecca Medlin','Kelly Avery','Matthew Girardi'
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

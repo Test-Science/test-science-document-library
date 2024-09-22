@@ -10,6 +10,8 @@ researchers: ['Laura Freeman','Catherine Warner']
 audience: Everyone
 venues: CHANCE
 draft: no
+cover:
+  image: 
 ---
 
 

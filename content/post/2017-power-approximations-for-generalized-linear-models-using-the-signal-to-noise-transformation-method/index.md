@@ -10,6 +10,8 @@ researchers: ['Thomas Johnson','Laura Freeman','James Simpson','Colin Anderson']
 audience: Expert
 venues: Quality Engineering
 draft: no
+cover:
+  image: 
 ---
 
 

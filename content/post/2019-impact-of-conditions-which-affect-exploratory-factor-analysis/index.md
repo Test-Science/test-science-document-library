@@ -10,6 +10,8 @@ researchers: ['Kevin Krost','Daniel Porter Stephanie Lane','Heather Wojton']
 audience: Expert
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

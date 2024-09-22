@@ -10,6 +10,8 @@ researchers: ['Laura Freeman']
 audience: Everyone
 venues: Range Commanders Conference
 draft: no
+cover:
+  image: 
 ---
 
 

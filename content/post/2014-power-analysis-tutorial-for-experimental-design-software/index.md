@@ -10,6 +10,8 @@ researchers: ['James Simpson','Thomas Johnson','Laura Freeman']
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

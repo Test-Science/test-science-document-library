@@ -10,6 +10,8 @@ researchers: ['John Haman','Curtis Miller']
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= s4DUCI1M8Fw >}}

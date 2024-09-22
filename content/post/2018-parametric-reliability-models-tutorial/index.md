@@ -10,6 +10,8 @@ researchers: ['William Whitledge']
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

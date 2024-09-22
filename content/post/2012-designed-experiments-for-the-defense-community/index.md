@@ -10,6 +10,8 @@ researchers: ['Rachel Johnson','Douglas Montgomery','James Simpson']
 audience: Everyone
 venues: Quality Engineering
 draft: no
+cover:
+  image: 
 ---
 
 

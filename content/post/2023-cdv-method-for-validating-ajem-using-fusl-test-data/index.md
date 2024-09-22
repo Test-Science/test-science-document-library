@@ -10,6 +10,8 @@ researchers: ['Thomas Johnson','Lindsey Butler','David Grimm','John Haman','Kerr
 audience: Everyone
 venues: Aircraft Survivability Journal
 draft: no
+cover:
+  image: 
 ---
 
 

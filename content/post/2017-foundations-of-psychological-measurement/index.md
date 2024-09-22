@@ -10,6 +10,8 @@ researchers: ['Heather Wojton']
 audience: Everyone
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

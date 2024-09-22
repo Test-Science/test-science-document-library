@@ -10,6 +10,8 @@ researchers: ['John Haman','Mark Couch','Thomas Johnson','Kerry Walzl','Heather 
 audience: Practitioner
 venues: Joint Statistical Meetings
 draft: no
+cover:
+  image: 
 ---
 
 

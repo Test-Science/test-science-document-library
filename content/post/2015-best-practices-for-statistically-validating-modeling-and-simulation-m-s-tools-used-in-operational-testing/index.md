@@ -10,6 +10,8 @@ researchers: ['Kelly Avery','Laura Freeman','Rebecca Medlin']
 audience: Everyone
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

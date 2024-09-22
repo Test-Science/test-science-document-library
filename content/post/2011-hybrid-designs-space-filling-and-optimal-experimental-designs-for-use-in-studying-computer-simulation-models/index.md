@@ -10,6 +10,8 @@ researchers: ['Rachel Johnson Silvestrini']
 audience: Practitioner
 venues: Naval Postgraduate School
 draft: no
+cover:
+  image: 
 ---
 
 

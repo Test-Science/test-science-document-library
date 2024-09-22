@@ -10,6 +10,8 @@ researchers: ['Laura Freeman','Thomas Johnson','Raymond Chen']
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

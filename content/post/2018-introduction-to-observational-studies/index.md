@@ -10,6 +10,8 @@ researchers: ['Yevgeniya Pinelis']
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= csO17jA2cxI >}}

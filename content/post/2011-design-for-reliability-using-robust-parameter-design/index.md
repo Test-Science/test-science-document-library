@@ -10,6 +10,8 @@ researchers: ['Laura Freeman']
 audience: Practitioner
 venues: Joint Statistical Meetings
 draft: no
+cover:
+  image: 
 ---
 
 

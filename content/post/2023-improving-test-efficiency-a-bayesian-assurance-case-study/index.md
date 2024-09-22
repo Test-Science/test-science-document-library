@@ -10,6 +10,8 @@ researchers: ['Rebecca Medlin']
 audience: Practitioner
 venues: Joint Statistical Meetings
 draft: no
+cover:
+  image: 
 ---
 
 

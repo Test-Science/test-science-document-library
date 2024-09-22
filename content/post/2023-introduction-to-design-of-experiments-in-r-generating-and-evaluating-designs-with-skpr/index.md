@@ -10,6 +10,8 @@ researchers: ['Tyler Morgan-Wall']
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

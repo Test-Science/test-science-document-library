@@ -30,6 +30,8 @@ for (i in 1:num_posts) {
   poster <- list.files(here(paste0("content/post/", slug)), "poster")
   slide <- list.files(here(paste0("content/post/", slug)), "slide")
   paper <- list.files(here(paste0("content/post/", slug)), "paper")
+  cover <- list.files(here(paste0("content/post/", slug)), "cover")
+
 
   ## Create project data
   project_data <- sprintf(
@@ -45,6 +47,8 @@ researchers: %s
 audience: %s
 venues: %s
 draft: no
+cover:
+  image: %s
 ---
 
 %s
@@ -81,6 +85,11 @@ dat[i, ]$Audience,
 
 # Journals
 dat[i, ]$Journal,
+
+# Cover image
+ifelse(!identical(cover, character(0)),
+       paste0( "\"", cover, "\""),
+       ""),
 
 
 ### Content

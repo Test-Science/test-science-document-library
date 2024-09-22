@@ -10,6 +10,8 @@ researchers: ['Rebecca Medlin','Laura Freeman','Bruce Simpson','Alyson Wilson']
 audience: Practitioner
 venues: Journal of Quality Technology
 draft: no
+cover:
+  image: 
 ---
 
 

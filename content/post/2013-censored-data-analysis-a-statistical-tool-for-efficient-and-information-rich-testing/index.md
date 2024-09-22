@@ -10,6 +10,8 @@ researchers: ['V. Bram Lillard']
 audience: Practitioner
 venues: NDIA National Test and Evaluation Conference
 draft: no
+cover:
+  image: 
 ---
 
 

@@ -10,6 +10,8 @@ researchers: ['Rachel Johnson','Douglas Montgomery','Bradley Jones','Chris Gotwa
 audience: Everyone
 venues: Quality Engineering
 draft: no
+cover:
+  image: 
 ---
 
 

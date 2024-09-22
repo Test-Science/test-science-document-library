@@ -10,6 +10,8 @@ researchers: ['Elliot Bartis','Steven Rabinowitz']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= ujrZakOLJJ4 >}}

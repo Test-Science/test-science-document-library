@@ -10,6 +10,8 @@ researchers: ['Kristina Carter','Heather Wojton','Stephanie Lane']
 audience: Practitioner
 venues: The The ITEA Journal of Test and Evaluation
 draft: no
+cover:
+  image: 
 ---
 
 

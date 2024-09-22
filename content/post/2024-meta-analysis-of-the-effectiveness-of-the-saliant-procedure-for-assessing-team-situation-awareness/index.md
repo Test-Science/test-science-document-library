@@ -10,6 +10,8 @@ researchers: ['Sarah Shaffer','Miriam Armstrong']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= Vmt1CT__stU >}}

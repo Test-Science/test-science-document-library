@@ -10,6 +10,8 @@ researchers: ['Matthew Avery']
 audience: Expert
 venues: Joint Statistical Meetings
 draft: no
+cover:
+  image: 
 ---
 
 

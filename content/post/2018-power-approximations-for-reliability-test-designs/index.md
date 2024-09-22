@@ -10,6 +10,8 @@ researchers: ['Rebecca Medlin','Laura Freeman','Thomas Johnson']
 audience: Expert
 venues: Quality and Reliability Engineering International
 draft: no
+cover:
+  image: 
 ---
 
 

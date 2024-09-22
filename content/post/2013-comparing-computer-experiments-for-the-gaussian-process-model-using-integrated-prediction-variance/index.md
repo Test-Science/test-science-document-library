@@ -10,6 +10,8 @@ researchers: ['Rachel Silvestrini','Douglas Montgomery','Bradley Jones']
 audience: Expert
 venues: Quality Engineering
 draft: no
+cover:
+  image: 
 ---
 
 

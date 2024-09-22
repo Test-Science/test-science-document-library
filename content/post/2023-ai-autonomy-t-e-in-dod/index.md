@@ -10,6 +10,8 @@ researchers: ['Brian Vickers','Matthew Avery','Rachel Haga','Mark Herrera','Dani
 audience: Everyone
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

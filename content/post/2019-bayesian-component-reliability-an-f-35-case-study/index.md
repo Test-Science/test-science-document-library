@@ -10,6 +10,8 @@ researchers: ['Rebecca Medlin','V. Bram Lillard']
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

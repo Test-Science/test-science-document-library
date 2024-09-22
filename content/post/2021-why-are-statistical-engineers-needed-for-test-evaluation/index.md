@@ -10,6 +10,8 @@ researchers: ['Rebecca Medlin','Keyla Pagan-Rivera','Monica Ahrens']
 audience: Everyone
 venues: Quality and Productivity Research Conference
 draft: no
+cover:
+  image: 
 ---
 
 

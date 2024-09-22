@@ -10,6 +10,8 @@ researchers: ['Alyson Wilson','Robert Holcomb','Lee Dewald','Samuel Parry']
 audience: Everyone
 venues: Army Conference on Applied Statistics
 draft: no
+cover:
+  image: 
 ---
 
 

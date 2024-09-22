@@ -10,6 +10,8 @@ researchers: ['Yosef Razin','Kristen Alexander','John Haman']
 audience: Practitioner
 venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation
 draft: no
+cover:
+  image: "trust-cover.jpg"
 ---
 
 {{< youtube id= xQL_kBiasPI >}}

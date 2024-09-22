@@ -10,6 +10,8 @@ researchers: ['Brian Vickers','Rachel Haga','Daniel Porter','Heather Wojton']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= 0XkuBNb1TBg >}}

@@ -10,6 +10,8 @@ researchers: ['Elizabeth Green','Miriam Armstrong','Janna Mantua']
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= uqmjLsDA_EA >}}

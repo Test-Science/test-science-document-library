@@ -10,6 +10,8 @@ researchers: ['Rebecca Medlin','John Dennis','Keyla Pagan-Rivera','Leonard Wilki
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

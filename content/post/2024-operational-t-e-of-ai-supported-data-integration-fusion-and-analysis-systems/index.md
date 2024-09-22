@@ -10,6 +10,8 @@ researchers: ['Adam Miller','Logan Ausman','John Haman','Keyla Pagan-Rivera','Sa
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= JqlIzJh-RQI >}}

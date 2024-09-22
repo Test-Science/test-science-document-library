@@ -10,6 +10,8 @@ researchers: ['Leonard Wilkins','Caitlan Fealing']
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= E1vPChYwf-k >}}

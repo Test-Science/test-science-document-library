@@ -10,6 +10,8 @@ researchers: ['Matthew Avery','Andrew Flack','Brian Vickers','Heather Wojton']
 audience: Everyone
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

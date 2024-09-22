@@ -10,6 +10,8 @@ researchers: ['Rebecca Medlin','Laura Freeman','Jennifer Kensler','Geoffrey Vini
 audience: Practitioner
 venues: Quality and Reliability Engineering International
 draft: no
+cover:
+  image: 
 ---
 
 

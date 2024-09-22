@@ -10,6 +10,8 @@ researchers: ['Rebecca Medlin','Keyla Pagán-Rivera','Jay Dennis','Monica Ahrens
 audience: Everyone
 venues: Quality Engineering
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= gYTY5OJY4Yo >}}

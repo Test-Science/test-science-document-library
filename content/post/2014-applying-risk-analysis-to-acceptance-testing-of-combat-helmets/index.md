@@ -10,6 +10,8 @@ researchers: ['Janice Hester','Laura Freeman']
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

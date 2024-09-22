@@ -10,6 +10,8 @@ researchers: ['Curtis Miller','Kelly Duffy']
 audience: Expert
 venues: Joint Statistical Meetings
 draft: no
+cover:
+  image: "cover-uq.jpg"
 ---
 
 

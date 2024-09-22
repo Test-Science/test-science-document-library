@@ -10,6 +10,8 @@ researchers: ['Laura Freeman, Thomas Johnson, Matthew Avery, V. Bram Lillard,
 audience: Practitioner
 venues: Analytic Methods in Systems and Software Testing
 draft: no
+cover:
+  image: 
 ---
 
 

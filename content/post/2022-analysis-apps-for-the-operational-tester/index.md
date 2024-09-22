@@ -10,6 +10,8 @@ researchers: ['William Whitledge']
 audience: Everyone
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

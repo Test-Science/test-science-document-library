@@ -10,6 +10,8 @@ researchers: ['Caitlan Fealing']
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

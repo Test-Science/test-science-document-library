@@ -10,6 +10,8 @@ researchers: ['Wilkins','David Sparrow','Caitlan Fealing','Brian Vickers','Krist
 audience: Practitioner
 venues: System Engineering
 draft: no
+cover:
+  image: 
 ---
 
 

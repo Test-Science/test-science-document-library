@@ -10,6 +10,8 @@ researchers: ['Laura Freeman']
 audience: Everyone
 venues: Army Conference on Applied Statistics
 draft: no
+cover:
+  image: 
 ---
 
 

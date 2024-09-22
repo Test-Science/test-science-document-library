@@ -10,6 +10,8 @@ researchers: ['Arthur Fries']
 audience: Expert
 venues: NA
 draft: no
+cover:
+  image: 
 ---
 
 

@@ -10,6 +10,8 @@ researchers: ['Raymond Hill','Derek Leggio','Shay Capehart','August Roesener']
 audience: Practitioner
 venues: Quality and Reliability Engineering International
 draft: no
+cover:
+  image: 
 ---
 
 

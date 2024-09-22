@@ -10,6 +10,8 @@ researchers: ['Kelly Avery','Stephanie Lane']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= qVPtm43prdU >}}

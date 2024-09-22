@@ -10,6 +10,8 @@ researchers: ['Tyler Morgan-Wall','Robert Atkins','Curtis Miller']
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= j0rINL3L-yo >}}

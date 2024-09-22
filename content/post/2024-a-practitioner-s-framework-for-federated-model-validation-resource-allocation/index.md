@@ -10,6 +10,8 @@ researchers: ['Dhruv Patel','Jo Anna Capp','John Haman']
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: "patel-cover.jpg"
 ---
 
 {{< youtube id= owcIxrA_sXs >}}

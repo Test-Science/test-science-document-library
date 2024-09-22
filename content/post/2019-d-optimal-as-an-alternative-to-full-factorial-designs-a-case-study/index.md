@@ -10,6 +10,8 @@ researchers: ['Keyla Pagan-Rivera']
 audience: Expert
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

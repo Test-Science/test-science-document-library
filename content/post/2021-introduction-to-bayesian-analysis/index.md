@@ -10,6 +10,8 @@ researchers: ['John Haman','Keyla Pagan-Rivera','Rebecca Medlin','Heather Wojton
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

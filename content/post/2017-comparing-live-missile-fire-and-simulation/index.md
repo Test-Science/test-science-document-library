@@ -10,6 +10,8 @@ researchers: ['Rebecca Medlin','Pamela Rambow','Douglas Peek']
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

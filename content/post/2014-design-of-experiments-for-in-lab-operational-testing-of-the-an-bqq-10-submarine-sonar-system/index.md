@@ -10,6 +10,8 @@ researchers: ['Laura Freeman','Justace Clutter','George Khoury']
 audience: Everyone
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

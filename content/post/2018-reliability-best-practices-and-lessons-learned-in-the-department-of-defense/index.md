@@ -10,6 +10,8 @@ researchers: ['Jon Bell','Jane Pinelis','Laura Freeman']
 audience: Everyone
 venues: Reliability & Maintainability Symposium
 draft: no
+cover:
+  image: 
 ---
 
 

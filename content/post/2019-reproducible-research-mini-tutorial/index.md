@@ -10,6 +10,8 @@ researchers: ['Andrew Flack','John Haman','Kevin Kirshenbaum']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= WOyEulNqCKA >}}

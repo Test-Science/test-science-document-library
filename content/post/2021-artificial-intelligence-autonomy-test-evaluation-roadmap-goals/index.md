@@ -10,6 +10,8 @@ researchers: ['Brian Vickers','Daniel Porter','Rachel Haga','Heather Wojton']
 audience: Everyone
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

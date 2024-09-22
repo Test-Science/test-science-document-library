@@ -10,6 +10,8 @@ researchers: ['Rebecca Grier','Laura Freeman']
 audience: Everyone
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

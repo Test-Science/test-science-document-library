@@ -10,6 +10,8 @@ researchers: ['Heather Wojton','Daniel Porter','Yevgeniya Pinelis','Chad Bieber'
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

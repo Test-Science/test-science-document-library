@@ -10,6 +10,8 @@ researchers: ['Alyson Wilson','Kassandra Froncyzk']
 audience: Practitioner
 venues: Quality Engineering
 draft: no
+cover:
+  image: 
 ---
 
 

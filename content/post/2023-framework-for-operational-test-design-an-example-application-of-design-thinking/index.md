@@ -10,6 +10,8 @@ researchers: ['Miriam Armstrong']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

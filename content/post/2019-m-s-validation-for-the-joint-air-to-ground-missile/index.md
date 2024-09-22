@@ -10,6 +10,8 @@ researchers: ['Brent Crabtree','Andrew Cseko','Tom Johnson','Joel Williamson','K
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

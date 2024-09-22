@@ -10,6 +10,8 @@ researchers: ['Heather Wojton','Kelly Avery','Laura Freeman','Thomas Johnson']
 audience: Everyone
 venues: The ITEA Journal of Test and Evaluation
 draft: no
+cover:
+  image: 
 ---
 
 

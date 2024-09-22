@@ -10,6 +10,8 @@ researchers: ['Matthew Avery','Mark Orndorff','Timothy Robinson','Laura Freeman'
 audience: Expert
 venues: Quality and Reliability Engineering International
 draft: no
+cover:
+  image: 
 ---
 
 

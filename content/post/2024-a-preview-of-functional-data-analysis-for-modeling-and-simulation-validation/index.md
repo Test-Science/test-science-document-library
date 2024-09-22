@@ -10,6 +10,8 @@ researchers: ['Curtis Miller']
 audience: Practitioner
 venues: DATAWorks
 draft: no
+cover:
+  image: "cover.jpg"
 ---
 
 {{< youtube id= 1neGQl8Jtxs >}}

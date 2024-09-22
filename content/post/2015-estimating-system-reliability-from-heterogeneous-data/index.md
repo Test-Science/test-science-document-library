@@ -10,6 +10,8 @@ researchers: ['Caleb Browning','Laura Freeman','Alyson Wilson','Kassandra Froncz
 audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
+cover:
+  image: 
 ---
 
 

@@ -10,6 +10,8 @@ researchers: ['Heather Wojton','Daniel Porter','Stephanie Lane','Chad Bieber','P
 audience: Expert
 venues: The Journal of Social Psychology
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= 4fMtKSqNeu4 >}}

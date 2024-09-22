@@ -10,6 +10,8 @@ researchers: ['John Haman']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= 8rZNYHeCJNU >}}

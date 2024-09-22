@@ -10,6 +10,8 @@ researchers: ['Breeana Anderson','Rebecca Medlin','John Haman','Kelly Avery','Ke
 audience: Everyone
 venues: Interservice/Industry Training, Simulation and Education Conference (I/ITSEC)
 draft: no
+cover:
+  image: 
 ---
 
 

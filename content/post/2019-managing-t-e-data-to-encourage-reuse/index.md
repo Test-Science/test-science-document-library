@@ -10,6 +10,8 @@ researchers: ['Andrew Flack','Rebecca Medlin']
 audience: Everyone
 venues: The ITEA Journal of Test and Evaluation
 draft: no
+cover:
+  image: 
 ---
 
 

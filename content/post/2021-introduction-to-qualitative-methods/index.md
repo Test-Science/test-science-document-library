@@ -10,6 +10,8 @@ researchers: ['Kristina Carter','Emily Fedele','Daniel Hellmann']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 {{< youtube id= R8Qwc5IF1C8 >}}

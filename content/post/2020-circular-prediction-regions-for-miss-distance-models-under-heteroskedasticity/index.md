@@ -10,6 +10,8 @@ researchers: ['Thomas Johnson','John Haman','Heather Wojton','Laura Freeman']
 audience: Practitioner
 venues: Quality and Reliability Engineering International
 draft: no
+cover:
+  image: 
 ---
 
 

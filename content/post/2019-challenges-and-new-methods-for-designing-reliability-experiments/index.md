@@ -10,6 +10,8 @@ researchers: ['Laura Freeman','Thomas Johnson','Rebecca Medlin']
 audience: Practitioner
 venues: Quality Engineering
 draft: no
+cover:
+  image: 
 ---
 
 

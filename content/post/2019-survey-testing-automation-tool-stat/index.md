@@ -10,6 +10,8 @@ researchers: ['Kelly Tran','Tara McGovern','William Whitledge']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

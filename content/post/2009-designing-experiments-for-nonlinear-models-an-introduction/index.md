@@ -10,6 +10,8 @@ researchers: ['Rachel Johnson','Douglas Montgomery']
 audience: Expert
 venues: Quality and Reliability Engineering International
 draft: no
+cover:
+  image: 
 ---
 
 

@@ -10,6 +10,8 @@ researchers: ['Laura Freeman','Denise Edwards','Stephanie Lane','James Simpson',
 audience: Practitioner
 venues: Defense Acquisition University
 draft: no
+cover:
+  image: 
 ---
 
 

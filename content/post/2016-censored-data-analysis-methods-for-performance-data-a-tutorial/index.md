@@ -10,6 +10,8 @@ researchers: ['V. Bram Lillard']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

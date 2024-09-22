@@ -10,6 +10,8 @@ researchers: ['Kassandra Fronczyk']
 audience: Everyone
 venues: DATAWorks
 draft: no
+cover:
+  image: 
 ---
 
 

@@ -1,22 +1,16 @@
 # Test Science Document Library
 
-Is is the source code for the test science research document library. It contains all of Test Science's public works, and instructions for building the library.
+This repo contains the source code for the test science research document library. It contains (hopefully) all of Test Science's public works, and instructions for building the library, which is a hugo website.
 
 Preview: https://test-science-document-library.netlify.app/
 
 There are two git forges that track the Test Science Document Library.
 - IDA Internal Bitbucket: https://code.ida.org/projects/TSDL/repos/websource/browse
-- Public Github. The public github is needed to build previews of the website on Netlify. https://github.com/jthaman/test-science-document-library
-
-## To Do
-
-- Remove any pubs that we don't have rights to distribute
-- Link to Relevant Test Science apps
-- PDF -> Markdown conversion
+- Public Github. The public github is needed to build previews of the website on Netlify. https://github.com/Test-Science/test-science-document-library
 
 ## Requirements
 
-- Hugo
+- Hugo (see [here](https://gohugo.io/installation/windows/) for Windows users)
 - R and blogdown
 - Git
 - Zotero is not necessary, but it is a convenient way to generate bib entries
@@ -25,13 +19,11 @@ There are two git forges that track the Test Science Document Library.
 
 #### Adding a new project to the Test Science Document Library
 
-Data for the site is stored in `test-science-document-library.xlsx`. Each row is a unique test science *project* (and a project can have multiple products: papers, slide decks, posters, etc.). Each row determine a project in the test science documents library.
+To update the website, add a new row to the spreadsheet, and then
 
-To update the website, add a new row to the spreadsheet.
-
-Running the `create-library.R` file creates the structure of the content directory and fills the data into each markdown file. Blogdown is needed to make the folder structure and slugs but you don't have to use blogdown otherwise to serve or build the website.
-
-Move the paper and slide to the newly generated folder
+1. Run the `create-library.R`
+1. Move the paper and slide to the newly generated folder
+1. Run `hugo`
 
 #### Testing the Website
 
@@ -42,3 +34,9 @@ Then go to http://localhost:1313/ to see a local preview of the Test Science Doc
 #### Publishing an update to Netlify
 
 Merge a change into the github repository, and the Netlify app will automatically rebuild the site and deploy it.
+
+## To Do
+
+- Remove any pubs that we don't have rights to distribute
+- Link to Relevant Test Science apps
+- PDF -> Markdown conversion

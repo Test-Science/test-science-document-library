@@ -2,14 +2,17 @@
 
 Is is the source code for the test science research document library. It contains all of Test Science's public works, and instructions for building the library.
 
+Preview: https://test-science-document-library.netlify.app/
+
 There are two git forges that track the Test Science Document Library.
 - IDA Internal Bitbucket: https://code.ida.org/projects/TSDL/repos/websource/browse
-- Public Github. The public github is needed to build previews of the website on Netlify.
+- Public Github. The public github is needed to build previews of the website on Netlify. https://github.com/jthaman/test-science-document-library
 
 ## To Do
 
 - Remove any pubs that we don't have rights to distribute
 - Link to Relevant Test Science apps
+- PDF -> Markdown conversion
 
 ## Requirements
 
@@ -32,6 +35,10 @@ Move the paper and slide to the newly generated folder
 
 #### Testing the Website
 
-run `hugo server` in the folder will build and preview the website, then go to http://localhost:1313/ to see a local preview of the Test Science Documents Library.
+Running `hugo server` in the folder will build and preview the website.
 
-#### Publishing an update
+Then go to http://localhost:1313/ to see a local preview of the Test Science Documents Library.
+
+#### Publishing an update to Netlify
+
+Merge a change into the github repository, and the Netlify app will automatically rebuild the site and deploy it.

@@ -6,6 +6,9 @@ enableInlineShortcodes = true
 ShowBreadCrumbs = true
 copyright = "[© Institute for Defense Analyses](https://www.ida.org)"
 
+[label]
+        icon = "/testsci-logo.png"
+        iconHeight = 100
 
 [params]
         ShowShareButtons = true
@@ -13,8 +16,10 @@ copyright = "[© Institute for Defense Analyses](https://www.ida.org)"
         hideMeta = false
         dateFormat = '2006' # You just put a placeholder in to make it only show the year of publication.
 
+
+
 [pagination]
-        pagerSize = 1000
+        pagerSize = 1000 # no pagination
 
 
 

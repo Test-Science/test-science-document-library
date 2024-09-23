@@ -1,12 +1,12 @@
 ---
 title: M&S Validation for the Joint Air-to-Ground Missile
-author: Brent Crabtree, Andrew Cseko, Tom Johnson, Joel Williamson, Kelly Avery
+author: Brent Crabtree, Andrew Cseko, Thomas Johnson, Joel Williamson, Kelly Avery
 date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Modeling and Simulation']
 keywords: ['Model Validation','JAGM']
-researchers: ['Brent Crabtree','Andrew Cseko','Tom Johnson','Joel Williamson','Kelly Avery']
+researchers: ['Brent Crabtree','Andrew Cseko','Thomas Johnson','Joel Williamson','Kelly Avery']
 audience: Practitioner
 venues: DATAWorks
 draft: no

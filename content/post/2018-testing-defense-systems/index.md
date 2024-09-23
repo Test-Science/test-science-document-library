@@ -1,12 +1,12 @@
 ---
 title: Testing Defense Systems
-author: Laura Freeman, Thomas Johnson, Matthew Avery, V. Bram Lillard, Justace Clutter
+author: Justace Clutter, Thomas Johnson, Matthew Avery, V. Bram Lillard, Laura Freeman
 date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Design of Experiments']
 keywords: ['Design of Experiment','Operational Testing','Statistics']
-researchers: ['Laura Freeman, Thomas Johnson, Matthew Avery, V. Bram Lillard, Justace Clutter']
+researchers: ['Justace Clutter','Thomas Johnson','Matthew Avery','V. Bram Lillard','Laura Freeman']
 audience: Practitioner
 venues: Analytic Methods in Systems and Software Testing
 draft: no

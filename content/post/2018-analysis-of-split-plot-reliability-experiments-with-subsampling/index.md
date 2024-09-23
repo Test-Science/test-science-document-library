@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Reliability experiments are important for determining which factors drive product reliability. The data collected in these experiments can be challenging to analyze. Often, the reliability or lifetime data collected follow distinctly nonnormal distributions and include censored observations. Additional challenges in the analysis arise when the experiment is executed with restrictions on randomization. The focus of this paper is on the proper analysis of reliability data collected from a nonrandomized reliability experiments. Specifically, we focus on the analysis of lifetime data from a split-plot experimental design. We outline a nonlinear mixed-model analysis for a split-plot reliability experiment with subsampling and right-censored Weibull distributed lifetime data. A simulation study compares the proposed method with a two-stage method of analysis.
 
 #### Suggested Citation

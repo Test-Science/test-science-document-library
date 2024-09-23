@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Space filling designs are a common choice of experimental design strategy for computer experiments. This paper compares space filling design types based on their theoretical prediction variance properties with respect to the Gaussian Process model.
 
 #### Suggested Citation

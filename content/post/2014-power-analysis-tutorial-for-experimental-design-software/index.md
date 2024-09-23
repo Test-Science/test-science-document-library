@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This guide provides both a general explanation of power analysis and specific guidance to successfully interface with two software packages, JMP and Design Expert (DX).
 
 #### Suggested Citation

@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 To provide assurance that AI-enabled systems will behave appropriately across the range of their operating conditions without performing exhaustive testing, the DoD will need to make inferences about system decision making. However, making these inferences validly requires understanding what causally drives system decision-making, which is not possible when systems are black boxes. In this briefing, we discuss the state of the art and gaps in techniques for obtaining, verifying, validating, and accrediting (OVVA) models of system decision-making.
 
 #### Suggested Citation

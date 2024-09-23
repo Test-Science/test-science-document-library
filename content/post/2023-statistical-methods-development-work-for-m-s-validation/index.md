@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 We discuss four areas in which statistically rigorous methods contribute to modeling and simulation validation studies. These areas are statistical risk analysis, space-filling experimental designs, metamodel construction, and statistical validation. Taken together, these areas implement DOT&E guidance on model validation. In each area, IDA has contributed either research methods, user-friendly tools, or both. We point to our tools on testscience.org, and survey the research methods that we've contributed to the M&S validation literature
 
 #### Suggested Citation

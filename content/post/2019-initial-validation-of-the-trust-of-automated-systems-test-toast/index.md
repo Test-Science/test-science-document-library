@@ -16,7 +16,6 @@ cover:
 
 {{< youtube id= 4fMtKSqNeu4 >}}
 
-### Abstract
 Trust is a key determinant of whether people rely on automated systems in the military and the public. However, there is currently no standard for measuring trust in automated systems. In the present studies we propose a scale to measure trust in automated systems that is grounded in current research and theory on trust formation, which we refer to as the Trust in Automated Systems Test (TOAST). We evaluated both the reliability of the scale structure and criterion validity using independent, military-affiliated and civilian samples. In both studies we found that the TOAST exhibited a two-factor structure, measuring system understanding and performance (respectively), and that factor scores significantly predicted scores on theoretically related constructs demonstrating clear criterion validity. We discuss the implications of our findings for advancing the empirical literature and in improving interface design.
 
 #### Suggested Citation

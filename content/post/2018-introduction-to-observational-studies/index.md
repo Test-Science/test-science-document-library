@@ -16,8 +16,7 @@ cover:
 
 {{< youtube id= csO17jA2cxI >}}
 
-### Abstract
-
+A presentation on the theory and practive of observational studies.  Specific average treatment effect methods include matching, difference-in-difference estimators, and instrumental variables.
 
 #### Suggested Citation
 > Thomas, Dean, and Yevgeniya K Pinelis. Introduction to Observational Studies. IDA Document NS D-9020. Alexandria, VA: Institute for Defense Analyses, 2018.

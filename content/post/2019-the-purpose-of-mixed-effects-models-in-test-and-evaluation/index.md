@@ -16,8 +16,7 @@ cover:
 
 
 
-### Abstract
-Mixed-effects models are the standard technique for analyzing data that exhibit some grouping structure. In defense testing, these models are useful because they allow us to account for correlations between observations, a feature common in many operational tests. In this article, we describe the advantages of modeling data from a mixed-effects perspective and discuss an R package—ciTools—that equips the user with easy methods for presenting results from this type of model.
+Mixed-effects models are the standard technique for analyzing data with grouping structure. In defense testing, these models are useful because they allow us to account for correlations between observations, a feature common in many operational tests. In this article, we describe the advantages of modeling data from a mixed-effects perspective and discuss an R package—ciTools—that equips the user with easy methods for presenting results from this type of model.
 
 #### Suggested Citation
 > Haman, John, Matthew Avery, and Heather Wojton. “The Purpose of Mixed-Effects Models in Test and Evaluation.” The ITEA Journal of Test and Evaluation 40, no. 4 (2019): 249–55.

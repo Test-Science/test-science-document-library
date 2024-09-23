@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This document outlines the charter for the Committee to Institutionalize Scientific Test Design and Rigor in Test and Evaluation. The charter defines the problem, identifies potential steps in a roadmap for accomplishing the goals of the committee and lists committeemembership. Once the committee is assembled, the members will revise this document as needed. The charter will be endorsed by DOT&E and DDT&E, once finalize.
 
 #### Suggested Citation

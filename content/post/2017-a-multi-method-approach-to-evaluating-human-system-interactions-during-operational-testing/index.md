@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 The purpose of this paper was to identify the shortcomings of a single-method approach to evaluating human-system interactions during operational testing and offer an alternative, multi-method approach that is more defensible, yields richer insights into how operators interact with weapon systems, and provides a practical implications for identifying when the quality of human-system interactions warrants correction through either operator training or redesign.
 
 #### Suggested Citation

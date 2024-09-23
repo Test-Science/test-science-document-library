@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This is a briefing intended to motivate and explain the basic concepts of applying statistics to verification and validation. The briefing will be presented at the Navy M&S VV&A WG (Sub-WG on Validation Statistical Method Selection).
 
 #### Suggested Citation

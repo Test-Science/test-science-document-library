@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Statistical power is a useful measure for assessing the adequacy of anexperimental design prior to data collection. This paper proposes an approach referredto as the signal-to-noise transformation method (SNRx), to approximate power foreffects in a generalized linear model. The contribution of SNRx is that, with a coupleassumptions, it generates power approximations for generalized linear model effectsusing F-tests that are typically used in ANOVA for classical linear models.Additionally, SNRx follows Ohlert and Whitcomb's unified approach for sizing aneffect, which allows for intuitive effect size definitions, and consistent estimates ofpower. This paper details the process for defining an effect size, constructing thecoefficients for the test, and calculating power for the family of generalized linearmodels. The focus is on experimental designs that have multi-level categorical factors. A simulation study is performed which demonstrates that SNRx power results agreewith simulation.
 
 #### Suggested Citation

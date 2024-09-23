@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Recasting gunfire data from binomial (hit/miss) to continuous (time-to-kill) allows us to draw statistical conclusions with tactical implications from free-play,live-fire surface gunnery events. Our analysis provided the Navy with suggestions forimprovements to its tactics and the employment of its weapons. A censored analysisenabled us to do so, where other methods fell short.
 
 #### Suggested Citation

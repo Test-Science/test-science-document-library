@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Binomial metrics like probability-to-detect or probability-to-hit typically do not provide the maximum information from testing. Using continuous metrics such as time to detect provide more information, but do not account for non-detects. Censored data analysis allows us to account for both pieces of information simultaneously.
 
 #### Suggested Citation

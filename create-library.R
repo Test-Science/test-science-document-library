@@ -53,7 +53,6 @@ cover:
 
 %s
 
-### Abstract
 %s
 
 #### Suggested Citation

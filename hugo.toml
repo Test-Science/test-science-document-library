@@ -6,9 +6,11 @@ enableInlineShortcodes = true
 ShowBreadCrumbs = true
 copyright = "[© Institute for Defense Analyses](https://www.ida.org)"
 
+# Todo: label does not work
 [label]
-        icon = "/testsci-logo.png"
-        iconHeight = 100
+        text = 'Test Science Documents Library'
+        icon = "/assets/testsci-logo.png"
+        iconHeight = 36
 
 [params]
         ShowShareButtons = true

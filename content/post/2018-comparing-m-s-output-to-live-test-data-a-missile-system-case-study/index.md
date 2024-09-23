@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 In the operational testing of DoD weapons systems, modeling and simulation (M&S) is often used to supplement live test data in order to support a more complete and rigorous evaluation. Before the output of the M&S is included in reports to decision makers, it must first be thoroughly verified and validated to show that it adequately represents the real world for the purposes of the intended use. Part of the validation process should include a statistical comparison of live data to M&S output. This presentation includes an example of one such validation analysis for a tactical missile system. In this case, the goal is to validate a lethality model that predicts the likelihood of destroying a particular enemy target. Using design of experiments, along with basic analysis techniques such as the Kolmogorov-Smirnov test and Poisson regression, we can explore differences between the M&S and live data across multiple operational conditions and quantify the associated uncertainties.
 
 #### Suggested Citation

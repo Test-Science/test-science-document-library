@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 An important goal of test and evaluation is to understand not only how a system performs in its intended environment, but also users’ experiences operating the system. This briefing aimed to provide the audience with a set of tools – most notably, surveys – that are appropriate for measuring the user experience. DOT&E guidance regarding these tools is highlighted where appropriate. The briefing was broken into three major sections: conceptualizing surveys, writing survey items, and formatting surveys. At the end of this briefing, the audience should have a better understanding of the value and purpose of surveys and how to construct them.
 
 #### Suggested Citation

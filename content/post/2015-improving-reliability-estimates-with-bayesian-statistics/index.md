@@ -5,7 +5,7 @@ date: 2015-01-01
 year: 2015
 slug: []
 areas: ['Reliability']
-keywords: ['reliability','Bayesian']
+keywords: ['Reliability','Bayesian','Bayes']
 researchers: ['Kassandra Fronczyk','Laura Freeman']
 audience: Practitioner
 venues: The ITEA Journal of Test and Evaluation
@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This paper shows how Bayesian methods are ideal for the assessment of complex system reliability assessments. Several examples illustrate the methodology.
 
 #### Suggested Citation

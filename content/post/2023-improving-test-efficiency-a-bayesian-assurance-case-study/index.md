@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 To improve test planning for evaluating system reliability, we propose the use of Bayesian methods to incorporate supplementary data and reduce testing duration. Furthermore, we recommend Bayesian methods be employed in the analysis phase to better quantify uncertainty. We find that when using Bayesian Methods for test planning we can scope smaller tests and using Bayesian methods in analysis results in a more precise estimate of reliability – improving uncertainty quantification.
 
 #### Suggested Citation

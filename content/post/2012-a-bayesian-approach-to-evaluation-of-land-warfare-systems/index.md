@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This presentation is a presentation for the Army Conference on Applied Statistics. The presentation covers a brief introduction to land warfare problems, and devises a methodology using Bayes Theorem to estimate parameters of interest. Two examples are given, a simple one using independent Bernoulli Trials, and a more complex one using correlated Red and Blue casualty data in a Loss Exchange Ratio and a hierarchical model. The presentation demonstrates that the Bayesian approach is successful in both examples at reducing the variance of the estimated parameters, potentially reducing the cost of devising a complex test program. The presentation concludes with suggested next steps applicable to the Army Ground Combat Vehicle program.
 
 #### Suggested Citation

@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 There are many situations where the requirements of a standard experimental design do not fit the research requirements of the problem. Three such situations occur when the problem requires unusual resource restrictions, when there are constraints on the design region, and when a non-standard model is expected to be required to adequately explain the response.
 
 #### Suggested Citation

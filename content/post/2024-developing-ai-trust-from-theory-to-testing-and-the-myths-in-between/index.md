@@ -16,7 +16,6 @@ cover:
 
 {{< youtube id= xQL_kBiasPI >}}
 
-### Abstract
 This introductory work aims to provide members of the Test and Evaluation community with a clear understanding of trust and trustworthiness to support responsible and effective evaluation of AI systems.  The paper provides a set of working definitions and works toward dispelling confusion and myths surrounding trust.
 
 #### Suggested Citation

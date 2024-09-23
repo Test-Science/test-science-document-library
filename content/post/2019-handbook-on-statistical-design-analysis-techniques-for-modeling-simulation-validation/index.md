@@ -17,7 +17,6 @@ cover:
 
 
 
-### Abstract
 This handbook focuses on methods for data-driven validation to supplement the vast existing literature for Verification, Validation, and Accreditation (VV&A) and the emerging references on uncertainty quantification (UQ). The goal of this handbook is to aid the test and evaluation (T&E) community in developing test strategies that support model validation (both external validation and parametric analysis) and statistical UQ.
 
 #### Suggested Citation

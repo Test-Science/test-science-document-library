@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 The purpose of this briefing is to provide a high-level overview of how to frame the question of testing autonomous systems in a way that will enable development of successful test strategies. The brief outlines the challenges and broad-stroke reforms needed to get ready for the test challenges of the next century.
 
 #### Suggested Citation

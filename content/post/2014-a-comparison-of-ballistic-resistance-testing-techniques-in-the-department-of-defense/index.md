@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This paper summarizes sensitivity test methods commonly employed in the Department of Defense. A comparison study shows that modern methods such as Neyer's method and Three-Phase Optimal Design are improvements over historical methods.
 
 #### Suggested Citation

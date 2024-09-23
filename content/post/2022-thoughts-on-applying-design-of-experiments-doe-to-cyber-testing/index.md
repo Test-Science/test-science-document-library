@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This briefing presented at Dataworks 2022 provides examples of potential ways in which Design of Experiments (DOE) could be applied to initially scope cyber assessments and, based on the results of those assessments, subsequently design in greater detail cyber tests.
 
 #### Suggested Citation

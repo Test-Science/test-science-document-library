@@ -16,7 +16,6 @@ cover:
 
 {{< youtube id= WOyEulNqCKA >}}
 
-### Abstract
 Analyses are reproducible if the same methods applied to the same data produce identical results when run again by another researcher (or you in the future). Reproducible analyses are transparent and easy for reviewers to verify, as results and figures can be traced directly to the data and methods that produced them. There are also direct benefits to the researcher. Real-world analysis workflows inevitably require changes to incorporate new or additional data, or to address feedback from collaborators, reviewers, or sponsors.
 
 #### Suggested Citation

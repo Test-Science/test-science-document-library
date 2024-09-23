@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This tutorial provides an overview of experimental design for modeling and simulation. Pros and cons of each design methodology are discussed.
 
 #### Suggested Citation

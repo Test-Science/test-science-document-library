@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Needs one
 
 #### Suggested Citation

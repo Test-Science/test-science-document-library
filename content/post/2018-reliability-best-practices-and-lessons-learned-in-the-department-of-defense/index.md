@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Despite the importance of acquiring reliable systems to support thewarfighter, many military programs fail to meet reliability requirements, which affectsthe overall suitability and cost of the system. To determine ways to improve reliabilityoutcomes in the future, research staff from the Institute for Defense analysesOperational Evaluation Division compiled case studies identifying reliability lessonslearned and best practices for several DOT&E oversight programs. The case studiesprovide program specific information on strategies that worked well or did not workwell to produce reliable systems.
 
 #### Suggested Citation

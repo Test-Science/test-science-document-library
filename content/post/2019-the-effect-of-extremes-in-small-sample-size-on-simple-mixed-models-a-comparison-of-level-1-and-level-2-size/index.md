@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 We present a simulation study that examines the impact of small sample sizes in both observation and nesting levels of the model on the fixed effect bias, type I error, and the power of a simple mixed model analysis. Despite the need for adjustments to control for type I error inflation, our findings indicate that smaller samples than previously recognized can be used for mixed models under certain conditions prevalent in applied research.
 
 #### Suggested Citation

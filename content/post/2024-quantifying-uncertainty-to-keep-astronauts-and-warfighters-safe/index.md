@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Both NASA and DOT&E increasingly rely on computer models to supplement data collection, and utilize statistical distributions to quantify the uncertainty in models, so that decision-makers are equipped with the most accurate information about system performance and model fitness.  This article provides a high-level overview of uncertainty quantification (UQ) through an example assessment for the reliability of a new space-suit system.  The goal is to reach a more general audience in Significance Magazine, and convey the importance and relevance of statistics to the defense and aerospace communities.
 
 #### Suggested Citation

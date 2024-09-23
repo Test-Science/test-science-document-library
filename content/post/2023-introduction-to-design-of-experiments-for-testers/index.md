@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This training provides details regarding the use of design of experiments, from choosing proper response variables, to identifying factors that could affect such responses, to determining the amount of data necessary to collect. The training also explains the benefits of using a Design of Experiments approach to testing and provides an overview of commonly used designs (e.g., factorial, optimal, and space-filling). The briefing illustrates the concepts discussed using several case studies.
 
 #### Suggested Citation

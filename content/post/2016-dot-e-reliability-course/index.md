@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This reliability course provides information to assist DOT&E action officers in their review and assessment of system reliability. Course briefings cover reliability planning and analysis activities that span the acquisition life cycle. Each briefing discusses review criteria relevant to DOT&E action officers based on DoD policies and lessons learned from previous oversight efforts.
 
 #### Suggested Citation

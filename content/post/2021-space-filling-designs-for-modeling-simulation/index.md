@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This document presents arguments and methods for using space-filling designs (SFDs) to plan modeling and simulation (M&S) data collection.
 
 #### Suggested Citation

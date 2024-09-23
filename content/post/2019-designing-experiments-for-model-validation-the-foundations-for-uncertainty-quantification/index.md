@@ -16,8 +16,7 @@ cover:
 
 
 
-### Abstract
-Advances in computational power have allowed both greater fidelity and more extensive use of such models. Numerous complex military systems have a corresponding models that simulate its performance in the field. In response, the DoD needs defensible practices for validating these models. Design of Experiments and statistical analysis techniques are the foundational building blocks for validating the use of computer models and quantifying uncertainty in that validation. Recent developments in uncertainty quantification have the potential to benefit the DoD in using modeling and simulation to inform operational evaluations.
+Advances in computational power have allowed both greater fidelity and more extensive use of such models. Numerous complex military systems have a corresponding model that simulates its performance in the field. In response, the DoD needs defensible practices for validating these models. Design of Experiments and statistical analysis techniques are the foundational building blocks for validating the use of computer models and quantifying uncertainty in that validation. Recent developments in uncertainty quantification have the potential to benefit the DoD in using modeling and simulation to inform operational evaluations.
 
 #### Suggested Citation
 > Wojton, Heather, Kelly Avery, Laura Freeman, and Thomas Johnson. “Designing Experiments for Model Validation – The Foundations for Uncertainty Quantification.” The The ITEA Journal of Test and Evaluation 40, no. 1 (2019).

@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 As operational testing becomes increasingly integrated and research questions become more difficult to answer, IDA’s Test Science team has found Bayesian models to be powerful data analysis methods. Analysts and decision-makers should understand the differences between this approach and the conventional way of analyzing data. It is also important to recognize when an analysis could benefit from the inclusion of prior information—what we already know about a system’s performance—and to understand the proper way to incorporate that information. To apply Bayesian methods, analysts need to comprehend some technical aspects of this approach and know how to properly use appropriate statistical software. In this course, students learn the intuition behind Bayesian statistics, the mathematical details of posterior distributions, how to fit simple Bayesian models using computer software, and how to assess model fit.
 
 #### Suggested Citation

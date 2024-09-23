@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This paper describes holistic progress in answering the question of “How much testing is enough?” It covers areas in which the T&E community has made progress, areas in which progress remains elusive, and issues that have emerged since 1994 that provide additional challenges. The selected case studies used to highlight progress are especially interesting examples, rather than a comprehensive look at all programs since 1994.
 
 #### Suggested Citation

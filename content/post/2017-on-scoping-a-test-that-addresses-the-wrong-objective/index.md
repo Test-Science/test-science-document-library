@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Statistical literature refers to a type of error that is committed by giving the right answer to the wrong question. If a test design is adequately scoped to address an irrelevant objective, one could say that a Type III error occurs. In this paper, we focus on a specific Type III error that on some occasions test planners commit to reduce test size and resources.
 
 #### Suggested Citation

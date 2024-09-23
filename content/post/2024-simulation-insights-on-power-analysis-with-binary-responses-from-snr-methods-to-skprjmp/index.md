@@ -16,7 +16,6 @@ cover:
 
 {{< youtube id= j0rINL3L-yo >}}
 
-### Abstract
 Logistic regression is a commonly-used method for analyzing tests with probabilistic responses in the test community, yet calculating power for these tests has historically been challenging. This difficulty prompted the development of methods based on signal-to-noise ratio (SNR) approximations over the last decade, tailored to address the intricacies of logistic regression's binary outcomes. However, advancements and improvements in statistical software and computational power have reduced the need for such approximate methods. Our research presents a detailed simulation study that compares SNR-based power estimates with those derived from exact Monte Carlo simulations, highlighting the inadequacies of SNR approximations. To address these shortcomings, we will discuss improvements in the open-source R package "skpr" as well as present "skprJMP," a new plug-in that offers more accurate and reliable power calculations for logistic regression analyses.
 
 #### Suggested Citation

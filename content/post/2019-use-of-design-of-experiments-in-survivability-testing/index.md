@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 The purpose of survivability testing is to provide decision makers with relevant, credible evidence about the survivability of an aircraft that is conveyed with some degree of certainty or inferential weight. In developing an experiment to accomplish this goal, a test planner faces numerous questions  What critical issue or issues are being address? What data are needed to answer the critical issues? What test conditions should be varied? What is the most economical way of varying those conditions? How many test articles are needed? Design of Experiments provides an analytical basis for test planning tradeoffs when answering these questions.
 
 #### Suggested Citation

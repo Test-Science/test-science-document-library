@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Pilot Training Next is an exploratory investigation of new technologies and procedures to increase the efficiency of Undergraduate Pilot Training in the United States Air Force. IDA analysts present a method of quantifying skill transfer from simulators to aircraft under realistic, uncontrolled conditions.
 
 #### Suggested Citation

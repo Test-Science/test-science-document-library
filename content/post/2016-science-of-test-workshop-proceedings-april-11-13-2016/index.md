@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 To mark IDA's 60th anniversary, we are conducting a series of workshops and symposia that bring together IDA sponsors, researchers, experts inside and outside government, and other stakeholders to discuss issues of the day. These events focus on future national security challenges, reflecting on how past lessons and accomplishments help prepare us to deal with complex issues and environments we face going forward. This publication represents the proceedings of the Science of Test Workshop.
 
 #### Suggested Citation

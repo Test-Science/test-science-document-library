@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 A sensitivity experiment is a special type of experimental design that is used when the response variable is binary and the covariate is continuous. Armor protection and projectile lethality tests often use sensitivity experiments to characterize a projectile's probability of penetrating the armor. In this mini-tutorial we illustrate the challenge of modeling a binary response with a limited sample size, and show how sensitivity experiments can mitigate this problem. We review eight different single covariate sensitivity experiments and present a comparison of these designs using simulation. Additionally, we cover sensitivity experiments for cases that include more than one covariate, and highlight recent research in this area.
 
 #### Suggested Citation

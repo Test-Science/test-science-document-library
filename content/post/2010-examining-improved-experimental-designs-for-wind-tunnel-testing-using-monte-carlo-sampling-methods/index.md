@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 In this paper we compare data from a fairly large legacy wind tunnel test campaign to smaller, statistically-motivated experimental design strategies. The comparison, using Monte Carlo sampling methodology, suggests a tremendous opportunity to reduce wind tunnel test efforts without losing test information.
 
 #### Suggested Citation

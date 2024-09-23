@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 Engineers use reliability experiments to determine the factors that drive product reliability, build robust products, and predict reliability under use conditions. This article uses recent testing of a Howitzer to illustrate the challenges in designing reliability experiments for complex, repairable systems. We leverage lessons learned from current research and propose methods for designing an experiment for a complex, repairable system.
 
 #### Suggested Citation

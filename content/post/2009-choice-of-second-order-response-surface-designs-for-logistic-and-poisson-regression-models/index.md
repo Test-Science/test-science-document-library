@@ -16,7 +16,6 @@ cover:
 
 
 
-### Abstract
 This paper illustrates the construction of D-optimal second order designs for situations when the response is either binomial (pass/fail) or Poisson (count data).
 
 #### Suggested Citation

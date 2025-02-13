@@ -21,7 +21,7 @@ Analyses are reproducible if the same methods applied to the same data produce i
 #### Suggested Citation
 > Wojton, Heather, Andrew Flack, John Haman, and Kevin Kirshenbaum. Reproducible Research Mini-Tutorial. IDA Document NS D-10581. Alexandria, VA: Institute for Defense Analyses, 2019.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
 

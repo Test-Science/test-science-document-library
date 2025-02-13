@@ -21,7 +21,7 @@ A presentation on the theory and practive of observational studies.  Specific av
 #### Suggested Citation
 > Thomas, Dean, and Yevgeniya K Pinelis. Introduction to Observational Studies. IDA Document NS D-9020. Alexandria, VA: Institute for Defense Analyses, 2018.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
 

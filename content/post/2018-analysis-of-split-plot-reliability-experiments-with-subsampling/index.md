@@ -23,7 +23,7 @@ Reliability experiments are important for determining which factors drive produc
 
 
 
-#### Paper: [[Download](subsampling_paper.pdf)]
+#### Paper: 
 {{< pdfReader "subsampling_paper.pdf" >}}
 
 

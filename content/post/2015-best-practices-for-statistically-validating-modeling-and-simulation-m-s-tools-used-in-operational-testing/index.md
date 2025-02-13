@@ -21,7 +21,7 @@ In many situations, collecting sufficient data to evaluate system performance ag
 #### Suggested Citation
 > Avery, Kelly, Laura Freeman, and Rebecca Medlin. Best Practices for Statistically Validating Modeling and Simulation (M&S) Tools Used in Operational Testing. IDA Document NS D-5582. Alexandria, VA: Institute for Defense Analyses, 2015.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
 

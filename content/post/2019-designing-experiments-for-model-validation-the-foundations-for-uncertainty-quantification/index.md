@@ -23,7 +23,7 @@ Advances in computational power have allowed both greater fidelity and more exte
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

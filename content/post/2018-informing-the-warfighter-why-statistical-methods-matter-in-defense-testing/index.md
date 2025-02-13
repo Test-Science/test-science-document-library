@@ -23,7 +23,7 @@ Needs one
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

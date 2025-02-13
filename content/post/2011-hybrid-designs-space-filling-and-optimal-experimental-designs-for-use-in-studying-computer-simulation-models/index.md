@@ -21,7 +21,7 @@ This tutorial provides an overview of experimental design for modeling and simul
 #### Suggested Citation
 > Silvestrini, Rachel Johnson. “Hybrid Designs: Space Filling and Optimal Experimental Designs for Use in Studying Computer Simulation Models.” Monterey, California, May 2011.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
 

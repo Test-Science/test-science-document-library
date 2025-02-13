@@ -23,7 +23,7 @@ In the increasingly complex and data‐limited world of military defense testing
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

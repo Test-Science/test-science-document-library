@@ -23,8 +23,8 @@ In the acquisition and testing world, data analysts repeatedly encounter certain
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
-#### Poster: [[Download](poster.pdf)]
+#### Poster: 
 {{< pdfReader "poster.pdf" >}}

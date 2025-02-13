@@ -23,7 +23,7 @@ This paper illustrates the construction of D-optimal second order designs for si
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

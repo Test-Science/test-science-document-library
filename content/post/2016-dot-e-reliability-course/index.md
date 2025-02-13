@@ -21,7 +21,7 @@ This reliability course provides information to assist DOT&E action officers in 
 #### Suggested Citation
 > Avery, Matthew, Jonathan Bell, Rebecca Medlin, and Freeman Laura. DOT&E Reliability Course. IDA Document NS D-5836. Alexandria, VA: Institute for Defense Analyses, 2016.
 
-#### Slides: [[Download](slides_NS-D-5836-1.pdf)]
+#### Slides: 
 {{< pdfReader "slides_NS-D-5836-1.pdf" >}}
 
 

@@ -23,7 +23,7 @@ Space filling designs are a common choice of experimental design strategy for co
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

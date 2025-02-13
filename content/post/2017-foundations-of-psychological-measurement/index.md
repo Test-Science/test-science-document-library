@@ -21,7 +21,7 @@ Psychological measurement is an important issue throughout the Department of Def
 #### Suggested Citation
 > Wojton, Heather. Foundations of Psychological Measurement. IDA Document NS D-8273. Alexandria, VA: Institute for Defense Analyses, 2017.
 
-#### Slides: [[Download](slides_NS-D-8273.pdf)]
+#### Slides: 
 {{< pdfReader "slides_NS-D-8273.pdf" >}}
 
 

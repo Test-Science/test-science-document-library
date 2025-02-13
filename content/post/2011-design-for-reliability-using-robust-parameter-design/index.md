@@ -21,7 +21,7 @@ Recently, the principles of Design of Experiments (DOE) have been implemented as
 #### Suggested Citation
 > Freeman, Laura. Design for Reliability Using Robust Parameter Design. IDA Document D-4387. Alexandria, VA: Institute for Defense Analyses, 2011.
 
-#### Slides: [[Download](slides_D-4387-non-std.pdf)]
+#### Slides: 
 {{< pdfReader "slides_D-4387-non-std.pdf" >}}
 
 

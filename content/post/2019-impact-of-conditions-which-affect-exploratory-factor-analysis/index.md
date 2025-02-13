@@ -25,5 +25,5 @@ Some responses cannot be observed directly and must be inferred from multiple in
 
 
 
-#### Poster: [[Download](poster.pdf)]
+#### Poster: 
 {{< pdfReader "poster.pdf" >}}

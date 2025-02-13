@@ -23,7 +23,7 @@ To mark IDA's 60th anniversary, we are conducting a series of workshops and symp
 
 
 
-#### Paper: [[Download](paper_NS-D-8249-1.pdf)]
+#### Paper: 
 {{< pdfReader "paper_NS-D-8249-1.pdf" >}}
 
 

@@ -21,7 +21,7 @@ A sensitivity experiment is a special type of experimental design that is used w
 #### Suggested Citation
 > Johnson, Thomas, Laura Freeman, and Raymond Chen. Tutorial on Sensitivity Testing in Live Fire Test and Evaluation. IDA Document NS D-5829. Alexandria, VA: Institute for Defense Analyses, 2016.
 
-#### Slides: [[Download](slides_NS-D-5829.pdf)]
+#### Slides: 
 {{< pdfReader "slides_NS-D-5829.pdf" >}}
 
 

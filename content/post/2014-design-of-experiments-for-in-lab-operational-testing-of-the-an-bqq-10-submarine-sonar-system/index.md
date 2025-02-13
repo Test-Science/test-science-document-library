@@ -21,7 +21,7 @@ Operational testing of the AN/BQQ-10 submarine sonar system has never been able 
 #### Suggested Citation
 > Clutter, Justace R, George Khoury, and Laura Freeman. Design of Experiments for In-Lab Operational Testing of the AN/BQQ-10 Submarine Sonar System. IDA Document NS D-5486. Alexandria, VA: Institute for Defense Analyses, 2014.
 
-#### Slides: [[Download](slides_NS-D-5286.pdf)]
+#### Slides: 
 {{< pdfReader "slides_NS-D-5286.pdf" >}}
 
 

@@ -47,7 +47,7 @@ Recommendations for how to test autonomous military systems can be sorted into f
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

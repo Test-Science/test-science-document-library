@@ -21,7 +21,7 @@ To provide assurance that AI-enabled systems will behave appropriately across th
 #### Suggested Citation
 > Porter, Daniel J, and Heather Wojton. T&E Contributions to Avoiding Unintended Behaviors in Autonomous Systems. Vol. IDA Document NS D-12078. Alexandria, VA: Institute for Defense Analyses, 2020.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
 

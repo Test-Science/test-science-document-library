@@ -21,10 +21,10 @@ Following Wojton's research on the Trust of Automated Systems Test (TOAST), whic
 #### Suggested Citation
 > Porter, Daniel J, and Caitlan A Fealing. Predicting Trust in Automated Systems – An Application of TOAST. IDA Document NS D-33188. Alexandria, VA: Institute for Defense Analyses, 2022.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

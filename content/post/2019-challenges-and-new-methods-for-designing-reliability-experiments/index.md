@@ -23,7 +23,7 @@ Engineers use reliability experiments to determine the factors that drive produc
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

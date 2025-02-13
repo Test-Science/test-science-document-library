@@ -21,7 +21,7 @@ In many Department of Defense test and evaluation applications, binary response 
 #### Suggested Citation
 > Medlin, Rebecca M, and Addison D Adams. Comparing Normal and Binary D-Optimal Design of Experiments by Statistical Power. IDA Document 3000032. Alexandria, VA: Institute for Defense Analyses, 2023.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
 

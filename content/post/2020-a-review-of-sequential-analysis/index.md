@@ -23,7 +23,7 @@ Sequential analysis concerns statistical evaluation in situations in which the n
 
 
 
-#### Paper: [[Download](paper_seq_review.pdf)]
+#### Paper: 
 {{< pdfReader "paper_seq_review.pdf" >}}
 
 

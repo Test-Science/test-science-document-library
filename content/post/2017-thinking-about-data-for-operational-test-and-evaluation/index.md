@@ -21,7 +21,7 @@ While the human brain is powerful tool for quickly recognizing patterns in data,
 #### Suggested Citation
 > Thomas, Dean, and Matthew Avery. Thinking About Data for Operational Test and Evaluation. IDA Document NS D-8729. Alexandria, VA: Institute for Defense Analyses, 2017.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
 

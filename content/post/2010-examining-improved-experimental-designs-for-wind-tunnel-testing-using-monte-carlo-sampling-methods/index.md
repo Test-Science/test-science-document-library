@@ -23,7 +23,7 @@ In this paper we compare data from a fairly large legacy wind tunnel test campai
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

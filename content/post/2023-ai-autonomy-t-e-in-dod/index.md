@@ -41,7 +41,7 @@ a. T&E must assure warfighters have calibrated trust & an adequate understanding
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

@@ -23,7 +23,7 @@ This paper investigates regularization for continuously observed covariates that
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

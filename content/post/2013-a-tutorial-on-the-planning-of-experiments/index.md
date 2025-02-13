@@ -23,7 +23,7 @@ This tutorial outlines the basic procedures for planning experiments within the 
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

@@ -21,7 +21,7 @@ A Human-Machine Team (HMT) is a group ofagents consisting of at least one human 
 #### Suggested Citation
 > Wilkins, Leonard D, Caitlan A Fealing, V. Bram Lillard, and John Haman. Topological Modeling of Human-Machine Teams. IDA Document NS D-33031. Alexandria, VA: Institute for Defense Analyses, 2022.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
 

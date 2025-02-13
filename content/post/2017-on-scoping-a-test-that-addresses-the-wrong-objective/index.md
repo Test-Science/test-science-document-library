@@ -23,7 +23,7 @@ Statistical literature refers to a type of error that is committed by giving the
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

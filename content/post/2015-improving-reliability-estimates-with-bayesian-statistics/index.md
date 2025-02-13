@@ -23,7 +23,7 @@ This paper shows how Bayesian methods are ideal for the assessment of complex sy
 
 
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

@@ -21,7 +21,7 @@ Systems with autonomy pose unique challenges for operational test. This document
 #### Suggested Citation
 > Wojton, Heather M, Daniel Porter, Yevgeniya Pinelis, Chad Bieber, Heather Wojton, Michael McAnally, and Laura Freeman. Operational Testing of Systems with Autonomy. IDA Document NS D-9266. Alexandria, VA: Institute for Defense Analyses, 2019.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
 

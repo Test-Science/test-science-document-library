@@ -21,11 +21,11 @@ Logistic regression is a commonly-used method for analyzing tests with probabili
 #### Suggested Citation
 > Atkins, Robert, Tyler Morgan-Wall, and Curtis Miller. “With Binary Responses--From SNR Methods to ‘skprJMP.’” Institute for Defense Analyses IDA Product ID 3002093 (April 2024).
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
-#### Poster: [[Download](poster.pdf)]
+#### Poster: 
 {{< pdfReader "poster.pdf" >}}

@@ -21,10 +21,10 @@ We discuss four areas in which statistically rigorous methods contribute to mode
 #### Suggested Citation
 > Miller, Curtis G. “Statistical Methods Development Work for M&S Validation.” International Test and Evaluation Association 44, no. 3 (September 11, 2023). https://doi.org/10.61278/itea.44.3.1010.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
-#### Paper: [[Download](paper.pdf)]
+#### Paper: 
 {{< pdfReader "paper.pdf" >}}
 
 

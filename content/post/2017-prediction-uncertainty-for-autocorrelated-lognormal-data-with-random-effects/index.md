@@ -21,7 +21,7 @@ Accurately presenting model estimates with appropriate uncertainties is critical
 #### Suggested Citation
 > Freeman, Laura J, and Matthew R Avery. Lognormal Data with Random Effects. IDA Document NS D-8629. Alexandria, VA: Institute for Defense Analyses, 2017.
 
-#### Slides: [[Download](slides.pdf)]
+#### Slides: 
 {{< pdfReader "slides.pdf" >}}
 
 

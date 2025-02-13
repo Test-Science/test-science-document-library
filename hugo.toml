@@ -1,32 +1,25 @@
-baseURL = 'https://test-science-document-library.netlify.app/'
+baseURL = 'https://research.testscience.org/'
 languageCode = 'en-us'
-title = 'Test Science Documents Library'
+title = 'Test Science Research Document Library'
 theme = ["PaperMod"]
 enableInlineShortcodes = true
 ShowBreadCrumbs = true
 copyright = "[© Institute for Defense Analyses](https://www.ida.org)"
 
-# Todo: label does not work
-[label]
-        text = 'Test Science Documents Library'
-        icon = "/assets/testsci-logo.png"
-        iconHeight = 36
 
 [params]
+        defaultTheme = 'light'
+        disableThemeToggle = true
         ShowShareButtons = true
         ShowFullTextinRSS = true
         hideMeta = false
         dateFormat = '2006' # You just put a placeholder in to make it only show the year of publication.
-
-
+        [params.label]
+        icon = "/testsci-logo.png"
+        text = "Research Document Library"
 
 [pagination]
         pagerSize = 1000 # no pagination
-
-
-
-# TODOs
-# Add featured images to each post
 
 [taxonomies]
         year = 'year'

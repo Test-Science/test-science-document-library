@@ -15,10 +15,13 @@ copyright = "[© Institute for Defense Analyses](https://www.ida.org)"
         ShowShareButtons = true
         ShowFullTextinRSS = true
         hideMeta = false
-        dateFormat = '2006' # You just put a placeholder in to make it only show the year of publication.
+        dateFormat = '2006'
         [params.label]
         icon = "/testsci-logo.png"
         text = "Research Document Library"
+        [params.homeInfoParams]
+        title = "Welcome!"
+        content = "The Test Science Research Document Library comprises methodological developments, lessons learned, and training materials created with a mission to advance the theory and practice of rigorous operational and live fire test and evaluation."
 
 [pagination]
         pagerSize = 1000 # no pagination

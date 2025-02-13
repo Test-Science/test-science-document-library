@@ -11,7 +11,7 @@ audience: Practitioner
 venues: Joint Statistical Meetings
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 {{< youtube id= vg36C3hhDmk >}}

@@ -11,7 +11,7 @@ audience: Everyone
 venues: Quality and Productivity Research Conference
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

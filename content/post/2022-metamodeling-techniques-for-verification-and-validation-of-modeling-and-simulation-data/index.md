@@ -11,7 +11,7 @@ audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 {{< youtube id= s4DUCI1M8Fw >}}

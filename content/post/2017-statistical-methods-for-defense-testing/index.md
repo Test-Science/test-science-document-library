@@ -11,7 +11,7 @@ audience: Everyone
 venues: Wiley StatsRef
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

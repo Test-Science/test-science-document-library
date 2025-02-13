@@ -11,7 +11,7 @@ audience: Practitioner
 venues: Quality and Reliability Engineering International
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

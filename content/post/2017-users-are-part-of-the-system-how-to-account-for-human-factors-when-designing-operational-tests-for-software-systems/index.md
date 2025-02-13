@@ -11,7 +11,7 @@ audience: Everyone
 venues: Joint Statistical Meetings
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

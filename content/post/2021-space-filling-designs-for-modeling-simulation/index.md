@@ -11,7 +11,7 @@ audience: Practitioner
 venues: Multi-Domain Operations Workshop
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

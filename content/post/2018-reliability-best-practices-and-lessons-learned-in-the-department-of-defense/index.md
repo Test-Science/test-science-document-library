@@ -11,7 +11,7 @@ audience: Everyone
 venues: Reliability & Maintainability Symposium
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

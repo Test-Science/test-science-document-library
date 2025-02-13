@@ -11,7 +11,7 @@ audience: Practitioner
 venues: System Engineering
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

@@ -11,7 +11,7 @@ audience: Expert
 venues: DATAWorks
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

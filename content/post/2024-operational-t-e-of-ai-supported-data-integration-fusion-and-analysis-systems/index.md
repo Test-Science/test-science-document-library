@@ -11,7 +11,7 @@ audience: Practitioner
 venues: DATAWorks
 draft: no
 cover:
-  image: "di_cover.jpg"
+  image: ''
 ---
 
 {{< youtube id= JqlIzJh-RQI >}}

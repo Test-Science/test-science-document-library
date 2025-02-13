@@ -11,7 +11,7 @@ audience: Practitioner
 venues: Journal of Quality Technology
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

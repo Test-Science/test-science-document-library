@@ -11,7 +11,7 @@ audience: Everyone
 venues: DATAWorks
 draft: no
 cover:
-  image: "sa_cover.jpg"
+  image: ''
 ---
 
 {{< youtube id= Vmt1CT__stU >}}

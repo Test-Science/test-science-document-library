@@ -11,7 +11,7 @@ audience: Everyone
 venues: Aircraft Survivability Journal
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

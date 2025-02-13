@@ -11,7 +11,7 @@ audience: Practitioner
 venues: Institute for Defense Analyses
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 
@@ -23,7 +23,7 @@ Sequential analysis concerns statistical evaluation in situations in which the n
 
 
 
-#### Paper: [[Download](paper.pdf)]
-{{< pdfReader "paper.pdf" >}}
+#### Paper: [[Download](paper_seq_review.pdf)]
+{{< pdfReader "paper_seq_review.pdf" >}}
 
 

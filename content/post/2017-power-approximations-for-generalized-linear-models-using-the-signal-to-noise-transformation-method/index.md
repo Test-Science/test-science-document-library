@@ -11,7 +11,7 @@ audience: Expert
 venues: Quality Engineering
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

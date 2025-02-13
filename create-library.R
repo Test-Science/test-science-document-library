@@ -48,7 +48,7 @@ audience: %s
 venues: %s
 draft: no
 cover:
-  image: %s
+  image: ''
 ---
 
 %s
@@ -86,9 +86,9 @@ dat[i, ]$Audience,
 dat[i, ]$Journal,
 
 # Cover image
-ifelse(!identical(cover, character(0)),
-       paste0( "\"", cover, "\""),
-       ""),
+## ifelse(!identical(cover, character(0)),
+##        paste0( "\"", cover, "\""),
+##        ""),
 
 
 ### Content

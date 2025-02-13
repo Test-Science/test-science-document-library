@@ -11,7 +11,7 @@ audience: Practitioner
 venues: DATAWorks
 draft: no
 cover:
-  image: "patel-cover.jpg"
+  image: ''
 ---
 
 {{< youtube id= owcIxrA_sXs >}}

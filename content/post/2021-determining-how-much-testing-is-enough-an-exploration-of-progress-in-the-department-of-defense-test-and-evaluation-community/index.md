@@ -11,7 +11,7 @@ audience: Everyone
 venues: Military Operations Research Society
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

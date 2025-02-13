@@ -11,7 +11,7 @@ audience: Practitioner
 venues: Naval Postgraduate School
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

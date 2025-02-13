@@ -11,7 +11,7 @@ audience: Everyone
 venues: Quality Engineering
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 {{< youtube id= gYTY5OJY4Yo >}}

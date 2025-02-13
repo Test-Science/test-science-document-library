@@ -11,7 +11,7 @@ audience: Everyone
 venues: Significance Magazine
 draft: no
 cover:
-  image: "uq_cover2.jpg"
+  image: ''
 ---
 
 

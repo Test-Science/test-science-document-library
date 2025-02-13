@@ -11,7 +11,7 @@ audience: Practitioner
 venues: Defense Acquisition University
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

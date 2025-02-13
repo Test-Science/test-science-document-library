@@ -11,7 +11,7 @@ audience: Everyone
 venues: CHANCE
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

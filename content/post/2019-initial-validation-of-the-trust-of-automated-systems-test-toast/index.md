@@ -11,7 +11,7 @@ audience: Expert
 venues: The Journal of Social Psychology
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 {{< youtube id= 4fMtKSqNeu4 >}}

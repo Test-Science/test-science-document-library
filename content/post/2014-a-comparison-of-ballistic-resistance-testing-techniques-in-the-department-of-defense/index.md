@@ -11,7 +11,7 @@ audience: Expert
 venues: IEEE
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

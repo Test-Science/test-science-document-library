@@ -11,7 +11,7 @@ audience: Expert
 venues: International Journal of Experimental Design and Process Optimisation
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

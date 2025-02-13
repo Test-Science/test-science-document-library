@@ -11,7 +11,7 @@ audience: Practitioner
 venues: Analytic Methods in Systems and Software Testing
 draft: no
 cover:
-  image: "tds_cover.jpg"
+  image: ''
 ---
 
 

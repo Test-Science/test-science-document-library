@@ -11,7 +11,7 @@ audience: Everyone
 venues: Naval Postgraduate School
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

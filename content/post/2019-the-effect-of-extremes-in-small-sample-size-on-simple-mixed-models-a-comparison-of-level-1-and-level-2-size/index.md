@@ -11,7 +11,7 @@ audience: Practitioner
 venues: The The ITEA Journal of Test and Evaluation
 draft: no
 cover:
-  image: 
+  image: ''
 ---
 
 

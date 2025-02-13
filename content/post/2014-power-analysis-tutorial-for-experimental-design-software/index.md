@@ -5,7 +5,7 @@ date: 2014-01-01
 year: 2014
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Power analysis','Design of Experiments','JMP','Design Expert']
+keywords: ['Power Analysis','Design of Experiments','JMP','Design Expert']
 researchers: ['James Simpson','Thomas Johnson','Laura Freeman']
 audience: Practitioner
 venues: Institute for Defense Analyses

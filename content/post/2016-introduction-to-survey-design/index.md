@@ -5,7 +5,7 @@ date: 2016-01-01
 year: 2016
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['survey design','human factors','research methods']
+keywords: ['Survey Design','Human Factors','Research Methods']
 researchers: ['Heather Wojton','Justin Mary','Jonathan Snavely']
 audience: Everyone
 venues: Institute for Defense Analyses

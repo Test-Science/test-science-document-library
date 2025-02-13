@@ -5,7 +5,7 @@ date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['circular error probable','department of defense','design of experiments','statistical modeling']
+keywords: ['Circular Error Probable','Department of Defense','Design of Experiments','Statistical Modeling']
 researchers: ['Thomas Johnson','John Haman','Heather Wojton','Laura Freeman']
 audience: Practitioner
 venues: Quality and Reliability Engineering International

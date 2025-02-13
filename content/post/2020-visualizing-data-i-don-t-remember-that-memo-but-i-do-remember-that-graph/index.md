@@ -5,7 +5,7 @@ date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Data Management']
-keywords: ['Data visualization','statistics']
+keywords: ['Data Visualization','Statistics']
 researchers: ['Matthew Avery','Andrew Flack','Brian Vickers','Heather Wojton']
 audience: Everyone
 venues: Institute for Defense Analyses

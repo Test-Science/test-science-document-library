@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Design of Experiments']
-keywords: ['complex system reliability','experimental design','reliability experiments','restricted randomization','power analysis']
+keywords: ['Complex System Reliability','Experimental Design','Reliability Experiments','Restricted Randomization','Power Analysis']
 researchers: ['Laura Freeman','Thomas Johnson','Rebecca Medlin']
 audience: Practitioner
 venues: Quality Engineering

@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Design thinking','Operational Testing','Operational test design']
+keywords: ['Design Thinking','Operational Testing','Operational Test Design']
 researchers: ['Miriam Armstrong']
 audience: Everyone
 venues: DATAWorks

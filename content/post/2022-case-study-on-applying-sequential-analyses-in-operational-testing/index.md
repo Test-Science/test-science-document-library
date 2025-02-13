@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Design of experiments','sample size determination','sequential probability ratio test','statistical power']
+keywords: ['Design of Experiments','Sample Size Determination','Sequential Probability Ratio Test','Statistical Power']
 researchers: ['Rebecca Medlin','Keyla Pagán-Rivera','Jay Dennis','Monica Ahrens']
 audience: Everyone
 venues: Quality Engineering

@@ -5,7 +5,7 @@ date: 2016-01-01
 year: 2016
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Leadership Perspective','Science of Test Workshop','statistics']
+keywords: ['Leadership Perspective','Science of Test Workshop','Statistics']
 researchers: ['Laura Freeman','Pamela Rambow','Jonathan Snavely']
 audience: Everyone
 venues: DATAWorks

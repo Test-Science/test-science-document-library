@@ -5,7 +5,7 @@ date: 2017-01-01
 year: 2017
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Design of experiments','sample size determination','hypothesis testing','statistical power','Type III error','unified effect size']
+keywords: ['Design of Experiments','Sample Size Determination','Hypothesis Testing','Statistical Power','Type III Error','Unified Effect Size']
 researchers: ['Thomas Johnson','Rebecca Medlin','Laura Freeman','James Simpson']
 audience: Practitioner
 venues: Quality Engineering

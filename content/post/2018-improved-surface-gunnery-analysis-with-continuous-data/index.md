@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Censored Data Analysis','Naval Surface Gunnery','Continuous Response','Probability of Kill']
+keywords: ['Censored Data Analysis','Naval Surface Gunnery','Continuous Response']
 researchers: ['Benjamin Ashwell','V. Bram Lillard']
 audience: Practitioner
 venues: DATAWorks

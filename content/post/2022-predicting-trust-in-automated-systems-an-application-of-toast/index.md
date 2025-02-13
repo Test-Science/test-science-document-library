@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Automated system','Autonomous','reliance','trust','Trust in Automated Systems Test (TOAST)']
+keywords: ['Automated System','Autonomous','Reliance','Trust','Trust In Automated Systems Test (TOAST)']
 researchers: ['Caitlan Fealing']
 audience: Practitioner
 venues: Institute for Defense Analyses

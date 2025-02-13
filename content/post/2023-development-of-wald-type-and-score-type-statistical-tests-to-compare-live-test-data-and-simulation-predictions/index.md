@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Modeling and Simulation (M&S) Validation','Statistical Analysis','Wald test','Weapons Analysis Facility']
+keywords: ['Modeling and Simulation (M&S) Validation','M&S','Statistical Analysis','Wald Test','Weapons Analysis Facility']
 researchers: ['Carrington Metts','Curtis Miller']
 audience: Practitioner
 venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation

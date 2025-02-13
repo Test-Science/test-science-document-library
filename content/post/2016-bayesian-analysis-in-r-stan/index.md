@@ -5,7 +5,7 @@ date: 2016-01-01
 year: 2016
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Bayesian statistics','Reliability','combining information']
+keywords: ['Bayesian Statistics','Reliability','Combining Information']
 researchers: ['Kassandra Fronczyk']
 audience: Everyone
 venues: DATAWorks

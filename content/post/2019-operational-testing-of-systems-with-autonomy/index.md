@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['Autonomy','AI','TEVV','Test Concept','Artificial Intelligence','Acquisition Reform']
+keywords: ['Autonomy','AI','TEV&V','Test Concept','Artificial Intelligence','Acquisition Reform']
 researchers: ['Heather Wojton','Daniel Porter','Yevgeniya Pinelis','Chad Bieber','Michael McAnally','Laura Freeman']
 audience: Practitioner
 venues: Institute for Defense Analyses

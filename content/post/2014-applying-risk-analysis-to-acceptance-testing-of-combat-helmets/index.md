@@ -5,7 +5,7 @@ date: 2014-01-01
 year: 2014
 slug: []
 areas: ['Design of Experiments']
-keywords: ['personal protective equipment','combat helmets','statistical analyses']
+keywords: ['Personal Protective Equipment','Combat Helmets','Statistical Analyses']
 researchers: ['Janice Hester','Laura Freeman']
 audience: Practitioner
 venues: Institute for Defense Analyses

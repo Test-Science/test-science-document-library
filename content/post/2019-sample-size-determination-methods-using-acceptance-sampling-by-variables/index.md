@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Operational testing','Design of Experiments','Statistics']
+keywords: ['Operational Testing','Design of Experiments','Statistics']
 researchers: ['Thomas Johnson','Lindsey Butler','Kerry Walzl','Heather Wojton']
 audience: Practitioner
 venues: Institute for Defense Analyses

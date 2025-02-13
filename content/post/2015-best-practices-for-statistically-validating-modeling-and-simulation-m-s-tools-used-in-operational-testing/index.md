@@ -5,7 +5,7 @@ date: 2015-01-01
 year: 2015
 slug: []
 areas: ['Modeling and Simulation']
-keywords: ['M&S','Verification and Validation','accreditation']
+keywords: ['M&S','Verification And Validation','Accreditation']
 researchers: ['Kelly Avery','Laura Freeman','Rebecca Medlin']
 audience: Everyone
 venues: Institute for Defense Analyses

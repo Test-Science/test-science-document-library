@@ -5,7 +5,7 @@ date: 2021-01-01
 year: 2021
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Bayesian Statistics','Energy Statistics','Live Fire Test and Evaluation,Modeling and Simulation']
+keywords: ['Bayesian Statistics','Energy Statistics','Live Fire Test and Evaluation','Modeling and Simulation','M&S']
 researchers: ['John Haman','Mark Couch','Thomas Johnson','Kerry Walzl','Heather Wojton']
 audience: Practitioner
 venues: Joint Statistical Meetings

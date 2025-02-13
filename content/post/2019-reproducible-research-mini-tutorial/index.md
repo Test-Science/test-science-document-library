@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Data Management']
-keywords: ['Reproducible analyses']
+keywords: ['Reproducible Analyses']
 researchers: ['Andrew Flack','John Haman','Kevin Kirshenbaum']
 audience: Everyone
 venues: DATAWorks

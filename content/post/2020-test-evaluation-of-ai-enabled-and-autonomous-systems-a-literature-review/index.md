@@ -5,7 +5,7 @@ date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['test','evaluation','verification','and validation (TEV&V)','Artificial Intelligence (AI)','Joint Artificial Intelligence Center (JAIC)','Artificial Intelligence Enhanced Autonomous Capabilities','autonomy framework']
+keywords: ['Test Evaluation Verification and Validation (TEV&V)','Artificial Intelligence (AI)','Joint Artificial Intelligence Center (JAIC)','Artificial Intelligence Enhanced Autonomous Capabilities','Autonomy Framework']
 researchers: ['Heather Wojton','Daniel Porter','John Dennis']
 audience: Everyone
 venues: Institute for Defense Analyses

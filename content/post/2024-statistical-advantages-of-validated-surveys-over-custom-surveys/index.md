@@ -5,7 +5,7 @@ date: 2024-01-01
 year: 2024
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['survey methods','human systems interaction','test design','statistics','sample size']
+keywords: ['Survey Methods','Human System Interaction (HSI)','Test Design','Statistics','Sample Size']
 researchers: ['Adam Miller']
 audience: Practitioner
 venues: DATAWorks

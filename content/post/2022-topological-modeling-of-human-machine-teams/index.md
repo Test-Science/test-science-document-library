@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['artificial intelligence (AI)','human-machine teaming','metrics for human-machine teams','topological model']
+keywords: ['Artificial Intelligence (AI)','AI','Human-Machine Teaming','Metrics For Human-Machine Teams','Topological Model']
 researchers: ['Leonard Wilkins','Caitlan Fealing']
 audience: Practitioner
 venues: DATAWorks

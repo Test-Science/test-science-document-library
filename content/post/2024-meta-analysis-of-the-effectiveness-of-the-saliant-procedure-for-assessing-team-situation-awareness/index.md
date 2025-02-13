@@ -5,7 +5,7 @@ date: 2024-01-01
 year: 2024
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Situation Awareness (SA)','Human Systems Integration (HSI)','Meta-Analysis','Teams','Assessment Methodology']
+keywords: ['Situation Awareness (SA)','Human System Interaction (HSI)','Meta-Analysis','Teams','Assessment Methodology']
 researchers: ['Sarah Shaffer','Miriam Armstrong']
 audience: Everyone
 venues: DATAWorks

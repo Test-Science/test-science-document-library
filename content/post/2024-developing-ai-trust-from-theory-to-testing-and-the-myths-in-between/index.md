@@ -5,7 +5,7 @@ date: 2024-01-01
 year: 2024
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['Human-System Interaction','Human-Machine Teaming','Trust','Trustworthiness','AI','Behavioral Measures']
+keywords: ['Human System Interaction','Human-Machine Teaming','Trust','Trustworthiness','AI','Behavioral Measures']
 researchers: ['Yosef Razin','Kristen Alexander','John Haman']
 audience: Practitioner
 venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation

@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Reliability']
-keywords: ['Reliability','exponential distribution','parameter','hazard function','failure rate','confidence bound','normal distribution','Weibull distribution']
+keywords: ['Reliability','Exponential Distribution','Parameter','Hazard Function','Failure Rate','Confidence Bound','Normal Distribution','Weibull Distribution']
 researchers: ['William Whitledge']
 audience: Practitioner
 venues: DATAWorks

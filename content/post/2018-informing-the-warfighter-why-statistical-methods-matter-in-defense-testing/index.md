@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Design of Experiments']
-keywords: ['defense testing','developmental testing','DOD','military defense','U.S. military']
+keywords: ['Defense Testing','Developmental Testing','DOD','Military Defense','U.S. Military']
 researchers: ['Laura Freeman','Catherine Warner']
 audience: Everyone
 venues: CHANCE

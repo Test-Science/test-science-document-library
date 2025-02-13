@@ -6,7 +6,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Design of Experiments','Modeling and Simulation','Uncertainty Quantification']
-keywords: ['Computer Experiments','Design of Experiments','Model Assessment and Validation','Uncertainty Quantification']
+keywords: ['Computer Experiments','Design f Experiments','Model Assessment and Validation','Uncertainty Quantification']
 researchers: ['Heather Wojton','Kelly Avery','Laura Freeman','Samuel Parry','Gregory Whittier','Thomas Johnson','Andrew Flack']
 audience: Practitioner
 venues: Institute for Defense Analyses

@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Design of Experiments','Uncertainty Quantification']
-keywords: ['Design of experiments','observational studies','survey design and analysis','statistical analysis','Defense Acquisition University (DAU)']
+keywords: ['Design of Experiments','Observational Studies','Survey Design and Analysis','Statistical Analysis','Defense Acquisition University (DAU)']
 researchers: ['Laura Freeman','Denise Edwards','Stephanie Lane','James Simpson','Heather Wojton']
 audience: Practitioner
 venues: Defense Acquisition University

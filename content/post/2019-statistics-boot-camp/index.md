@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['statistics','descriptive statistics','inferential statistics','graphics','non-parametrics statistics']
+keywords: ['Statistics','Descriptive Statistics','Inferential Statistics','Graphics','Non-Parametrics Statistics']
 researchers: ['Kelly Avery','Stephanie Lane']
 audience: Everyone
 venues: DATAWorks

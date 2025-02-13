@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Modeling and Simulation']
-keywords: ['Armored Multi-Purpose Vehicle (AMPV)','Full-Up System Level (FUSL)','Ground Combat Vehicle (GCV)','Modeling and Simulation (M&S) Validation','Statistical Analysis','Verification','Validation','and Accreditation (VV&A)','vulnerability assessment']
+keywords: ['Armored Multi-Purpose Vehicle (AMPV)','Full-Up System Level (FUSL)','Ground Combat Vehicle (GCV)','Modeling and Simulation (M&S) Validation','Statistical Analysis','Verification Validation and Accreditation (VV&A)','Vulnerability Assessment']
 researchers: ['Thomas Johnson','Lindsey Butler','David Grimm','John Haman','Kerry Walzl']
 audience: Everyone
 venues: Aircraft Survivability Journal

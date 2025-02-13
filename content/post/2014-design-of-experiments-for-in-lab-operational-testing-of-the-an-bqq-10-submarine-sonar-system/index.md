@@ -5,7 +5,7 @@ date: 2014-01-01
 year: 2014
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Defense Acquisition','Design of Experiments','experimental methods','AN/BQQ-10']
+keywords: ['Defense Acquisition','Design of Experiments','Experimental Methods']
 researchers: ['Laura Freeman','Justace Clutter','George Khoury']
 audience: Everyone
 venues: Institute for Defense Analyses

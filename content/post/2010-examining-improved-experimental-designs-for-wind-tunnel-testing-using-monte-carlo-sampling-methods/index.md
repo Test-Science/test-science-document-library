@@ -5,7 +5,7 @@ date: 2010-01-01
 year: 2010
 slug: []
 areas: ['Design of Experiments']
-keywords: ['experimental design','wind tunnel testing','Monte Carlo']
+keywords: ['Experimental Design','Wind Tunnel Testing','Monte Carlo']
 researchers: ['Raymond Hill','Derek Leggio','Shay Capehart','August Roesener']
 audience: Practitioner
 venues: Quality and Reliability Engineering International

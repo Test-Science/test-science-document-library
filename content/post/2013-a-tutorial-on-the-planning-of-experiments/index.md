@@ -5,7 +5,7 @@ date: 2013-01-01
 year: 2013
 slug: []
 areas: ['Design of Experiments']
-keywords: ['design of experiment','experimental protocol','experimental strategy','scientific method','sequential experimentation']
+keywords: ['Design of Experiments','Experimental Protocol','Experimental Strategy','Scientific Method','Sequential Experimentation']
 researchers: ['Rachel Johnson','Douglas Montgomery','Bradley Jones','Chris Gotwalt']
 audience: Everyone
 venues: Quality Engineering

@@ -5,7 +5,7 @@ date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['Artificial Intelligence','autonomous systems','autonomy','Machine Learning','Military AI','T&E','Test & Evaluation','Test Methods','Test Strategy','test,evaluation','verification','and validation (TEV&V)','TEVV']
+keywords: ['Artificial Intelligence','Autonomous Systems','Autonomy','Machine Learning','Military AI','T&E','Test & Evaluation','Test Methods','Test Strategy','Test Evaluation Verification and Validation (TEV&V)','TEV&V']
 researchers: ['Daniel Porter','Michael McAnally','Chad Bieber','Heather Wojton','Rebecca Medlin']
 audience: Everyone
 venues: Institute for Defense Analyses

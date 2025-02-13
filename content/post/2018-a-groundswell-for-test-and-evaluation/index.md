@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Data Management']
-keywords: ['Data Science','Statistics','Uncertainty quantification','Reform test and evaluation']
+keywords: ['Data Science','Statistics','Uncertainty Quantification','Reform Test and Evaluation']
 researchers: ['Laura Freeman']
 audience: Everyone
 venues: The ITEA Journal of Test and Evaluation

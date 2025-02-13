@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['mixed eFFECT MODELS','MULTI LEVEL MODELS','uncertainty quantification','R,']
+keywords: ['Mixed Effect Models','Multi Level Models','Uncertainty Quantification','R']
 researchers: ['John Haman','Matthew Avery','Heather Wojton']
 audience: Practitioner
 venues: The The ITEA Journal of Test and Evaluation

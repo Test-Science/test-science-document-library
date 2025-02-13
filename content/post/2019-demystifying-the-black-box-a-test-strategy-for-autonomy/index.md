@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['artificial intellgience',' test and evaluation',' human-system integration']
+keywords: ['Artificial Intelligence',' Test and Evaluation',' Human-System Integration']
 researchers: ['Heather Wojton','Daniel Porter']
 audience: Everyone
 venues: Institute for Defense Analyses

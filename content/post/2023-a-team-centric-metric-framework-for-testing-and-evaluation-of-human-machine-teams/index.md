@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['agent','artificial intelligence','human-machine team','human-system interaction','metrics']
+keywords: ['Agent','Artificial Intelligence','Human-Machine Team','Human System Interaction','Metrics','AI']
 researchers: ['Wilkins','David Sparrow','Caitlan Fealing','Brian Vickers','Kristina Ferguson','Heather Wojton']
 audience: Practitioner
 venues: System Engineering

@@ -5,7 +5,7 @@ date: 2011-01-01
 year: 2011
 slug: []
 areas: ['Design of Experiments','Modeling and Simulation','Uncertainty Quantification']
-keywords: ['Hybrid Design','M&S','computer simulation','Design of Experiments']
+keywords: ['Hybrid Design','M&S','Computer Simulation','Design of Experiments']
 researchers: ['Rachel Johnson Silvestrini']
 audience: Practitioner
 venues: Naval Postgraduate School

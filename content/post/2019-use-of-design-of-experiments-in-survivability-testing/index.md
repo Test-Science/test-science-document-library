@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Design of Experiments','aircraft survivability','Live fire test and evaluation']
+keywords: ['Design of Experiments','Aircraft Survivability','Live Fire Test and Evaluation']
 researchers: ['Thomas Johnson','Mark Couch','John Haman','Heather Wojton']
 audience: Everyone
 venues: Aircraft Survivability Journal

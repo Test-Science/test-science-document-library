@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Modeling and Simulation']
-keywords: ['Statistics','Modeling and Simulation','Verification','Validation','and Accreditation']
+keywords: ['Statistics','Modeling and Simulation','M&S','Verification Validation and Accreditation']
 researchers: ['John Haman','Kelly Avery','Curtis Miller']
 audience: Everyone
 venues: Institute for Defense Analyses

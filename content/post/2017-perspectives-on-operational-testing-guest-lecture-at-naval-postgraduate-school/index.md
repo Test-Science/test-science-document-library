@@ -5,7 +5,7 @@ date: 2017-01-01
 year: 2017
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Operational test','Design of Experiments','problem discovery','Naval Postgraduate School','value of operational testing','test and evaluation']
+keywords: ['Operational Test','Design of Experiments','Problem Discovery','Naval Postgraduate School','Value of Operational Testing','Test and Evaluation']
 researchers: ['V. Bram Lillard']
 audience: Everyone
 venues: Naval Postgraduate School

@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Reliability']
-keywords: ['design of experiments','nonlinear mixed model','regression with lifetime data','weibull distribution']
+keywords: ['Design of Experiments','Nonlinear Mixed Model','Regression With Lifetime Data','Weibull Distribution']
 researchers: ['Rebecca Medlin','Laura Freeman','Jennifer Kensler','Geoffrey Vining']
 audience: Practitioner
 venues: Quality and Reliability Engineering International

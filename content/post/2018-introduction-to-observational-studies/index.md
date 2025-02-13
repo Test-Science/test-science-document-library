@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Design of Experiments']
-keywords: ['observational studies']
+keywords: ['Observational Studies']
 researchers: ['Yevgeniya Pinelis']
 audience: Practitioner
 venues: Institute for Defense Analyses

@@ -5,7 +5,7 @@ date: 2017-01-01
 year: 2017
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Human-System Interaction','Human-Machine Teaming','Behavioral Measures']
+keywords: ['Human System Interaction (HSI)','Human-Machine Teaming','Behavioral Measures']
 researchers: ['Kelly Avery','Heather Wojton']
 audience: Everyone
 venues: Joint Statistical Meetings

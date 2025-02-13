@@ -5,7 +5,7 @@ date: 2017-01-01
 year: 2017
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['measurement error','triangulation']
+keywords: ['Measurement Error','Triangulation']
 researchers: ['Dean Thomas','Heather Wojton','Chad Bieber','Daniel Porter']
 audience: Everyone
 venues: Institute for Defense Analyses

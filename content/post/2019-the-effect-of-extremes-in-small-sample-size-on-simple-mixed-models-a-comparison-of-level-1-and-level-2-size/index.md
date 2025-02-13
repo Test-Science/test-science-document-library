@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Design of Experiments']
-keywords: ['MIXED EFFECT MODELS','MULTI LEVEL MODELS','SAMPLE SIZE','EFFECT SIZE','POWER']
+keywords: ['Mixed Effect Models','Multi Level Models','Sample Size','Effect Size','Power']
 researchers: ['Kristina Carter','Heather Wojton','Stephanie Lane']
 audience: Practitioner
 venues: The The ITEA Journal of Test and Evaluation

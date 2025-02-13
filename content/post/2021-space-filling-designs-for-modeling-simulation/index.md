@@ -5,7 +5,7 @@ date: 2021-01-01
 year: 2021
 slug: []
 areas: ['Design of Experiments','Modeling and Simulation']
-keywords: ['Design of Experiments','Gaussian Process Modeling','Modeling & Simulation','Space Filling Designs','Statistics']
+keywords: ['Design of Experiments','Gaussian Process Modeling','Modeling & Simulation','Space-Filling Designs','Statistics']
 researchers: ['Han Yi','Curtis Miller','Kelly Avery']
 audience: Practitioner
 venues: Multi-Domain Operations Workshop

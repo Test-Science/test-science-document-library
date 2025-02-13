@@ -5,7 +5,7 @@ date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['TARTA','test','evaluation','verification','and validation','autonomous systems','artificial intelligence (AI)','autonomy framework']
+keywords: ['TARTA','Test Evaluation Verification and Validation','Autonomous Systems','Artificial Intelligence (AI)','AI','Autonomy Framework']
 researchers: ['Daniel Porter','Heather Wojton']
 audience: Everyone
 venues: Institute for Defense Analyses

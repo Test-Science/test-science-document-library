@@ -5,7 +5,7 @@ date: 2015-01-01
 year: 2015
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Surveys','Operational Test and Evaluation','Human Systems Interaction']
+keywords: ['Surveys','Operational Test and Evaluation','Human System Interaction']
 researchers: ['Rebecca Grier','Laura Freeman']
 audience: Everyone
 venues: Institute for Defense Analyses

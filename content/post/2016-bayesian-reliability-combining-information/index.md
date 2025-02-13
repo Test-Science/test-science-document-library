@@ -5,7 +5,7 @@ date: 2016-01-01
 year: 2016
 slug: []
 areas: ['Reliability']
-keywords: ['assurance testing','hierarchical model','Markov chain Monte Carlo','posterior distribution','prior distribution']
+keywords: ['Assurance Testing','Hierarchical Model','Markov Chain Monte Carlo','Posterior Distribution','Prior Distribution']
 researchers: ['Alyson Wilson','Kassandra Froncyzk']
 audience: Practitioner
 venues: Quality Engineering

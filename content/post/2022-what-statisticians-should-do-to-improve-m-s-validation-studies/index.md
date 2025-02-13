@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Modeling and Simulation']
-keywords: ['Simulation','Statistics','Data Science','Modeling','Best Practices for Statistically Validating Modeling and Simulation (M&S) Tools Used in Operational Testing']
+keywords: ['Simulation','Statistics','Data Science','Modeling','Best Practices']
 researchers: ['John Haman']
 audience: Everyone
 venues: DATAWorks

@@ -5,7 +5,7 @@ date: 2017-01-01
 year: 2017
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['data','statistics','data analysis','patterns','models','human cognition']
+keywords: ['Data','Statistics','Data Analysis','Patterns','Models','Human Cognition']
 researchers: ['Matthew Avery']
 audience: Everyone
 venues: Institute for Defense Analyses

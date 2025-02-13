@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Data Management']
-keywords: ['survey administration tool','survey management','survey design and analysis']
+keywords: ['Survey Administration Tool','Survey Management','Survey Design and Analysis']
 researchers: ['Kelly Tran','Tara McGovern','William Whitledge']
 audience: Everyone
 venues: DATAWorks

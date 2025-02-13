@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Air Force','Pilot Training Next (PTN)','Simulators','pilot training','Linear Mixed Models']
+keywords: ['Air Force','Pilot Training Next (PTN)','Simulators','Pilot Training','Linear Mixed Models']
 researchers: ['Daniel Porter','Emily Fedele','Heather Wojton']
 audience: Everyone
 venues: Institute for Defense Analyses

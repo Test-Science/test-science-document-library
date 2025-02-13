@@ -5,7 +5,7 @@ date: 2011-01-01
 year: 2011
 slug: []
 areas: ['Design of Experiments']
-keywords: ['A-optimality','constrained region of experimentation','D-optimality','design of experiments','factorial experiments','G-optimality','I-optimality','response surfaces']
+keywords: ['A-Optimality','Constrained Region Of Experimentation','D-Optimality','Design of Experiments','Factorial Experiments','G-Optimality','I-Optimality','Response Surfaces']
 researchers: ['Douglas Montgomery','Bradley Jones','Rachel Johnson']
 audience: Practitioner
 venues: Quality Engineering

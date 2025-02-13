@@ -5,7 +5,7 @@ date: 2017-01-01
 year: 2017
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Mixed effects models']
+keywords: ['Mixed Effects Models']
 researchers: ['Matthew Avery']
 audience: Expert
 venues: Joint Statistical Meetings

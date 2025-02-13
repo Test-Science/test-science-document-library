@@ -5,7 +5,7 @@ date: 2013-01-01
 year: 2013
 slug: []
 areas: ['Design of Experiments']
-keywords: ['computer simulation','gaussian process models','integrated variance','space-filling designs']
+keywords: ['Computer Simulation','Gaussian Process Models','Integrated Variance','Space-Filling Designs']
 researchers: ['Rachel Silvestrini','Douglas Montgomery','Bradley Jones']
 audience: Expert
 venues: Quality Engineering

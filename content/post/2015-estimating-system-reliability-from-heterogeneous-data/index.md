@@ -5,7 +5,7 @@ date: 2015-01-01
 year: 2015
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Bayesian','reliability','Paladin','sequence of models','experimental design']
+keywords: ['Bayesian','Reliability','Paladin','Sequence of Models','Experimental Design']
 researchers: ['Caleb Browning','Laura Freeman','Alyson Wilson','Kassandra Fronczyk','Rebecca Medlin']
 audience: Practitioner
 venues: Institute for Defense Analyses

@@ -5,7 +5,7 @@ date: 2024-01-01
 year: 2024
 slug: []
 areas: ['Modeling and Simulation']
-keywords: ['operational test and evaluation','statistical methods','modeling and simulation','federated models','federated M&S']
+keywords: ['Operational Test and Evaluation','Statistical Methods','Modeling and Simulation','Federated Models','Federated M&S']
 researchers: ['Dhruv Patel','Jo Anna Capp','John Haman']
 audience: Practitioner
 venues: DATAWorks

@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['training','Survey','survey development','survey validation','HumanSystems Interactions (HSI)']
+keywords: ['Training','Survey','Survey Development','Survey Validation','Human System Interaction (HSI)']
 researchers: ['Brian Vickers','Rachel Haga','Daniel Porter','Heather Wojton']
 audience: Everyone
 venues: DATAWorks

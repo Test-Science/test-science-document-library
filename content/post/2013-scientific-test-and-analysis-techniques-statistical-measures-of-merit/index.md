@@ -5,7 +5,7 @@ date: 2013-01-01
 year: 2013
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Design of Experiments','statistical analyses','Test Planning','Statistical Measures of Merit']
+keywords: ['Design of Experiments','Statistical Analyses','Test Planning','Statistical Measures of Merit']
 researchers: ['Laura Freeman']
 audience: Everyone
 venues: Institute for Defense Analyses

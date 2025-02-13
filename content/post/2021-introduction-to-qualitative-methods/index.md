@@ -5,7 +5,7 @@ date: 2021-01-01
 year: 2021
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['interviews','qualitative coding','qualitative data']
+keywords: ['Interviews','Qualitative Coding','Qualitative Data']
 researchers: ['Kristina Carter','Emily Fedele','Daniel Hellmann']
 audience: Everyone
 venues: DATAWorks

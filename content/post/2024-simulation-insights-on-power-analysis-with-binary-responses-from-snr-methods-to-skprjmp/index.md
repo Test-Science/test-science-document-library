@@ -5,7 +5,7 @@ date: 2024-01-01
 year: 2024
 slug: []
 areas: ['Design of Experiments']
-keywords: ['operational testing','logistic regression','statistical power','signal-to-noise ratio','monte carlo']
+keywords: ['Operational Testing','Logistic Regression','Statistical Power','Signal-To-Noise Ratio','Monte Carlo']
 researchers: ['Tyler Morgan-Wall','Robert Atkins','Curtis Miller']
 audience: Practitioner
 venues: DATAWorks

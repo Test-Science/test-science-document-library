@@ -5,7 +5,7 @@ date: 2011-01-01
 year: 2011
 slug: []
 areas: ['Design of Experiments']
-keywords: ['I-optimal design','chemical agent detector','response surface modeling']
+keywords: ['I-Optimal Design','Chemical Agent Detector','Response Surface Modeling']
 researchers: ['Laura Freeman']
 audience: Everyone
 venues: Army Conference on Applied Statistics

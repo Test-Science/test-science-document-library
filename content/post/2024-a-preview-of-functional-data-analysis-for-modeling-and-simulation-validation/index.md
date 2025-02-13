@@ -5,7 +5,7 @@ date: 2024-01-01
 year: 2024
 slug: []
 areas: ['Modeling and Simulation']
-keywords: ['functional data analysis','hypothesis testing','confidence intervals','simultaneous confidence intervals','Fishers combined probability test','modeling and simulation validation','radar tracks','functional principal component analysis']
+keywords: ['Functional Data Analysis','Hypothesis Testing','Confidence Intervals','Simultaneous Confidence Intervals','Fishers Combined Probability Test','Modeling and Simulation Validation','Radar Tracks','Functional Principal Component Analysis']
 researchers: ['Curtis Miller']
 audience: Practitioner
 venues: DATAWorks

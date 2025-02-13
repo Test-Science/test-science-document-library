@@ -5,7 +5,7 @@ date: 2014-01-01
 year: 2014
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Department of Defense','sequential design','design of experiments','ballistic resistance testing','three-phase optimal design']
+keywords: ['Department Of Defense','Sequential Design','Design of Experiments','Ballistic Resistance Testing','Three-Phase Optimal Design']
 researchers: ['Thomas Johnson','Laura Freeman','Janice Hester','Jonathan Bell']
 audience: Expert
 venues: IEEE

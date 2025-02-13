@@ -5,7 +5,7 @@ date: 2017-01-01
 year: 2017
 slug: []
 areas: ['Modeling and Simulation']
-keywords: ['system evaluation','verification and validation','missile simulation']
+keywords: ['System Evaluation','Verification and Validation','Missile Simulation']
 researchers: ['Rebecca Medlin','Pamela Rambow','Douglas Peek']
 audience: Practitioner
 venues: DATAWorks

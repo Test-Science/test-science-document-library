@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Design of Experiments','Modeling and Simulation']
-keywords: ['Modeling and Simulation Validation','statistical methods','Design of Experiments','Operational Testing','Director of Operational Testand Evaluation']
+keywords: ['Modeling and Simulation Validation','M&S','Statistical Methods','Design of Experiments','Operational Testing']
 researchers: ['Curtis Miller']
 audience: Everyone
 venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation

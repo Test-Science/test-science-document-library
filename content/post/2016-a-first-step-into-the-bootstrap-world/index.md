@@ -5,7 +5,7 @@ date: 2016-01-01
 year: 2016
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['uncertainty quantification','data analysis']
+keywords: ['Uncertainty Quantification','Data Analysis']
 researchers: ['Matthew Avery']
 audience: Everyone
 venues: Institute for Defense Analyses

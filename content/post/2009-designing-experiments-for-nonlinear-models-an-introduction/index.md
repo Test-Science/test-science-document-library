@@ -5,7 +5,7 @@ date: 2009-01-01
 year: 2009
 slug: []
 areas: ['Design of Experiments']
-keywords: ['optimal design','factorial design','Bayesian D-optimal design']
+keywords: ['Optimal Design','Factorial Design','Bayesian D-Optimal Design']
 researchers: ['Rachel Johnson','Douglas Montgomery']
 audience: Expert
 venues: Quality and Reliability Engineering International

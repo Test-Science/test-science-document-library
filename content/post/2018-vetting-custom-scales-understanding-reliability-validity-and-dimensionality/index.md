@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Survey','dimension reduction','reliability','Scale Validity']
+keywords: ['Survey','Dimension Reduction','Reliability','Scale Validity']
 researchers: ['Stephanie Lane']
 audience: Everyone
 venues: Institute for Defense Analyses

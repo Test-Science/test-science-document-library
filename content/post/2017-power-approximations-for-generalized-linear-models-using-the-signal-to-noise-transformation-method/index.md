@@ -5,7 +5,7 @@ date: 2017-01-01
 year: 2017
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Generalized Linear Models','Design of Experiments','Signal to Noise Ratio','Test Adequacy']
+keywords: ['Generalized Linear Models','Design of Experiments','Signal-To-Noise Ratio','Test Adequacy']
 researchers: ['Thomas Johnson','Laura Freeman','James Simpson','Colin Anderson']
 audience: Expert
 venues: Quality Engineering

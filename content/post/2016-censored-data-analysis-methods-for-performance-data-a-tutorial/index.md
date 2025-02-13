@@ -5,7 +5,7 @@ date: 2016-01-01
 year: 2016
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['reliability']
+keywords: ['Reliability']
 researchers: ['V. Bram Lillard']
 audience: Everyone
 venues: DATAWorks

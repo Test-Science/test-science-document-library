@@ -5,7 +5,7 @@ date: 2012-01-01
 year: 2012
 slug: []
 areas: ['Design of Experiments']
-keywords: ['factorial design','optimal design','power','response surface methodology','space filling design','test and evaluation']
+keywords: ['Factorial Design','Optimal Design','Power','Response Surface Methodology','Space-Filling Design','Test And Evaluation']
 researchers: ['Rachel Johnson','Douglas Montgomery','James Simpson']
 audience: Everyone
 venues: Quality Engineering

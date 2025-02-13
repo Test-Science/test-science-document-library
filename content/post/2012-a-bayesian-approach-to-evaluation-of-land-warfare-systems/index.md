@@ -5,7 +5,7 @@ date: 2012-01-01
 year: 2012
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Bayesian analysis','Test Planning','Scientific Test and Analysis Techniques']
+keywords: ['Bayesian Analysis','Test Planning','Scientific Test and Analysis Techniques']
 researchers: ['Alyson Wilson','Robert Holcomb','Lee Dewald','Samuel Parry']
 audience: Everyone
 venues: Army Conference on Applied Statistics

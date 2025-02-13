@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Reliability']
-keywords: ['Bayesian analysis','Reliability Analysis','Test Planning']
+keywords: ['Bayesian Analysis','Reliability Analysis','Test Planning']
 researchers: ['Rebecca Medlin']
 audience: Practitioner
 venues: Joint Statistical Meetings

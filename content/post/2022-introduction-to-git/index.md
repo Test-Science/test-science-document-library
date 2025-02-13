@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Data Management']
-keywords: ['Git','Reproducible Research','reproducible analyses','Data Management','tutorial']
+keywords: ['Git','Reproducible Research','Reproducible Analyses','Data Management','Tutorial']
 researchers: ['Curtis Miller']
 audience: Everyone
 venues: DATAWorks

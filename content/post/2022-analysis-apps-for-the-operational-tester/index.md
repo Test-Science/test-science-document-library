@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Survey','System Usability Scale (SUS)','Reliability','Test Science','Logistic Regression','Binary Response','Likert Response','Interactive Web Application','Reproducibility','Shiny']
+keywords: ['Survey','System Usability Scale (SUS)','Reliability','Logistic Regression','Binary Response','Likert Response','Interactive Web Application','Reproducibility','Shiny']
 researchers: ['William Whitledge']
 audience: Everyone
 venues: Institute for Defense Analyses

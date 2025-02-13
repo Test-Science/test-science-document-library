@@ -5,7 +5,7 @@ date: 2012-01-01
 year: 2012
 slug: []
 areas: ['Design of Experiments']
-keywords: ['test and evaluation','Measures of Effectiveness']
+keywords: ['Test and Evaluation','Measures of Effectiveness']
 researchers: ['Laura Freeman','V. Bram Lillard']
 audience: Everyone
 venues: NDIA National Test and Evaluation Conference

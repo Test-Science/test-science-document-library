@@ -5,7 +5,7 @@ date: 2016-01-01
 year: 2016
 slug: []
 areas: ['Design of Experiments']
-keywords: ['functional data analysis','mixed effects cumulative logistic regression']
+keywords: ['Functional Data Analysis','Mixed Effects Cumulative Logistic Regression']
 researchers: ['Matthew Avery','Mark Orndorff','Timothy Robinson','Laura Freeman']
 audience: Expert
 venues: Quality and Reliability Engineering International

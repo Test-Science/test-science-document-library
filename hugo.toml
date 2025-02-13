@@ -10,6 +10,8 @@ copyright = "[© Institute for Defense Analyses](https://www.ida.org)"
 [params]
         defaultTheme = 'light'
         disableThemeToggle = true
+        disableScrollToTop = false
+        ShowRssButtonInSectionTermList = true
         ShowShareButtons = true
         ShowFullTextinRSS = true
         hideMeta = false

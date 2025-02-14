@@ -37,6 +37,7 @@ Merge a change into the github repository, and the Netlify app will automaticall
 
 ## To Do
 
-- Incorporate Miriam's layout suggestion
+- Incorporate Miriams layout suggestion
+- Remove any pubs that we don't have rights to distribute
 - Link to Relevant Test Science apps
 - PDF -> Markdown conversion

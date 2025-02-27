@@ -1,4 +1,4 @@
-baseURL = 'https://test-science-document-library.netlify.app/'
+baseURL = 'https://research.testscience.org/'
 languageCode = 'en-us'
 title = 'Test Science Research Document Library'
 theme = ["PaperMod"]

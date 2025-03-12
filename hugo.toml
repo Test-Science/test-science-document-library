@@ -38,32 +38,35 @@ copyright = "[© Institute for Defense Analyses](https://www.ida.org)"
 [outputs]
         home = [ "HTML", "RSS", "JSON" ]
 
-
-[[menu.main]]
-         name = "Core Research Areas"
-         url = "/areas/"
-
-[[menu.main]]
-          name = "Keywords"
-          url = "/keywords/"
-
-[[menu.main]]
-          name = "Team"
-          url = "/researchers/"
-
-[[menu.main]]
-          name = "Publication Year"
-          url = "/year/"
-
-[[menu.main]]
-         name = "Audience"
-         url = "/audience/"
-
-[[menu.main]]
-        name = "Venue"
-        url = "/venues/"
-
 [[menu.main]]
           name = "Search"
           url = "/search/"
           weight = 1
+[[menu.main]]
+         name = "Core Research Areas"
+         url = "/areas/"
+          weight = 2
+[[menu.main]]
+          name = "Keywords"
+          url = "/keywords/"
+          weight = 3
+[[menu.main]]
+          name = "Team"
+          url = "/researchers/"
+          weight = 3
+[[menu.main]]
+          name = "Publication Year"
+          url = "/year/"
+          weight = 3
+[[menu.main]]
+         name = "Audience"
+         url = "/audience/"
+          weight = 3
+[[menu.main]]
+        name = "Venue"
+        url = "/venues/"
+        weight = 3
+[[menu.main]]
+        name = "RSS"
+        url = "https://research.testscience.org/index.xml"
+        weight = 9

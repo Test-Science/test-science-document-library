@@ -5,7 +5,7 @@ date: 2024-01-01
 year: 2024
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['Artificial Intelligence','Data Fusion','Data Integration','Test Concept','Human System Interaction (HSI)']
+keywords: ['Artificial Intelligence','Data Fusion','Data Integration','Test Concept','Human System Interaction']
 researchers: ['Adam Miller','Logan Ausman','John Haman','Keyla Pagan-Rivera','Sarah Shaffer','Brian Vickers']
 audience: Practitioner
 venues: DATAWorks

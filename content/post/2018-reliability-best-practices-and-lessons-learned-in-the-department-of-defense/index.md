@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Reliability']
-keywords: ['AH-64E Apache Attack Helicopter','KMI','WIN-T','Warfighter Information Network-Tactical','Key Management','Lessons Learned','Reliability','CVN-78','THAAD (Theater High Altitude Area Defense)','Joint Strike Fighter','Best Practices']
+keywords: ['AH-64E Apache Attack Helicopter','KMI','','Warfighter Information Network-Tactical','Key Management','Lessons Learned','Reliability','CVN-78','THAAD (Theater High Altitude Area Defense)','Joint Strike Fighter','Best Practices']
 researchers: ['Jon Bell','Jane Pinelis','Laura Freeman']
 audience: Everyone
 venues: Reliability & Maintainability Symposium

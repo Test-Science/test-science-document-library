@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Modeling and Simulation','Design of Experiments']
-keywords: ['Gaussian Process Modeling','Generalized Additive Models','Modeling and Simulation Validation','Simulation','Statistical Methods']
+keywords: ['Gaussian Process Model','Generalized Additive Models','Modeling and Simulation Validation','Simulation','Statistical Methods']
 researchers: ['John Haman','Curtis Miller']
 audience: Practitioner
 venues: Institute for Defense Analyses
@@ -24,7 +24,7 @@ The paper expands on DOT&E’s existing guidance about metamodel usage by creati
 > Haman, John T, and Curtis G Miller. Metamodeling Techniques for Verification and Validation of Modeling and Simulation Data. IDA Paper P-33230. Alexandria, VA: Institute for Defense Analyses, 2022.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 #### Paper: 
 {{< pdfReader "paper.pdf" >}}

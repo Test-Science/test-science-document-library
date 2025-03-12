@@ -5,7 +5,7 @@ date: 2017-01-01
 year: 2017
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Defense','Operational Testing','Design of Experiments','Modeling & Simulation']
+keywords: ['Defense','Operational Test and Evaluation','Design of Experiments','Modeling and Simulation']
 researchers: ['Dean Thomas','Kelly Avery','Laura Freeman','Matthew Avery']
 audience: Everyone
 venues: Wiley StatsRef
@@ -24,6 +24,6 @@ In the increasingly complex and data‐limited world of military defense testing
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

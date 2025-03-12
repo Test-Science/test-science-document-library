@@ -5,7 +5,7 @@ date: 2015-01-01
 year: 2015
 slug: []
 areas: ['Modeling and Simulation']
-keywords: ['M&S','Verification And Validation','Accreditation']
+keywords: ['Modeling and Simulation','Verification And Validation','Accreditation']
 researchers: ['Kelly Avery','Laura Freeman','Rebecca Medlin']
 audience: Everyone
 venues: Institute for Defense Analyses
@@ -22,7 +22,7 @@ In many situations, collecting sufficient data to evaluate system performance ag
 > Avery, Kelly, Laura Freeman, and Rebecca Medlin. Best Practices for Statistically Validating Modeling and Simulation (M&S) Tools Used in Operational Testing. IDA Document NS D-5582. Alexandria, VA: Institute for Defense Analyses, 2015.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

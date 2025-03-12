@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Design of Experiment','Operational Testing','Statistics']
+keywords: ['Design of Experiments','Operational Test and Evaluation','Statistics']
 researchers: ['Addison Adams']
 audience: Expert
 venues: DATAWorks
@@ -22,7 +22,7 @@ In many Department of Defense test and evaluation applications, binary response 
 > Medlin, Rebecca M, and Addison D Adams. Comparing Normal and Binary D-Optimal Design of Experiments by Statistical Power. IDA Document 3000032. Alexandria, VA: Institute for Defense Analyses, 2023.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

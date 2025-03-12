@@ -5,10 +5,10 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Mixed Effect Models','Multi Level Models','Sample Size','Effect Size','Power']
+keywords: ['Mixed Effects Models','Multi-level Models','Sample Size','Effect Size','Power']
 researchers: ['Kristina Carter','Heather Wojton','Stephanie Lane']
 audience: Practitioner
-venues: The The ITEA Journal of Test and Evaluation
+venues: The  ITEA Journal of Test and Evaluation
 draft: no
 cover:
   image: ''
@@ -24,6 +24,6 @@ We present a simulation study that examines the impact of small sample sizes in 
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

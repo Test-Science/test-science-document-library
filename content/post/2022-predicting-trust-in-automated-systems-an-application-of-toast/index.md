@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Automated System','Autonomous','Reliance','Trust','Trust In Automated Systems Test (TOAST)']
+keywords: ['Autonomy','Autonomous','Reliance','Trust','TOAST']
 researchers: ['Caitlan Fealing']
 audience: Practitioner
 venues: Institute for Defense Analyses
@@ -22,7 +22,7 @@ Following Wojton's research on the Trust of Automated Systems Test (TOAST), whic
 > Porter, Daniel J, and Caitlan A Fealing. Predicting Trust in Automated Systems – An Application of TOAST. IDA Document NS D-33188. Alexandria, VA: Institute for Defense Analyses, 2022.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 #### Paper: 
 {{< pdfReader "paper.pdf" >}}

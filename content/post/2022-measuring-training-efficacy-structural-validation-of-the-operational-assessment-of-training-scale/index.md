@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Training','Survey','Survey Development','Survey Validation','Human System Interaction (HSI)']
+keywords: ['Training','Survey','Survey Development','Survey Validation','Human System Interaction']
 researchers: ['Brian Vickers','Rachel Haga','Daniel Porter','Heather Wojton']
 audience: Everyone
 venues: DATAWorks
@@ -22,7 +22,7 @@ Effective training of the broad set of users/operators of systems has downstream
 > Vickers, Brian D, Daniel J Porter, Rachel A Haga, Heather M Wojton, and V. Bram Lillard. Measuring Training Efficacy: Structural Validation of the Operational Assessment of Training Scale (OATS). IDA Document NS D-32972. Alexandria, VA: Institute for Defense Analyses, 2022.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

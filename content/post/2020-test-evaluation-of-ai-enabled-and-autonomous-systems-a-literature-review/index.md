@@ -5,7 +5,7 @@ date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['Test Evaluation Verification and Validation (TEV&V)','Artificial Intelligence (AI)','Joint Artificial Intelligence Center (JAIC)','Artificial Intelligence Enhanced Autonomous Capabilities','Autonomy Framework']
+keywords: ['Test Evaluation Verification and Validation ','Artificial Intelligence','Joint Artificial Intelligence Center','Artificial Intelligence Enhanced Autonomous Capabilities','Autonomy Framework']
 researchers: ['Heather Wojton','Daniel Porter','John Dennis']
 audience: Everyone
 venues: Institute for Defense Analyses
@@ -48,6 +48,6 @@ Recommendations for how to test autonomous military systems can be sorted into f
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

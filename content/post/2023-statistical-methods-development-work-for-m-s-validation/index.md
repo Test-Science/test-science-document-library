@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Design of Experiments','Modeling and Simulation']
-keywords: ['Modeling and Simulation Validation','M&S','Statistical Methods','Design of Experiments','Operational Testing']
+keywords: ['Modeling and Simulation Validation','Modeling and Simulation','Statistical Methods','Design of Experiments','Operational Test and Evaluation']
 researchers: ['Curtis Miller']
 audience: Everyone
 venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation
@@ -22,7 +22,7 @@ We discuss four areas in which statistically rigorous methods contribute to mode
 > Miller, Curtis G. “Statistical Methods Development Work for M&S Validation.” International Test and Evaluation Association 44, no. 3 (September 11, 2023). https://doi.org/10.61278/itea.44.3.1010.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 #### Paper: 
 {{< pdfReader "paper.pdf" >}}

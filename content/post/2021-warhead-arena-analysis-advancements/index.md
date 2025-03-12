@@ -5,7 +5,7 @@ date: 2021-01-01
 year: 2021
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Bayesian Statistics','Energy Statistics','Live Fire Test and Evaluation','Modeling and Simulation','M&S']
+keywords: ['Bayesian Statistics','Energy Statistics','Live Fire Test and Evaluation','Modeling and Simulation']
 researchers: ['John Haman','Mark Couch','Thomas Johnson','Kerry Walzl','Heather Wojton']
 audience: Practitioner
 venues: Joint Statistical Meetings
@@ -28,7 +28,7 @@ Fragmentation analysis is a critical piece of the live fire test and evaluation 
 > Couch, Mark, Thomas Johnson, John Haman, Kerry Walzl, Heather Wojton, Thomas Hatch-Aguilar, and David Higdon. Warhead Arena Analysis Advancements. IDA Document NS-D-11038. Alexandria, VA: Institute for Defense Analyses, 2021.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Statistics','Descriptive Statistics','Inferential Statistics','Graphics','Non-Parametrics Statistics']
+keywords: ['Statistics','Descriptive Statistics','Inferential Statistics','Graphics','Non-Parametric Statistics']
 researchers: ['Kelly Avery','Stephanie Lane']
 audience: Everyone
 venues: DATAWorks
@@ -22,7 +22,7 @@ In the test community, we frequently use statistics to extract meaning from data
 > Wojton, Heather M, Rebecca M Medlin, Kelly M Avery, and Stephanie T Lane. Statistics Bootcamp. IDA Document NS D-10565. Alexandria, VA: Institute for Defense Analyses, 2019.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

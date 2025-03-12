@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Modeling and Simulation (M&S) Validation','M&S','Statistical Analysis','Wald Test','Weapons Analysis Facility']
+keywords: ['Modeling and Simulation Validation','Modeling and Simulation','Statistical Analyses','Wald Test','Weapons Analysis Facility']
 researchers: ['Carrington Metts','Curtis Miller']
 audience: Practitioner
 venues: The The ITEA Journal of Test and Evaluation of Test and Evaluation
@@ -22,7 +22,7 @@ This work describes the development of a statistical test created in support of 
 > Metts, Carrington, and Curtis Miller. “Development of Wald-Type and Score-Type Statistical Tests to Compare Live Test Data and Simulation Predictions.” The ITEA Journal of Test and Evaluation 44, no. 3 (August 25, 2023). https://itea.org/journals/volume-44-3/development-of-wald-type-and-score-type-statistical-tests-to-compare-live-test-data-and-simulation-predictions/.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 #### Paper: 
 {{< pdfReader "paper.pdf" >}}

@@ -1,12 +1,12 @@
 ---
 title: Bayesian Reliability- Combining Information
-author: Alyson Wilson, Kassandra Froncyzk
+author: Alyson Wilson, Kassandra Fronczyk
 date: 2016-01-01
 year: 2016
 slug: []
 areas: ['Reliability']
 keywords: ['Assurance Testing','Hierarchical Model','Markov Chain Monte Carlo','Posterior Distribution','Prior Distribution']
-researchers: ['Alyson Wilson','Kassandra Froncyzk']
+researchers: ['Alyson Wilson','Kassandra Fronczyk']
 audience: Practitioner
 venues: Quality Engineering
 draft: no
@@ -24,6 +24,6 @@ One of the most powerful features of Bayesian analyses is the ability to combine
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

@@ -5,7 +5,7 @@ date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Modeling and Simulation']
-keywords: ['Modeling and Simulation (M&S) Validation','Torpedo','Design of Experiments','Undersea Warfare']
+keywords: ['Modeling and Simulation Validation','Torpedo','Design of Experiments','Undersea Warfare']
 researchers: ['Elliot Bartis','Steven Rabinowitz']
 audience: Everyone
 venues: DATAWorks
@@ -22,7 +22,7 @@ Reliable modeling and simulation (M&S) allows the undersea warfare community to 
 > Bartis, Elliot, and Steven Rabinowitz. A Validation Case Study: The Environment Centric Weapons Analysis Facility (ECWAF). IDA Document NS D-12081. Alexandria, VA: Institute for Defense Analyses, 2020.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

@@ -5,7 +5,7 @@ date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Design of Experiments','Operational Testing','Statistics']
+keywords: ['Design of Experiments','Operational Test and Evaluation','Statistics']
 researchers: ['Rebecca Medlin','John Dennis','Keyla Pagan-Rivera','Leonard Wilkins','Heather Wojton']
 audience: Practitioner
 venues: Institute for Defense Analyses
@@ -24,6 +24,6 @@ Sequential analysis concerns statistical evaluation in situations in which the n
 
 
 #### Paper: 
-{{< pdfReader "paper_seq_review.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

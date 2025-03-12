@@ -5,7 +5,7 @@ date: 2022-01-01
 year: 2022
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Artificial Intelligence (AI)','AI','Human-Machine Teaming','Metrics For Human-Machine Teams','Topological Model']
+keywords: ['Artificial Intelligence','Human-Machine Teaming','Metrics For Human-Machine Teams','Topological Model']
 researchers: ['Leonard Wilkins','Caitlan Fealing']
 audience: Practitioner
 venues: DATAWorks
@@ -22,7 +22,7 @@ A Human-Machine Team (HMT) is a group ofagents consisting of at least one human 
 > Wilkins, Leonard D, Caitlan A Fealing, V. Bram Lillard, and John Haman. Topological Modeling of Human-Machine Teams. IDA Document NS D-33031. Alexandria, VA: Institute for Defense Analyses, 2022.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

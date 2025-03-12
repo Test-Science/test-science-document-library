@@ -22,7 +22,7 @@ Bootstrapping is a powerful nonparametric tool for conducting statistical infere
 > Avery, Matthew R. A First Step into the Bootstrap World. IDA Document NS D-5816. Alexandria, VA: Institute for Defense Analyses, 2016.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

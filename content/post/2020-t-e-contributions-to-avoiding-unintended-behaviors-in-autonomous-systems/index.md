@@ -5,7 +5,7 @@ date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['TARTA','Test Evaluation Verification and Validation','Autonomous Systems','Artificial Intelligence (AI)','AI','Autonomy Framework']
+keywords: ['TARTA','Test Evaluation Verification and Validation','Autonomy','Artificial Intelligence','AI','Autonomy Framework']
 researchers: ['Daniel Porter','Heather Wojton']
 audience: Everyone
 venues: Institute for Defense Analyses
@@ -22,7 +22,7 @@ To provide assurance that AI-enabled systems will behave appropriately across th
 > Porter, Daniel J, and Heather Wojton. T&E Contributions to Avoiding Unintended Behaviors in Autonomous Systems. Vol. IDA Document NS D-12078. Alexandria, VA: Institute for Defense Analyses, 2020.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

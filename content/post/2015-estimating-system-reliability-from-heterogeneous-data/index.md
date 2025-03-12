@@ -5,7 +5,7 @@ date: 2015-01-01
 year: 2015
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Bayesian','Reliability','Paladin','Sequence of Models','Experimental Design']
+keywords: ['Bayesian','Reliability','Paladin','Sequence of Models','Design of Experiments']
 researchers: ['Caleb Browning','Laura Freeman','Alyson Wilson','Kassandra Fronczyk','Rebecca Medlin']
 audience: Practitioner
 venues: Institute for Defense Analyses
@@ -22,7 +22,7 @@ This briefing provides an example of some of the nuanced issues in reliability e
 > Browning, Caleb, Laura Freeman, Alyson Wilson, Kassandra Fronczyk, and Rebecca Dickinson. “Estimating System Reliability from Heterogeneous Data.” Presented at the Conference on Applied Statistics in Defense, George Mason University, October 2015.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

@@ -5,7 +5,7 @@ date: 2024-01-01
 year: 2024
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['HSI','Human-Systems','Human Factors','Operational','DOE','Analysis','Suitability','Usability','Workload','Training','Trust','Situational Awareness','Survey','Behavior','Interview','Focus Group','Qualitative','Quantitative','Mixed-Methods','Triangulation','Validated Scale']
+keywords: ['Human Systems Interaction','Human Systems Interaction','Human Factors','Operational','Design of Experiments','Analysis','Suitability','Usability','Workload','Training','Trust','Situational Awareness','Survey','Behavior','Interview','Focus Group','Qualitative','Quantitative','Mixed-Methods','Triangulation','Validated Scale']
 researchers: ['Adam Miller','Keyla Pagan-Rivera']
 audience: Everyone
 venues: Institute for Defense Analyses

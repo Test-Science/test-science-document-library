@@ -24,6 +24,6 @@ This paper investigates regularization for continuously observed covariates that
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

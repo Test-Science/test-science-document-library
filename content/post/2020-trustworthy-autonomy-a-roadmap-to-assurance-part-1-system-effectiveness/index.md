@@ -5,7 +5,7 @@ date: 2020-01-01
 year: 2020
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['Artificial Intelligence','Autonomous Systems','Autonomy','Machine Learning','Military AI','T&E','Test & Evaluation','Test Methods','Test Strategy','Test Evaluation Verification and Validation (TEV&V)','TEV&V']
+keywords: ['Artificial Intelligence','Autonomy','Machine Learning','Military AI','Test and Evaluation','Test Methods','Test Strategy','Test Evaluation Verification and Validation']
 researchers: ['Daniel Porter','Michael McAnally','Chad Bieber','Heather Wojton','Rebecca Medlin']
 audience: Everyone
 venues: Institute for Defense Analyses
@@ -24,9 +24,9 @@ The framework proposed in the current work bridges the gap between the big pictu
 > Porter, Daniel, Michael McAnally, Chad Bieber, Heather Wojton, and Rebecca Medlin. Trustworthy Autonomy: A Roadmap to Assurance Part I: System Effectiveness. IDA Document P-10768-NS. Alexandria, VA: Institute for Defense Analyses, 2020.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

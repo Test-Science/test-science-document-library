@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Design Thinking','Operational Testing','Operational Test Design']
+keywords: ['Design Thinking','Operational Test and Evaluation','Operational Test Design']
 researchers: ['Miriam Armstrong']
 audience: Everyone
 venues: DATAWorks
@@ -22,7 +22,7 @@ This poster provides an example of how a design thinking framework can facilitat
 > Avery, Kelly M, and Miriam E Armstrong. An Example Application of Design Thinking. IDA Document NS D-33368. Alexandria, VA: Institute for Defense Analyses, 2023.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

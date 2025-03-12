@@ -24,6 +24,6 @@ There are many situations where the requirements of a standard experimental desi
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

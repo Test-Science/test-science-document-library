@@ -5,7 +5,7 @@ date: 2016-01-01
 year: 2016
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Operational Testing','Design of Experiments','Live Fire Test and Evaluation','Sequential Design','Sensitivity Testing']
+keywords: ['Operational Test and Evaluation','Design of Experiments','Live Fire Test and Evaluation','Sequential Design','Sensitivity Testing']
 researchers: ['Laura Freeman','Thomas Johnson','Raymond Chen']
 audience: Practitioner
 venues: Institute for Defense Analyses

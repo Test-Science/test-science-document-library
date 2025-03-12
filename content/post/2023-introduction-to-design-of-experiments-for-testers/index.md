@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Design of Experiments','Operational Testing','Statistical Analysis']
+keywords: ['Design of Experiments','Operational Test and Evaluation','Statistical Analyses']
 researchers: ['Breeana Anderson','Rebecca Medlin','John Haman','Kelly Avery','Keyla Pagan-Rivera']
 audience: Everyone
 venues: Interservice/Industry Training, Simulation and Education Conference (I/ITSEC)
@@ -22,7 +22,7 @@ This training provides details regarding the use of design of experiments, from 
 > Haman, John T, Breeana Anderson, Rebecca Medlin, Kelly M Avery, and Keyla Pagan-Rivera. I/ITSEC DOE Tutorial. IDA Document NS-D-33561. Alexandria, VA: Institute for Defense Analyses, 2023.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

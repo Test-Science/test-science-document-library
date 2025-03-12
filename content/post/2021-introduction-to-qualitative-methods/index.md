@@ -5,7 +5,7 @@ date: 2021-01-01
 year: 2021
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Interviews','Qualitative Coding','Qualitative Data']
+keywords: ['Interview','Qualitative Coding','Qualitative Data']
 researchers: ['Kristina Carter','Emily Fedele','Daniel Hellmann']
 audience: Everyone
 venues: DATAWorks
@@ -24,7 +24,7 @@ This tutorial offers insight into the foundational concepts of method and practi
 > Medlin, Rebecca, Kristina Carter, Emily Fedele, and Daniel Hellmann. Introduction to Qualitative Methods. IDA Document NS D-21591. Alexandria, VA: Institute for Defense Analyses, 2021.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

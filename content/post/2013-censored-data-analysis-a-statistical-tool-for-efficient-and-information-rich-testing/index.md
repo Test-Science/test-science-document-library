@@ -5,7 +5,7 @@ date: 2013-01-01
 year: 2013
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Design of Experiments','Statistical Analyses','Test Planning','Censored Data','Binomial']
+keywords: ['Design of Experiments','Statistical Analyses','Test Planning','Censored Data','Binomial Data']
 researchers: ['V. Bram Lillard']
 audience: Practitioner
 venues: NDIA National Test and Evaluation Conference

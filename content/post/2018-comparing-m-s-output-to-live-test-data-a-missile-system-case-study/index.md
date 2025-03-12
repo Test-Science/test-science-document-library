@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Modeling and Simulation']
-keywords: ['Statistics','Operational Testing','Design of Experiments','Modeling and Simulation','Validation']
+keywords: ['Statistics','Operational Test and Evaluation','Design of Experiments','Modeling and Simulation','Validation']
 researchers: ['Kelly Avery']
 audience: Practitioner
 venues: Institute for Defense Analyses
@@ -22,7 +22,7 @@ In the operational testing of DoD weapons systems, modeling and simulation (M&S)
 > Thomas, Dean, and Kelly M Avery. Comparing M&S Output to Live Test Data: A Missile System Case Study. IDA Non-Standard Document NS D-9002. Alexandria, VA: Institute for Defense Analyses, 2018.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 
 

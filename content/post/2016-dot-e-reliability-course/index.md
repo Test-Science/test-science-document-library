@@ -5,7 +5,7 @@ date: 2016-01-01
 year: 2016
 slug: []
 areas: ['Reliability']
-keywords: ['Department of Defense','Reliability','Reliability Growth','Reliability Analysis','Test and Evaluation Master Plan']
+keywords: ['Department of Defense','Reliability','Reliability Growth','Reliability','Test and Evaluation Master Plan']
 researchers: ['Matthew Avery','Rebecca Medlin','Jonathan Bell','Laura Freeman']
 audience: Everyone
 venues: Institute for Defense Analyses

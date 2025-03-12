@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Human Systems Interactions']
-keywords: ['Trust In Automated Systems Test (TOAST)','Autonomy','Trust in Automation']
+keywords: ['TOAST','Autonomy','Trust in Automation']
 researchers: ['Heather Wojton','Daniel Porter','Stephanie Lane','Chad Bieber','Poornima Madhavan']
 audience: Expert
 venues: The Journal of Social Psychology
@@ -24,6 +24,6 @@ Trust is a key determinant of whether people rely on automated systems in the mi
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

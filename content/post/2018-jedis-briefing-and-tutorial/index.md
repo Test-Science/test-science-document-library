@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Design of Experiments']
-keywords: ['JMP Software','Statistics','Operational Testing','Design of Experiments']
+keywords: ['JMP Software','Statistics','Operational Test and Evaluation','Design of Experiments']
 researchers: ['Jason Sheldon']
 audience: Everyone
 venues: Institute for Defense Analyses
@@ -24,6 +24,6 @@ Are you sick of having to manually iterate your way through sizing your design o
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

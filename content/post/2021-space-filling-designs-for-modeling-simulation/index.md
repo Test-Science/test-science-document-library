@@ -5,7 +5,7 @@ date: 2021-01-01
 year: 2021
 slug: []
 areas: ['Design of Experiments','Modeling and Simulation']
-keywords: ['Design of Experiments','Gaussian Process Modeling','Modeling & Simulation','Space-Filling Designs','Statistics']
+keywords: ['Design of Experiments','Gaussian Process Model','Modeling and Simulation','Space-Filling Designs','Statistics']
 researchers: ['Han Yi','Curtis Miller','Kelly Avery']
 audience: Practitioner
 venues: Multi-Domain Operations Workshop
@@ -22,7 +22,7 @@ This document presents arguments and methods for using space-filling designs (SF
 > Avery, Kelly, John T Haman, Thomas Johnson, Curtis Miller, Dhruv Patel, and Han Yi. Test Design Challenges in Defense Testing. IDA Product ID 3002855. Alexandria, VA: Institute for Defense Analyses, 2024.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 #### Paper: 
 {{< pdfReader "paper.pdf" >}}

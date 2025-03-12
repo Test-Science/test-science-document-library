@@ -6,7 +6,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Design of Experiments','Modeling and Simulation','Uncertainty Quantification']
-keywords: ['Computer Experiments','Design f Experiments','Model Assessment and Validation','Uncertainty Quantification']
+keywords: ['Computer Experiments','Design of Experiments','Model Assessment and Validation','Uncertainty Quantification']
 researchers: ['Heather Wojton','Kelly Avery','Laura Freeman','Samuel Parry','Gregory Whittier','Thomas Johnson','Andrew Flack']
 audience: Practitioner
 venues: Institute for Defense Analyses
@@ -23,9 +23,9 @@ This handbook focuses on methods for data-driven validation to supplement the va
 > Wojton, Heather, Kelly M Avery, Laura J Freeman, Samuel H Parry, Gregory S Whittier, Thomas H Johnson, and Andrew C Flack. Handbook on Statistical Design & Analysis Techniques for Modeling & Simulation Validation. IDA Document NS D-10455. Alexandria, VA: Institute for Defense Analyses, 2019.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

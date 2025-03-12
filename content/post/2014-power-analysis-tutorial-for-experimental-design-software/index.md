@@ -24,6 +24,6 @@ This guide provides both a general explanation of power analysis and specific gu
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

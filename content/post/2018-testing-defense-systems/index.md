@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Design of Experiment','Operational Testing','Statistics']
+keywords: ['Design of Experiments','Operational Test and Evaluation','Statistics']
 researchers: ['Justace Clutter','Thomas Johnson','Matthew Avery','V. Bram Lillard','Laura Freeman']
 audience: Practitioner
 venues: Analytic Methods in Systems and Software Testing

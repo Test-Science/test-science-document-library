@@ -5,7 +5,7 @@ date: 2009-01-01
 year: 2009
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Bayesian Design','Generalized Linear Models','Optimal Design','Response Surface Methods']
+keywords: ['Bayesian Design','Generalized Linear Models','Optimal Design','Response Surface Methodology']
 researchers: ['Rachel Johnson','Douglas Montgomery']
 audience: Expert
 venues: International Journal of Experimental Design and Process Optimisation
@@ -24,6 +24,6 @@ This paper illustrates the construction of D-optimal second order designs for si
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

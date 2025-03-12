@@ -5,10 +5,10 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Uncertainty Quantification']
-keywords: ['Mixed Effect Models','Multi Level Models','Uncertainty Quantification','R']
+keywords: ['Mixed Effects Models','Multi-level Models','Uncertainty Quantification','R']
 researchers: ['John Haman','Matthew Avery','Heather Wojton']
 audience: Practitioner
-venues: The The ITEA Journal of Test and Evaluation
+venues: The  ITEA Journal of Test and Evaluation
 draft: no
 cover:
   image: ''
@@ -22,9 +22,9 @@ Mixed-effects models are the standard technique for analyzing data with grouping
 > Haman, John, Matthew Avery, and Heather Wojton. “The Purpose of Mixed-Effects Models in Test and Evaluation.” The ITEA Journal of Test and Evaluation 40, no. 4 (2019): 249–55.
 
 #### Slides: 
-{{< pdfReader "slides.pdf" >}}
+{{< pdfReader "out_slide.txt" >}}
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

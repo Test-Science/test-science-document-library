@@ -5,7 +5,7 @@ date: 2019-01-01
 year: 2019
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['Artificial Intelligence',' Test and Evaluation',' Human-System Integration']
+keywords: ['Artificial Intelligence','Test and Evaluation','Human System Interaction']
 researchers: ['Heather Wojton','Daniel Porter']
 audience: Everyone
 venues: Institute for Defense Analyses
@@ -24,6 +24,6 @@ The purpose of this briefing is to provide a high-level overview of how to frame
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

@@ -5,7 +5,7 @@ date: 2023-01-01
 year: 2023
 slug: []
 areas: ['Artificial Intelligence and Autonomy']
-keywords: ['Artificial Intellgience',' AI','Test And Evaluation',' Human System Interaction (HSI)']
+keywords: ['Artificial Intelligence','Test And Evaluation','Human System Interaction']
 researchers: ['Brian Vickers','Matthew Avery','Rachel Haga','Mark Herrera','Daniel Porter','Stuart Rodgers']
 audience: Everyone
 venues: Institute for Defense Analyses

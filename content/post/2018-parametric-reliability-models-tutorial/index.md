@@ -5,7 +5,7 @@ date: 2018-01-01
 year: 2018
 slug: []
 areas: ['Reliability']
-keywords: ['Reliability','Exponential Distribution','Parameter','Hazard Function','Failure Rate','Confidence Bound','Normal Distribution','Weibull Distribution']
+keywords: ['Reliability','Exponential Distribution','Parameter','Hazard Function','Failure Rate','Confidence Intervals','Normal Distribution','Weibull Distribution']
 researchers: ['William Whitledge']
 audience: Practitioner
 venues: DATAWorks
@@ -24,6 +24,6 @@ This tutorial demonstrates how to plot reliability functions parametrically in R
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

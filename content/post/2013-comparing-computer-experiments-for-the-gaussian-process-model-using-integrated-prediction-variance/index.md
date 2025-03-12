@@ -5,7 +5,7 @@ date: 2013-01-01
 year: 2013
 slug: []
 areas: ['Design of Experiments']
-keywords: ['Computer Simulation','Gaussian Process Models','Integrated Variance','Space-Filling Designs']
+keywords: ['Computer Simulation','Gaussian Process Model','Integrated Variance','Space-Filling Designs']
 researchers: ['Rachel Silvestrini','Douglas Montgomery','Bradley Jones']
 audience: Expert
 venues: Quality Engineering
@@ -16,7 +16,7 @@ cover:
 
 
 
-Space filling designs are a common choice of experimental design strategy for computer experiments. This paper compares space filling design types based on their theoretical prediction variance properties with respect to the Gaussian Process model.
+Space-Filling Designs are a common choice of experimental design strategy for computer experiments. This paper compares space filling design types based on their theoretical prediction variance properties with respect to the Gaussian Process model.
 
 #### Suggested Citation
 > Silvestrini, Rachel T., Douglas C. Montgomery, and Bradley Jones. “Comparing Computer Experiments for the Gaussian Process Model Using Integrated Prediction Variance.” Quality Engineering 25, no. 2 (April 2013): 164–74. https://doi.org/10.1080/08982112.2012.758284.
@@ -24,6 +24,6 @@ Space filling designs are a common choice of experimental design strategy for co
 
 
 #### Paper: 
-{{< pdfReader "paper.pdf" >}}
+{{< pdfReader "out_paper.txt" >}}
 
 

@@ -24,6 +24,6 @@ Advances in computational power have allowed both greater fidelity and more exte
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

@@ -28,7 +28,7 @@ Fragmentation analysis is a critical piece of the live fire test and evaluation 
 > Couch, Mark, Thomas Johnson, John Haman, Kerry Walzl, Heather Wojton, Thomas Hatch-Aguilar, and David Higdon. Warhead Arena Analysis Advancements. IDA Document NS-D-11038. Alexandria, VA: Institute for Defense Analyses, 2021.
 
 #### Slides: 
-{{< pdfReader "out_slide.txt" >}}
+{{< pdfReader "slides.pdf" >}}
 
 
 

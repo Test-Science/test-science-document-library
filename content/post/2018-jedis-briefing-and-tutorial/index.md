@@ -24,6 +24,6 @@ Are you sick of having to manually iterate your way through sizing your design o
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

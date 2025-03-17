@@ -24,6 +24,6 @@ The fundamental purpose of test and evaluation (T&E) in the Department of Defens
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

@@ -48,6 +48,6 @@ Recommendations for how to test autonomous military systems can be sorted into f
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

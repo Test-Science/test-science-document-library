@@ -24,6 +24,6 @@ The purpose of this briefing is to provide a high-level overview of how to frame
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

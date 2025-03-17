@@ -22,7 +22,7 @@ In the test community, we frequently use statistics to extract meaning from data
 > Wojton, Heather M, Rebecca M Medlin, Kelly M Avery, and Stephanie T Lane. Statistics Bootcamp. IDA Document NS D-10565. Alexandria, VA: Institute for Defense Analyses, 2019.
 
 #### Slides: 
-{{< pdfReader "out_slide.txt" >}}
+{{< pdfReader "slides.pdf" >}}
 
 
 

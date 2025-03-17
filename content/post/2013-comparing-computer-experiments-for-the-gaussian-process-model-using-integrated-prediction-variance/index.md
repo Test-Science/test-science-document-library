@@ -24,6 +24,6 @@ Space-Filling Designs are a common choice of experimental design strategy for co
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

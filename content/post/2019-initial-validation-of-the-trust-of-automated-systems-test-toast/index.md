@@ -24,6 +24,6 @@ Trust is a key determinant of whether people rely on automated systems in the mi
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

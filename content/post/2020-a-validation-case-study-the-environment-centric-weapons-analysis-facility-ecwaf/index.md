@@ -22,7 +22,7 @@ Reliable modeling and simulation (M&S) allows the undersea warfare community to 
 > Bartis, Elliot, and Steven Rabinowitz. A Validation Case Study: The Environment Centric Weapons Analysis Facility (ECWAF). IDA Document NS D-12081. Alexandria, VA: Institute for Defense Analyses, 2020.
 
 #### Slides: 
-{{< pdfReader "out_slide.txt" >}}
+{{< pdfReader "slides.pdf" >}}
 
 
 

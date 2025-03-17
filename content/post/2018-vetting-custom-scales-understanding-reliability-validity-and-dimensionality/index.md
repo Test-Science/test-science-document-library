@@ -22,7 +22,7 @@ For situations in which an empirically vetted scale does not exist or is not sui
 > Wojton, Heather, and Stephanie Lane. Vetting Custom Scales - Understanding Reliability, Validity, and Dimensionality. IDA Non-Standard Document NS D-9168. Alexandria, VA: Institute for Defense Analyses, 2018.
 
 #### Slides: 
-{{< pdfReader "out_slide.txt" >}}
+{{< pdfReader "slides.pdf" >}}
 
 
 

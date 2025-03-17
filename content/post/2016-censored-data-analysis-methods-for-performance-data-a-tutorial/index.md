@@ -22,7 +22,7 @@ Binomial metrics like probability-to-detect or probability-to-hit typically do n
 > Lillard, V Bram. Censored Data Analysis Methods for Performance Data: A Tutorial. IDA Document NS D-5811. Alexandria, VA: Institute for Defense Analyses, 2016.
 
 #### Slides: 
-{{< pdfReader "out_slide.txt" >}}
+{{< pdfReader "slides.pdf" >}}
 
 
 

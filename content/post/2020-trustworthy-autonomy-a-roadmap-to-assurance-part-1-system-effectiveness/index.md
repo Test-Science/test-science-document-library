@@ -24,9 +24,9 @@ The framework proposed in the current work bridges the gap between the big pictu
 > Porter, Daniel, Michael McAnally, Chad Bieber, Heather Wojton, and Rebecca Medlin. Trustworthy Autonomy: A Roadmap to Assurance Part I: System Effectiveness. IDA Document P-10768-NS. Alexandria, VA: Institute for Defense Analyses, 2020.
 
 #### Slides: 
-{{< pdfReader "out_slide.txt" >}}
+{{< pdfReader "slides.pdf" >}}
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

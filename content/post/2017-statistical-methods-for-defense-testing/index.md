@@ -24,6 +24,6 @@ In the increasingly complex and data‐limited world of military defense testing
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

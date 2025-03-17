@@ -22,9 +22,9 @@ Reliability tests determine which factors drive system reliability. Often, the r
 > Johnson, Thomas H., Rebecca M. Medlin, and Laura Freeman. “Power Approximations for Failure-Time Regression Models.” Quality and Reliability Engineering International 35, no. 6 (2019): 1666–75. https://doi.org/10.1002/qre.2467.
 
 #### Slides: 
-{{< pdfReader "out_slide.txt" >}}
+{{< pdfReader "slides.pdf" >}}
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

@@ -24,6 +24,6 @@ This tutorial outlines the basic procedures for planning experiments within the 
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

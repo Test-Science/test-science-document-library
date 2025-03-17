@@ -22,7 +22,7 @@ To improve test planning for evaluating system reliability, we propose the use o
 > Medlin, Rebecca M. A Bayesian Assurance Case Study. IDA Document NS 3000024. Alexandria, VA: Institute for Defense Analyses, 2023.
 
 #### Slides: 
-{{< pdfReader "out_slide.txt" >}}
+{{< pdfReader "slides.pdf" >}}
 
 
 

@@ -24,7 +24,7 @@ This tutorial offers insight into the foundational concepts of method and practi
 > Medlin, Rebecca, Kristina Carter, Emily Fedele, and Daniel Hellmann. Introduction to Qualitative Methods. IDA Document NS D-21591. Alexandria, VA: Institute for Defense Analyses, 2021.
 
 #### Slides: 
-{{< pdfReader "out_slide.txt" >}}
+{{< pdfReader "slides.pdf" >}}
 
 
 

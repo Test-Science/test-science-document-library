@@ -24,7 +24,7 @@ The paper expands on DOT&E’s existing guidance about metamodel usage by creati
 > Haman, John T, and Curtis G Miller. Metamodeling Techniques for Verification and Validation of Modeling and Simulation Data. IDA Paper P-33230. Alexandria, VA: Institute for Defense Analyses, 2022.
 
 #### Slides: 
-{{< pdfReader "out_slide.txt" >}}
+{{< pdfReader "slides.pdf" >}}
 
 #### Paper: 
 {{< pdfReader "paper.pdf" >}}

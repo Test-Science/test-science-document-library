@@ -24,6 +24,6 @@ Engineers use reliability experiments to determine the factors that drive produc
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

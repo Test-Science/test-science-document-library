@@ -24,6 +24,6 @@ One of the most powerful features of Bayesian analyses is the ability to combine
 
 
 #### Paper: 
-{{< pdfReader "out_paper.txt" >}}
+{{< pdfReader "paper.pdf" >}}
 
 

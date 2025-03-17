@@ -4,6 +4,7 @@ title = 'Test Science Research Document Library'
 theme = ["PaperMod"]
 enableInlineShortcodes = true
 ShowBreadCrumbs = true
+
 copyright = "[© Institute for Defense Analyses](https://www.ida.org)"
 
 
@@ -16,6 +17,7 @@ copyright = "[© Institute for Defense Analyses](https://www.ida.org)"
         ShowFullTextinRSS = true
         hideMeta = false
         dateFormat = '2006'
+        ShowPostNavLinks = true
         [params.label]
         icon = "/testsci-logo.png"
         text = "Research Document Library"

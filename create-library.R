@@ -4,6 +4,9 @@ library(here)
 library(data.table)
 library(tools)
 
+setwd("/mnt/c/Users/jhaman/Documents/test-science-documents-library/")
+here::i_am("create-library.R")
+
 dat <- read_xlsx("./test-science-documents-library.xlsx")
 num_posts <- nrow(dat); print(c("Number of posts:", num_posts))
 

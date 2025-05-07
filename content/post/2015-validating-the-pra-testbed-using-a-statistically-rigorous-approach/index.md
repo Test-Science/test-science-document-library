@@ -23,6 +23,7 @@ For many systems, testing is expensive and only a few live test events are condu
 
 
 
-
+#### Paper: 
+{{< pdfReader "paper_PRA" >}}
 
 

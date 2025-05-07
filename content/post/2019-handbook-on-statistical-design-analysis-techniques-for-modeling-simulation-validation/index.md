@@ -1,5 +1,5 @@
 ---
-title: Handbook on Statistical Design & Analysis Techniques for Modeling & Simulation Validation
+title: Handbook on Statistical Design & Analysis Techniques for Modeling & Simulation Validation
 
 author: Heather Wojton, Kelly Avery, Laura Freeman, Samuel Parry, Gregory Whittier, Thomas Johnson, Andrew Flack
 date: 2019-01-01
